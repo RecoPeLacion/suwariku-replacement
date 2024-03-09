@@ -100,8 +100,8 @@ common effect
 	//slider
 
 	function warehouseDetailSlider() {
-		if($('.m-service-warehouse-detail-slider')[0]){
-			$('.m-service-warehouse-detail-slider').slick({
+		if($('.suwarikuServiceWarehouseDetailSlider')[0]){
+			$('.suwarikuServiceWarehouseDetailSlider').slick({
 				fade: true,
 				slidesToShow: true,
 				slidesToScroll:1,
@@ -115,7 +115,7 @@ common effect
 				autoplay: true,
 				autoplaySpeed: 2000,
 				speed: 500,
-				slide: '.m-service-warehouse-detail-slider__item',
+				slide: '.suwarikuServiceWarehouseDetailSlider__item',
 				// prevArrow: '<i class="m-icon-slide-prev">前へ</i>',
 				// nextArrow: '<i class="m-icon-slide-next">次へ</i>',
 				pauseOnHover: false,
@@ -134,8 +134,8 @@ common effect
 
 
 	function realestateDetailSlider() {
-		if($('.m-service-realestate-image')[0]){
-			$('.m-service-realestate-image').slick({
+		if($('.suwarikuServiceRealstateImg')[0]){
+			$('.suwarikuServiceRealstateImg').slick({
 				fade: true,
 				slidesToShow: true,
 				slidesToScroll:1,
@@ -149,7 +149,7 @@ common effect
 				autoplay: true,
 				autoplaySpeed: 2000,
 				speed: 500,
-				slide: '.m-service-realestate-image__item',
+				slide: '.suwarikuServiceRealstateImg__item',
 				// prevArrow: '<i class="m-icon-slide-prev">前へ</i>',
 				// nextArrow: '<i class="m-icon-slide-next">次へ</i>',
 				pauseOnHover: false,
@@ -168,8 +168,8 @@ common effect
 
 
 	function csrSlider() {
-		if($('.m-csr-slider')[0]){
-			$('.m-csr-slider').slick({
+		if($('.suwarikuCsrSlider')[0]){
+			$('.suwarikuCsrSlider').slick({
 				fade: true,
 				slidesToShow: true,
 				slidesToScroll:1,
@@ -183,7 +183,7 @@ common effect
 				autoplay: true,
 				autoplaySpeed: 2000,
 				speed: 1500,
-				slide: '.m-csr-slider__item',
+				slide: '.suwarikuCsrSlider__item',
 				// prevArrow: '<i class="m-icon-slide-prev">前へ</i>',
 				// nextArrow: '<i class="m-icon-slide-next">次へ</i>',
 				pauseOnHover: false,
@@ -202,8 +202,8 @@ common effect
 
 
 	function historySlider() {
-		if($('.m-history-present-slider')[0]){
-			$('.m-history-present-slider').slick({
+		if($('.suwarikuHistoryPresentSlider')[0]){
+			$('.suwarikuHistoryPresentSlider').slick({
 				fade: true,
 				slidesToShow: true,
 				slidesToScroll:1,
@@ -217,7 +217,7 @@ common effect
 				autoplay: true,
 				autoplaySpeed: 2500,
 				speed: 1500,
-				slide: '.m-history-present-slider__item',
+				slide: '.suwarikuHistoryPresentSlider__item',
 				// prevArrow: '<i class="m-icon-slide-prev">前へ</i>',
 				// nextArrow: '<i class="m-icon-slide-next">次へ</i>',
 				pauseOnHover: false,
@@ -238,32 +238,32 @@ common effect
 
 	//scroll anima
 	function historyAmina(){
-		if($('body').hasClass('t-history')){
+		if($('body').hasClass('suwarikuT_History')){
 			var scroll = $(window).scrollTop();
 
-			$('.js-history-item').each(function(i) {
+			$('.suwarikuJsHistoryItem').each(function(i) {
 				var item = $(this).offset().top - $(window).height() + 100;
 				if(scroll > item){
 					$(this).addClass('is-active');
 				}
 			});
 
-			var containerStart = $('.m-history-bg').offset().top - $('.suwarikuHeader').innerHeight() - 1;
-			var containerEnd = $('.l-container').innerHeight() + $('.suwarikuHeader').innerHeight() - $(window).height();
+			var containerStart = $('.suwarikuHistoryBg').offset().top - $('.suwarikuHeader').innerHeight() - 1;
+			var containerEnd = $('.suwarikuContainer').innerHeight() + $('.suwarikuHeader').innerHeight() - $(window).height();
 			if((scroll > containerStart) && (scroll < containerEnd)){
-				$('.m-history-nav').addClass('is-active');
+				$('.suwarikuHistoryNav').addClass('is-active');
 			}else{
-				$('.m-history-nav').removeClass('is-active');
+				$('.suwarikuHistoryNav').removeClass('is-active');
 			}
 
 			$('.m-history-block-item').each(function(i) {
 				var blockStart = $(this).offset().top - $('.suwarikuHeader').innerHeight() - 1;
 				var blockEnd = blockStart + $(this).innerHeight();
 				if((scroll > blockStart) && (scroll < blockEnd)){
-					$(this).find('.m-history-list-line--on').css({'height': scroll - blockStart});
-					$('.m-history-nav__item').eq(i).addClass('is-active');
+					$(this).find('.suwarikuHistoryListLine--on').css({'height': scroll - blockStart});
+					$('.suwarikuHistoryNav__item').eq(i).addClass('is-active');
 				}else{
-					$('.m-history-nav__item').eq(i).removeClass('is-active');
+					$('.suwarikuHistoryNav__item').eq(i).removeClass('is-active');
 				}
 			});
 
@@ -322,13 +322,13 @@ common effect
 
 	//scroll anima
 	function serviceAnima(){
-		if($('.js-service-anima')[0]){
+		if($('.suwarikuJsServiceAnima')[0]){
 			var scroll = $(window).scrollTop();
 
-			$('.js-service-anima').each(function(i) {
+			$('.suwarikuJsServiceAnima').each(function(i) {
 				var item = $(this).offset().top - $(window).height() + 200;
 				if(scroll > item){
-					$(this).find('.js-service-anima-item').each(function(i) {
+					$(this).find('.suwarikuJsServiceAnima-item').each(function(i) {
 						$(this).delay(i * 150).queue(function() {
 							$(this).addClass('is-active').dequeue();
 						});
@@ -362,7 +362,7 @@ heightLine * have to write last line
 --------------------------------------------------------------------------*/
 
 	function heightLineSet() {
-		$('.js-hline').matchHeight();
+		$('.suwarikuJsHLine').matchHeight();
 	}
 	addOnload(heightLineSet);
 
