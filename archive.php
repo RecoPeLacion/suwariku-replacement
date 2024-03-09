@@ -14,41 +14,41 @@
 
 get_header();
 ?>
-		<main class="l-container">
-			<div class="m-content-title">
-				<h1 class="m-content-title-text"><?php echo get_the_date( 'Y年' );?><span class="en">archive</span></h1>
+		<main class="suwarikuContainer">
+			<div class="suwarikuContentTitle">
+				<h1 class="suwarikuContentTitle-text"><?php echo get_the_date( 'Y年' );?><span class="en">archive</span></h1>
 			</div>
-			<div class="m-breadcrumb-wrap">
-				<ol class="m-breadcrumb">
-					<li class="m-breadcrumb__item"><a href="<?php bloginfo('url'); ?>">ホーム</a></li>
-					<li class="m-breadcrumb__item"><a href="<?php bloginfo('url'); ?>/information/">お知らせ</a></li>
-					<li class="m-breadcrumb__item"><?php echo get_the_date( 'Y年' );?></li>
+			<div class="suwarikuBreadcrumb-wrap">
+				<ol class="suwarikuBreadcrumb">
+					<li class="suwarikuBreadcrumb__item"><a href="<?php bloginfo('url'); ?>">ホーム</a></li>
+					<li class="suwarikuBreadcrumb__item"><a href="<?php bloginfo('url'); ?>/information/">お知らせ</a></li>
+					<li class="suwarikuBreadcrumb__item"><?php echo get_the_date( 'Y年' );?></li>
 				</ol>
 			</div>
 
 			<section>
-				<div class="l-inner-s m-pt-xl m-pb-3xl">
-					<div class="m-topics">
-						<div class="m-topics__content">
+				<div class="suwarikuInner-s suwarikuPtop-xl suwarikuPBtm-3xl">
+					<div class="suwarikuTopics">
+						<div class="suwarikuTopics__content">
 							<?php 
 							// the query
 							$wpb_all_query = new WP_Query(array('post_type'=>'post', 'post_status'=>'publish', 'year' => get_the_date('Y'), 'posts_per_page'=>20));
 							?>
 							<?php if ( $wpb_all_query->have_posts() ) : ?>
-							<div class="m-topics-archives">
+							<div class="suwarikuTopics-archives">
 								<!-- the loop -->
                                 <?php while ( $wpb_all_query->have_posts() ) : $wpb_all_query->the_post(); ?>
-								<div class="m-topics-archives-item">
-									<div class="m-topics-article-heading">
-										<h2 class="m-font-b m-text-28"><?php echo wp_trim_words( get_the_title(), 26 , '…' ); ?></h2>
+								<div class="suwarikuTopics-archives-item">
+									<div class="suwarikuTopics-article-heading">
+										<h2 class="suwarikuFontB suwarikuText-28"><?php echo wp_trim_words( get_the_title(), 26 , '…' ); ?></h2>
 									</div>
-									<div class="m-topics-date m-mt-s">
-										<time class="m-text-18" datetime="<?php echo get_the_date('Y-m-d'); ?>"><?php echo get_the_date('Y.m.d'); ?></time>
+									<div class="suwarikuTopics-date suwarikuMt-s">
+										<time class="suwarikuText-18" datetime="<?php echo get_the_date('Y-m-d'); ?>"><?php echo get_the_date('Y.m.d'); ?></time>
 									</div>
-									<div class="m-topics-article-body m-cms-body">
+									<div class="suwarikuTopics-article-body suwarikuCmsBody">
 									<?php echo wp_trim_words( get_the_content(), 40 , '…' );?>
 									</div>
-									<a href="<?php echo get_permalink( $id ); ?>" class="m-btn-secondary m-mt">本文を読む</a>
+									<a href="<?php echo get_permalink( $id ); ?>" class="Suwarikubtn-secondary suwarikuMt">本文を読む</a>
 								</div>
 								<?php endwhile; ?>
                                 <!-- end of the loop -->
@@ -59,11 +59,11 @@ get_header();
 								<?php endif; ?>
 							</div>
 						</div>
-						<aside class="m-topics__aside">
-							<dl class="m-topics-aside-item">
-								<dt class="m-topics-aside-item-title">最新記事</dt>
+						<aside class="suwarikuTopics__aside">
+							<dl class="suwarikuTopics-aside-item">
+								<dt class="suwarikuTopics-aside-item-title">最新記事</dt>
 								<dd>
-									<ul class="m-topics-aside-item-list">
+									<ul class="suwarikuTopics-aside-item-list">
 									<?php
 										$args = array(
 											'post_type' => 'post',
@@ -80,10 +80,10 @@ get_header();
 									</ul>
 								</dd>
 							</dl>
-							<dl class="m-topics-aside-item">
-								<dt class="m-topics-aside-item-title">アーカイブ</dt>
+							<dl class="suwarikuTopics-aside-item">
+								<dt class="suwarikuTopics-aside-item-title">アーカイブ</dt>
 								<dd>
-									<ul class="m-topics-aside-item-list">
+									<ul class="suwarikuTopics-aside-item-list">
 									<?php wp_get_archives( 'post_type=post&type=yearly' ); ?>
 									</ul>
 								</dd>
