@@ -14,29 +14,29 @@
 
 get_header();
 ?>
-		<main class="l-container">
-			<div class="m-content-title">
-				<h1 class="m-content-title-text">スワリクについて<span class="en">COMPANY</span></h1>
+		<main class="suwarikuContainer">
+			<div class="suwarikuContentTitle">
+				<h1 class="suwarikuContentTitle-text">スワリクについて<span class="en">COMPANY</span></h1>
 			</div>
-		<div class="m-breadcrumb-wrap">
-			<ol class="m-breadcrumb">
-				<li class="m-breadcrumb__item"><a href="<?php bloginfo('url'); ?>">ホーム</a></li>
-				<li class="m-breadcrumb__item">スワリクについて</li>
+		<div class="suwarikuBreadcrumb-wrap">
+			<ol class="suwarikuBreadcrumb">
+				<li class="suwarikuBreadcrumb__item"><a href="<?php bloginfo('url'); ?>">ホーム</a></li>
+				<li class="suwarikuBreadcrumb__item">スワリクについて</li>
 			</ol>
 		</div>
-			<div class="l-inner m-pt-xl">
-					<ul class="m-about-nav">
-            <li class="m-about-nav__item"><a href="<?php bloginfo('url'); ?>/about/">代表挨拶</a></li>
-            <li class="m-about-nav__item"><a href="<?php bloginfo('url'); ?>/about/company/" class="is-active">会社概要</a></li>
-            <li class="m-about-nav__item"><a href="<?php bloginfo('url'); ?>/about/philosophy/">経営理念</a></li>
-            <li class="m-about-nav__item"><a href="<?php bloginfo('url'); ?>/about/links/">リンク</a></li>
+			<div class="suwarikuInner suwarikuPtop-xl">
+					<ul class="suwarikuAboutNav">
+            <li class="suwarikuAboutNav__item"><a href="<?php bloginfo('url'); ?>/about/">代表挨拶</a></li>
+            <li class="suwarikuAboutNav__item"><a href="<?php bloginfo('url'); ?>/about/company/" class="is-active">会社概要</a></li>
+            <li class="suwarikuAboutNav__item"><a href="<?php bloginfo('url'); ?>/about/philosophy/">経営理念</a></li>
+            <li class="suwarikuAboutNav__item"><a href="<?php bloginfo('url'); ?>/about/links/">リンク</a></li>
 					</ul>
 			</div>
 
       <section>
-        <div class="l-inner m-pt-xl m-pb-xl">
-          <h2 class="m-line-title"><span class="title">会社概要</span></h2>
-          <table class="m-tbl m-mt-xl m-text-16">
+        <div class="suwarikuInner suwarikuPtop-xl suwarikuPBtm-xl">
+          <h2 class="suwarikuLineTitle"><span class="title">会社概要</span></h2>
+          <table class="suwarikuTbl suwarikuMt-xl suwarikuText-16">
             <tr>
               <th>名称</th>
               <td>株式会社スワリク</td>
@@ -90,21 +90,21 @@ get_header();
               <td>長野銀行/八十二銀行/三井住友銀行</td>
             </tr>
           </table>
-          <ul class="m-about-outline-bnrs m-mt-xl">
-            <li class="m-about-outline-bnrs__item"><a href="https://www.naganota.or.jp/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/resources/images/about/outline/nagano_track_organization_logo.svg" width="368" height="148" alt="公益社団法人長野県トラック協会"></a></li>
-            <li class="m-about-outline-bnrs__item"><a href="http://www.suwa-truck.com/navigation.html" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/resources/images/about/outline/suwa_track_logo.svg" width="368" height="148" alt="諏訪トラック協同組合"></a></li>
-            <li class="m-about-outline-bnrs__item"><a href="https://www.3pl.or.jp/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/resources/images/about/outline/3pl_logo.svg" width="368" height="148" alt="一般社団法人日本3PL協会"></a></li>
+          <ul class="suwarikuAboutOutlineBnrs suwarikuMt-xl">
+            <li class="suwarikuAboutOutlineBnrs__item"><a href="https://www.naganota.or.jp/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/resources/images/about/outline/nagano_track_organization_logo.svg" width="368" height="148" alt="公益社団法人長野県トラック協会"></a></li>
+            <li class="suwarikuAboutOutlineBnrs__item"><a href="http://www.suwa-truck.com/navigation.html" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/resources/images/about/outline/suwa_track_logo.svg" width="368" height="148" alt="諏訪トラック協同組合"></a></li>
+            <li class="suwarikuAboutOutlineBnrs__item"><a href="https://www.3pl.or.jp/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/resources/images/about/outline/3pl_logo.svg" width="368" height="148" alt="一般社団法人日本3PL協会"></a></li>
 
           </ul>
         </div>
       </section>
 
-      <div class="l-inner m-pt-xl">
-          <ul class="m-about-nav">
-            <li class="m-about-nav__item"><a href="<?php bloginfo('url'); ?>/about/">代表挨拶</a></li>
-            <li class="m-about-nav__item"><a href="<?php bloginfo('url'); ?>/about/company/" class="is-active">会社概要</a></li>
-            <li class="m-about-nav__item"><a href="<?php bloginfo('url'); ?>/about/philosophy/">経営理念</a></li>
-            <li class="m-about-nav__item"><a href="<?php bloginfo('url'); ?>/about/links/">リンク</a></li>
+      <div class="suwarikuInner suwarikuPtop-xl">
+          <ul class="suwarikuAboutNav">
+            <li class="suwarikuAboutNav__item"><a href="<?php bloginfo('url'); ?>/about/">代表挨拶</a></li>
+            <li class="suwarikuAboutNav__item"><a href="<?php bloginfo('url'); ?>/about/company/" class="is-active">会社概要</a></li>
+            <li class="suwarikuAboutNav__item"><a href="<?php bloginfo('url'); ?>/about/philosophy/">経営理念</a></li>
+            <li class="suwarikuAboutNav__item"><a href="<?php bloginfo('url'); ?>/about/links/">リンク</a></li>
           </ul>
       </div>
 
