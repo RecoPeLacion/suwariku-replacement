@@ -14,26 +14,26 @@
 
 get_header();
 ?>
-<main class="s-container">
-	<div class="m-content-title">
-		<h1 class="m-content-title-text">プライバシーポリシー<span class="en">PRIVACY POLICY</span></h1>
+<main class="suwarikuSContainer">
+	<div class="suwarikuContentTitle">
+		<h1 class="suwarikuContentTitle-text">プライバシーポリシー<span class="en">PRIVACY POLICY</span></h1>
 	</div>
-<div class="m-breadcrumb-wrap">
-	<ol class="m-breadcrumb">
-		<li class="m-breadcrumb__item"><a href="<?php bloginfo('url'); ?>">ホーム</a></li>
-		<li class="m-breadcrumb__item">プライバシーポリシー</li>
+<div class="suwarikuBreadcrumb-wrap">
+	<ol class="suwarikuBreadcrumb">
+		<li class="suwarikuBreadcrumb__item"><a href="<?php bloginfo('url'); ?>">ホーム</a></li>
+		<li class="suwarikuBreadcrumb__item">プライバシーポリシー</li>
 	</ol>
 </div>
 
 <section>
-	<div class="l-inner m-pt-xl m-pb-3xl">
-		<div class="privacy-policy-main-discribe">
-			<p class="m-text-18 m-align-c">株式会社スワリク（以下、「当社」といいます。）は、<br>
+	<div class="suwarikuInner suwarikuPtop-xl suwarikuPBtm-3xl">
+		<div class="suwarikuPrivacyPolicyMainDescribe">
+			<p class="suwarikuText-18 suwarikuAlignC">株式会社スワリク（以下、「当社」といいます。）は、<br>
 本ウェブサイト上で提供するサービス（以下、「本サービス」といいます。）における、<br>
 ユーザーの個人情報の取扱いについて、以下のとおり<br>
 プライバシーポリシー（以下、「本ポリシー」といいます。）を定めます。</p>
 		</div>
-		<div class="privacy-policy-main-discribe-text">
+		<div class="suwarikuPrivacyPolicyMainDescribe-text">
 			<dl>
 				<dt>第1条（個人情報）</dt>
 				<dd>「個人情報」とは、個人情報保護法にいう「個人情報」を指すものとし、生存する個人に関する情報であって、当該情報に含まれる氏名、生年月日、住所、電話番号、連絡先その他の記述等により特定の個人を識別できる情報及び容貌、指紋、声紋にかかるデータ、及び健康保険証の保険者番号などの当該情報単体から特定の個人を識別できる情報（個人識別情報）を指します。</dd>
