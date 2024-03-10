@@ -368,7 +368,7 @@ input[type="checkbox"], input[type="radio"] {
  * decrement button to change from `default` to `text`.
  */
 
-input[type="number"]::-webkit-inner-spin-button, input[type="number"]::-webkit-outer-spin-button {
+input[type="number"]::-webkit-innerspin-button, input[type="number"]::-webkit-outer-spin-button {
   height: auto;
 }
 
@@ -568,171 +568,171 @@ Module CSS
 
 /* text */
 
-.suwarikuText-10 {
+.suwarikuText10 {
   font-size: 1.0rem;
   line-height: 1.875;
 }
 
-.suwarikuText-11 {
+.suwarikuText11 {
   font-size: 1.1rem;
   line-height: 1.875;
 }
 
-.suwarikuText-12 {
+.suwarikuText12 {
   font-size: 1.2rem;
   line-height: 1.875;
 }
 
-.suwarikuText-13 {
+.suwarikuText13 {
   font-size: 1.3rem;
   line-height: 1.875;
 }
 
-.suwarikuText-14 {
+.suwarikuText14 {
   font-size: 1.4rem;
   line-height: 1.875;
 }
 
-.suwarikuText-15 {
+.suwarikuText15 {
   font-size: 1.5rem;
   line-height: 1.875;
 }
 
-.suwarikuText-16 {
+.suwarikuText16 {
   font-size: 1.6rem;
   line-height: 1.875;
 }
 
-.suwarikuText-17 {
+.suwarikuText17 {
   font-size: 1.7rem;
   line-height: 1.5;
 }
 
-.suwarikuText-18 {
+.suwarikuText18 {
   font-size: 1.8rem;
   line-height: 1.5;
 }
 
-.suwarikuText-19 {
+.suwarikuText19 {
   font-size: 1.9rem;
   line-height: 1.5;
 }
 
-.suwarikuText-20 {
+.suwarikuText20 {
   font-size: 2.0rem;
   line-height: 1.5;
 }
 
-.suwarikuText-21 {
+.suwarikuText21 {
   font-size: 2.1rem;
   line-height: 1.5;
 }
 
-.suwarikuText-22 {
+.suwarikuText22 {
   font-size: 2.2rem;
   line-height: 1.5;
 }
 
-.suwarikuText-23 {
+.suwarikuText23 {
   font-size: 2.3rem;
   line-height: 1.5;
 }
 
-.suwarikuText-24 {
+.suwarikuText24 {
   font-size: 2.4rem;
   line-height: 1.4;
 }
 
-.suwarikuText-25 {
+.suwarikuText25 {
   font-size: 2.5rem;
   line-height: 1.4;
 }
 
-.suwarikuText-26 {
+.suwarikuText26 {
   font-size: 2.6rem;
   line-height: 1.4;
 }
 
-.suwarikuText-27 {
+.suwarikuText27 {
   font-size: 2.7rem;
   line-height: 1.4;
 }
 
-.suwarikuText-28 {
+.suwarikuText28 {
   font-size: 2.8rem;
   line-height: 1.4;
 }
 
-.suwarikuText-30 {
+.suwarikuText30 {
   font-size: 3.0rem;
   line-height: 1.4;
 }
 
-.suwarikuText-31 {
+.suwarikuText31 {
   font-size: 3.1rem;
   line-height: 1.4;
 }
 
-.suwarikuText-32 {
+.suwarikuText32 {
   font-size: 3.2rem;
   line-height: 1.2;
 }
 
-.suwarikuText-34 {
+.suwarikuText34 {
   font-size: 3.4rem;
   line-height: 1.2;
 }
 
-.suwarikuText-35 {
+.suwarikuText35 {
   font-size: 3.5rem;
   line-height: 1.2;
 }
 
-.suwarikuText-36 {
+.suwarikuText36 {
   font-size: 3.6rem;
   line-height: 1.2;
 }
 
-.suwarikuText-37 {
+.suwarikuText37 {
   font-size: 3.7rem;
   line-height: 1.2;
 }
 
-.suwarikuText-38 {
+.suwarikuText38 {
   font-size: 3.8rem;
   line-height: 1.2;
 }
 
-.suwarikuText-40 {
+.suwarikuText40 {
   font-size: 4.0rem;
   line-height: 1.2;
 }
 
-.suwarikuText-42 {
+.suwarikuText42 {
   font-size: 4.2rem;
   line-height: 1.2;
 }
 
-.suwarikuText-44 {
+.suwarikuText44 {
   font-size: 4.4rem;
   line-height: 1.2;
 }
 
-.suwarikuText-46 {
+.suwarikuText46 {
   font-size: 4.6rem;
   line-height: 1.2;
 }
 
-.suwarikuText-48 {
+.suwarikuText48 {
   font-size: 4.8rem;
   line-height: 1.2;
 }
 
-.suwarikuText-lh-l {
+.suwarikuTextlhl {
   line-height: 2;
 }
 
-.suwarikuText-lh-s {
+.suwarikuTextlhs {
   line-height: 1.5;
 }
 
@@ -748,7 +748,7 @@ Module CSS
   letter-spacing: 0.2em;
 }
 
-.suwarikuText-ind {
+.suwarikuTextind {
   text-indent: 1em;
 }
 
@@ -770,11 +770,11 @@ Module CSS
   font-weight: 700;
 }
 
-.suwarikuColor-default {
+.suwarikuColorDefault {
   color: #1e1e1e;
 }
 
-.suwarikuColor-default a {
+.suwarikuColorDefault a {
   color: #1e1e1e;
 }
 
@@ -786,35 +786,35 @@ Module CSS
   color: #ffffff;
 }
 
-.suwarikuColor-yl {
+.suwarikuColorYellow {
   color: #d6b762;
 }
 
-.suwarikuColor-yl a {
+.suwarikuColorYellow a {
   color: #d6b762;
 }
 
-.suwarikuColor-nv {
+.suwarikuColorNavy {
   color: #021F49;
 }
 
-.suwarikuColor-nv a {
+.suwarikuColorNavy a {
   color: #021F49;
 }
 
-.suwarikuColor-gy {
+.suwarikuColorGray {
   color: #808080;
 }
 
-.suwarikuColor-gy a {
+.suwarikuColorGray a {
   color: #808080;
 }
 
-.suwarikuColor-red, .error, .suwariku-attention {
+.suwarikuColorRed, .error, .suwarikuAttention {
   color: #cc0000;
 }
 
-.suwarikuColor-red a, .error a, .suwariku-attention a {
+.suwarikuColorRed a, .error a, .suwarikuAttention a {
   color: #cc0000;
 }
 
@@ -854,17 +854,17 @@ Module CSS
 
 /* display */
 
-.suwariku-cf {
+.suwarikuCf {
   zoom: 1;
 }
 
-.suwariku-cf:after {
+.suwarikuCf:after {
   content: "";
   display: table;
   clear: both;
 }
 
-.suwariku-dis-n {
+.suwarikuDisplayNone {
   display: none;
 }
 
@@ -872,47 +872,47 @@ Module CSS
   display: block;
 }
 
-.suwariku-dis-ib {
+.suwarikuDisplayInlineBlock {
   display: inline-block;
 }
 
-.suwariku-dis-i {
+.suwarikuDisplayInline {
   display: inline;
 }
 
-.suwariku-ov-h {
+.suwarikuOverflowHide {
   overflow: hidden;
 }
 
-.suwariku-d-tbl {
+.suwarikuDisplayTable {
   display: table;
   width: 100%;
 }
 
-.suwariku-d-tbl__cell {
+.suwarikuDisplayTableCell {
   display: table-cell;
 }
 
-.suwariku-nowrap {
+.suwarikuNoWrap {
   white-space: nowrap;
 }
 
-.suwariku-radius {
+.suwarikuRadius {
   border-radius: 50%;
 }
 
 
 /* float */
 
-.suwariku-fl-l {
+.suwarikuFloatLeft {
   float: left;
 }
 
-.suwariku-fl-r {
+.suwarikuFloatRight {
   float: right;
 }
 
-.suwariku-hr {
+.suwarikuHr {
   height: 1px;
   background-color: #cccccc;
   border: 0;
@@ -921,102 +921,102 @@ Module CSS
 
 /* align */
 
-.suwarikuAlignC {
+.suwarikuAlignCenter {
   text-align: center;
 }
 
-.suwariku-align-l {
+.suwarikuAlignLeft {
   text-align: left;
 }
 
-.suwariku-align-r {
+.suwarikuAlignRight {
   text-align: right;
 }
 
-.suwariku-valign-t {
+.suwarikuVerticalAlignTop {
   vertical-align: top;
 }
 
-.suwariku-valign-m {
+.suwarikuVerticalAlignMiddle {
   vertical-align: middle;
 }
 
-.suwariku-valign-b {
+.suwarikuVerticalAlignBottom {
   vertical-align: bottom;
 }
 
 
 /* margin */
 
-.suwarikuMt-2xs {
+.suwarikuMt2xs {
   margin-top: 5px;
 }
 
-.suwarikuMt-xs {
+.suwarikuMtxs {
   margin-top: 10px;
 }
 
-.suwarikuMt-s {
+.suwarikuMts {
   margin-top: 20px;
 }
 
-.suwarikuMt {
+.suwarikuMt{
   margin-top: 30px;
 }
 
-.suwarikuMt-l {
+.suwarikuMtl {
   margin-top: 40px;
 }
 
-.suwarikuMt-xl {
+.suwarikuMtxl {
   margin-top: 60px;
 }
 
-.suwarikuMt-2xl {
+.suwarikuMt2xl {
   margin-top: 80px;
 }
 
-.suwarikuMt-3xl {
+.suwarikuMt3xl {
   margin-top: 100px;
 }
 
-.suwarikuMt-4xl {
+.suwarikuMt4xl {
   margin-top: 120px;
 }
 
-.suwarikuMbtm-2xs {
+.suwarikuMbtm2xs {
   margin-bottom: 5px;
 }
 
-.suwarikuMbtm-xs {
+.suwarikuMbtmxs {
   margin-bottom: 10px;
 }
 
-.suwarikuMbtm-s {
+.suwarikuMbtms {
   margin-bottom: 20px;
 }
 
-.suwarikuMbtm {
+.suwarikuMbtm{
   margin-bottom: 30px;
 }
 
-.suwarikuMbtm-l {
+.suwarikuMbtml {
   margin-bottom: 40px;
 }
 
-.suwarikuMbtm-xl {
+.suwarikuMbtmxl {
   margin-bottom: 60px;
 }
 
-.suwarikuMbtm-2xl {
+.suwarikuMbtm2xl {
   margin-bottom: 80px;
 }
 
-.suwarikuMbtm-3xl {
+.suwarikuMbtm3xl {
   margin-bottom: 100px;
 }
 
-.suwarikuMbtm-4xl {
+.suwarikuMbtm4xl {
   margin-bottom: 120px;
 }
 
@@ -1031,83 +1031,83 @@ Module CSS
 
 /* padding */
 
-.suwarikuPtop-2xs {
+.suwarikuPtop2xs {
   padding-top: 5px;
 }
 
-.suwarikuPtop-xs {
+.suwarikuPtopxs {
   padding-top: 10px;
 }
 
-.suwarikuPtop-s {
+.suwarikuPtops {
   padding-top: 20px;
 }
 
-.suwarikuPtop {
+.suwarikuPtop{
   padding-top: 30px;
 }
 
-.suwarikuPtop-l {
+.suwarikuPtopl {
   padding-top: 40px;
 }
 
-.suwarikuPtop-xl {
+.suwarikuPtopxl {
   padding-top: 60px;
 }
 
-.suwarikuPtop-2xl {
+.suwarikuPtop2xl {
   padding-top: 80px;
 }
 
-.suwarikuPtop-3xl {
+.suwarikuPtop3xl {
   padding-top: 100px;
 }
 
-.suwarikuPtop-4xl {
+.suwarikuPtop4xl {
   padding-top: 120px;
 }
 
-.suwarikuPBtm-2xs {
+.suwarikuPBtm2xs {
   padding-bottom: 5px;
 }
 
-.suwarikuPBtm-xs {
+.suwarikuPBtmxs {
   padding-bottom: 10px;
 }
 
-.suwarikuPBtm-s {
+.suwarikuPBtms {
   padding-bottom: 20px;
 }
 
-.suwarikuPBtm {
+.suwarikuPBtm{
   padding-bottom: 30px;
 }
 
-.suwarikuPBtm-l {
+.suwarikuPBtml {
   padding-bottom: 40px;
 }
 
-.suwarikuPBtm-xl {
+.suwarikuPBtmxl {
   padding-bottom: 60px;
 }
 
-.suwarikuPBtm-2xl {
+.suwarikuPBtm2xl {
   padding-bottom: 80px;
 }
 
-.suwarikuPBtm-3xl {
+.suwarikuPBtm3xl {
   padding-bottom: 100px;
 }
 
-.suwarikuPBtm-4xl {
+.suwarikuPBtm4xl {
   padding-bottom: 120px;
 }
 
-.suwarikuPad-xs {
+.suwarikuPadxs {
   padding: 10px;
 }
 
-.suwarikuPad-s {
+.suwarikuPads {
   padding: 20px;
 }
 
@@ -1115,23 +1115,23 @@ Module CSS
   padding: 30px;
 }
 
-.suwarikuPad-l {
+.suwarikuPadl {
   padding: 40px;
 }
 
-.suwarikuPad-xl {
+.suwarikuPadxl {
   padding: 60px;
 }
 
 
 /* list */
 
-.suwariku-list-dot>li {
+.suwarikuListDot>li {
   position: relative;
   padding-left: 1em;
 }
 
-.suwariku-list-dot>li:before {
+.suwarikuListDot>li:before {
   content: "・";
   position: absolute;
   left: 0;
@@ -1139,33 +1139,33 @@ Module CSS
   color: #d6b762;
 }
 
-.suwariku-list-cir>li {
+.suwarikuListCir>li {
   position: relative;
 }
 
-.suwariku-list-cir>li:before {
+.suwarikuListCir>li:before {
   content: "●";
 }
 
-.suwariku-list-square>li {
+.suwarikuListSquare>li {
   position: relative;
 }
 
-.suwariku-list-square>li:before {
+.suwarikuListSquare>li:before {
   content: "■";
 }
 
-.suwariku-list-decimal {
+.suwarikuListDecimal {
   list-style: decimal;
   margin-left: 1.5em;
 }
 
-.suwariku-list-ar>li {
+.suwarikuListAr>li {
   position: relative;
   padding-left: 20px;
 }
 
-.suwariku-list-ar>li:before {
+.suwarikuListAr>li:before {
   content: "";
   border-left: solid 8px #021F49;
   border-top: solid 5px transparent;
@@ -1194,7 +1194,7 @@ Module CSS
   clear: both;
 }
 
-.suwarikuInner-xs, .suwarikuInner-s, .suwarikuInner, .suwarikuInner-l {
+.suwarikuInnerxs, .suwarikuInners, .suwarikuInner, .suwarikuInnerl {
   zoom: 1;
   position: relative;
   margin-left: auto;
@@ -1203,17 +1203,17 @@ Module CSS
   padding-right: 80px;
 }
 
-.suwarikuInner-xs:after, .suwarikuInner-s:after, .suwarikuInner:after, .suwarikuInner-l:after {
+.suwarikuInnerxs:after, .suwarikuInners:after, .suwarikuInner:after, .suwarikuInnerl:after {
   content: "";
   display: table;
   clear: both;
 }
 
-.suwarikuInner-xs {
+.suwarikuInnerxs {
   max-width: 1000px;
 }
 
-.suwarikuInner-s {
+.suwarikuInners {
   max-width: 1160px;
 }
 
@@ -1221,37 +1221,37 @@ Module CSS
   max-width: 1360px;
 }
 
-.suwarikuInner-l {
+.suwarikuInnerl {
   max-width: 1460px;
 }
 
 
 /* border */
 
-.suwariku-bor {
+.suwarikuBor {
   border: solid 1px #cccccc;
 }
 
-.suwariku-bor--light {
+.suwarikuBorLight {
   border-color: #dce1e8;
 }
 
 
 /* bg */
 
-.suwariku-bg-wh {
+.suwarikuBgWhite {
   background-color: #ffffff;
 }
 
-.suwariku-bg-lbl {
+.suwarikuBgLbl {
   background-color: #f5f6f8;
 }
 
-.suwariku-bg-gy {
+.suwarikuBgGray {
   background-color: #f4f4f4;
 }
 
-.suwariku-bg-texture {
+.suwarikuBgTexture {
   background-image: url("../images/common/bg-texture.png");
   background-size: 256px;
 }
@@ -1265,7 +1265,7 @@ Module CSS
 
 /* btn */
 
-button.Suwarikubtn, input.Suwarikubtn, a.Suwarikubtn, .Suwarikubtn {
+button.suwarikuButton, input.suwarikuButton, a.suwarikuButton, .suwarikuButton {
   position: relative;
   display: block;
   height: 70px;
@@ -1285,35 +1285,35 @@ button.Suwarikubtn, input.Suwarikubtn, a.Suwarikubtn, .Suwarikubtn {
   color: #ffffff;
 }
 
-button.Suwarikubtn:hover, input.Suwarikubtn:hover, a.Suwarikubtn:hover, .Suwarikubtn:hover {
+button.suwarikuButton:hover, input.suwarikuButton:hover, a.suwarikuButton:hover, .suwarikuButton:hover {
   background-color: #ffffff;
   color: #021F49;
   text-decoration: none;
 }
 
-button.Suwarikubtn--left, input.Suwarikubtn--left, a.Suwarikubtn--left, .Suwarikubtn--left {
+button.suwarikuButtonLeft, input.suwarikuButtonLeft, a.suwarikuButtonLeft, .suwarikuButtonLeft {
   margin-left: 0;
   margin-right: 0;
 }
 
-button.Suwarikubtn--l, input.Suwarikubtn--l, a.Suwarikubtn--l, .Suwarikubtn--l {
+button.suwarikuButtonWidth368, input.suwarikuButtonWidth368, a.suwarikuButtonWidth368, .suwarikuButtonWidth368 {
   width: 368px;
 }
 
-button.Suwarikubtn--wa, input.Suwarikubtn--wa, a.Suwarikubtn--wa, .Suwarikubtn--wa {
+button.suwarikuButtonWidthFull, input.suwarikuButtonWidthFull, a.suwarikuButtonWidthFull, .suwarikuButtonWidthFull {
   width: 100%;
 }
 
-button.Suwarikubtn--center, input.Suwarikubtn--center, a.Suwarikubtn--center, .Suwarikubtn--center {
+button.suwarikuButtonCenter, input.suwarikuButtonCenter, a.suwarikuButtonCenter, .suwarikuButtonCenter {
   margin-left: auto;
   margin-right: auto;
 }
 
-button.Suwarikubtn--ye, input.Suwarikubtn--ye, a.Suwarikubtn--ye, .Suwarikubtn--ye {
+button.suwarikuButtonYellow, input.suwarikuButtonYellow, a.suwarikuButtonYellow, .suwarikuButtonYellow {
   background-color: #d6b762;
 }
 
-button.Suwarikubtn--blank:before, input.Suwarikubtn--blank:before, a.Suwarikubtn--blank:before, .Suwarikubtn--blank:before {
+button.suwarikuButtonBlank:before, input.suwarikuButtonBlank:before, a.suwarikuButtonBlank:before, .suwarikuButtonBlank:before {
   content: "";
   width: 12px;
   height: 12px;
@@ -1327,7 +1327,7 @@ button.Suwarikubtn--blank:before, input.Suwarikubtn--blank:before, a.Suwarikubtn
   transform: translateY(-50%);
 }
 
-button.Suwarikubtn-secondary, input.Suwarikubtn-secondary, a.Suwarikubtn-secondary, .Suwarikubtn-secondary {
+button.suwarikuButtonSecondary, input.suwarikuButtonSecondary, a.suwarikuButtonSecondary, .suwarikuButtonSecondary {
   position: relative;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1350,14 +1350,14 @@ button.Suwarikubtn-secondary, input.Suwarikubtn-secondary, a.Suwarikubtn-seconda
   transition: .3s;
 }
 
-button.Suwarikubtn-secondary:hover, input.Suwarikubtn-secondary:hover, a.Suwarikubtn-secondary:hover, .Suwarikubtn-secondary:hover {
+button.suwarikuButtonSecondary:hover, input.suwarikuButtonSecondary:hover, a.suwarikuButtonSecondary:hover, .suwarikuButtonSecondary:hover {
   background-color: #021F49;
   border-color: #021F49;
   color: #ffffff;
   text-decoration: none;
 }
 
-button.Suwarikubtn-secondary:before, input.Suwarikubtn-secondary:before, a.Suwarikubtn-secondary:before, .Suwarikubtn-secondary:before {
+button.suwarikuButtonSecondary:before, input.suwarikuButtonSecondary:before, a.suwarikuButtonSecondary:before, .suwarikuButtonSecondary:before {
   position: absolute;
   content: "";
   top: 50%;
@@ -1371,7 +1371,7 @@ button.Suwarikubtn-secondary:before, input.Suwarikubtn-secondary:before, a.Suwar
   transform: translateY(-50%);
 }
 
-button.Suwarikubtn-secondary--back:before, input.Suwarikubtn-secondary--back:before, a.Suwarikubtn-secondary--back:before, .Suwarikubtn-secondary--back:before {
+button.suwarikuButtonSecondaryBack:before, input.suwarikuButtonSecondaryBack:before, a.suwarikuButtonSecondaryBack:before, .suwarikuButtonSecondaryBack:before {
   right: auto;
   left: 20px;
   -webkit-transform: translateY(-50%) rotate(180deg);
@@ -1379,16 +1379,16 @@ button.Suwarikubtn-secondary--back:before, input.Suwarikubtn-secondary--back:bef
   transform: translateY(-50%) rotate(180deg);
 }
 
-button.Suwarikubtn-secondary--center, input.Suwarikubtn-secondary--center, a.Suwarikubtn-secondary--center, .Suwarikubtn-secondary--center {
+button.suwarikuButtonSecondaryCenter, input.suwarikuButtonSecondaryCenter, a.suwarikuButtonSecondaryCenter, .suwarikuButtonSecondaryCenter {
   margin-left: auto;
   margin-right: auto;
 }
 
-button.Suwarikubtn-secondary--wa, input.Suwarikubtn-secondary--wa, a.Suwarikubtn-secondary--wa, .Suwarikubtn-secondary--wa {
+button.suwarikuButtonSecondaryWidthAuto, input.suwarikuButtonSecondaryWidthAuto, a.suwarikuButtonSecondaryWidthAuto, .suwarikuButtonSecondaryWidthAuto {
   width: auto;
 }
 
-button.Suwarikubtn-secondary--back:before, input.Suwarikubtn-secondary--back:before, a.Suwarikubtn-secondary--back:before, .Suwarikubtn-secondary--back:before {
+button.suwarikuButtonSecondaryBack:before, input.suwarikuButtonSecondaryBack:before, a.suwarikuButtonSecondaryBack:before, .suwarikuButtonSecondaryBack:before {
   right: auto;
   left: 20px;
   -webkit-transform: translateY(-50%) rotate(180deg);
@@ -1399,7 +1399,7 @@ button.Suwarikubtn-secondary--back:before, input.Suwarikubtn-secondary--back:bef
 
 /* icon */
 
-.suwariku-icon {
+.suwarikuIcon {
   display: inline-block;
   vertical-align: middle;
   margin-right: .5em;
@@ -1409,7 +1409,7 @@ button.Suwarikubtn-secondary--back:before, input.Suwarikubtn-secondary--back:bef
 
 /* breadcrumb */
 
-.suwarikuBreadcrumb-wrap {
+.suwarikuBreadcrumbWrap {
   max-width: 1600px;
   margin-left: auto;
   margin-right: auto;
@@ -1425,7 +1425,7 @@ button.Suwarikubtn-secondary--back:before, input.Suwarikubtn-secondary--back:bef
   overflow: hidden;
 }
 
-.suwarikuBreadcrumb__item {
+.suwarikuBreadcrumbItem {
   position: relative;
   padding-right: 3em;
   -ms-flex-negative: 0;
@@ -1433,7 +1433,7 @@ button.Suwarikubtn-secondary--back:before, input.Suwarikubtn-secondary--back:bef
   font-size: 1.3rem;
 }
 
-.suwarikuBreadcrumb__item:before {
+.suwarikuBreadcrumbItem:before {
   content: "＞";
   position: absolute;
   right: 1em;
@@ -1441,23 +1441,23 @@ button.Suwarikubtn-secondary--back:before, input.Suwarikubtn-secondary--back:bef
   font-size: 1.3rem;
 }
 
-.suwarikuBreadcrumb__item:last-child:before {
+.suwarikuBreadcrumbItem:last-child:before {
   display: none;
 }
 
-.suwarikuBreadcrumb__item a {
+.suwarikuBreadcrumbItem a {
   color: #005585;
   text-decoration: underline;
 }
 
-.suwarikuBreadcrumb__item a:hover {
+.suwarikuBreadcrumbItem a:hover {
   text-decoration: none;
 }
 
 
 /* form */
 
-input[type="text"].suwarikuInputText, input[type="email"].suwarikuInputText, textarea.suwarikuTextarea {
+input[type="text"].suwarikuInputText, input[type="email"].suwarikuInputText, textarea.suwarikuTextrea {
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
@@ -1490,15 +1490,15 @@ input[type="text"].suwarikuInputTel {
   font-size: 1.8rem;
 }
 
-input[type="text"].suwarikuInputText:focus, textarea.suwarikuTextarea:focus {
+input[type="text"].suwarikuInputText:focus, textarea.suwarikuTextrea:focus {
   background-color: #f5f6f8;
 }
 
-input[type="text"].suwarikuInputText--m, textarea.suwarikuTextarea--m {
+input[type="text"].suwarikuInputText50, textarea.suwarikuTextrea--m {
   width: 50%;
 }
 
-textarea.suwarikuTextarea {
+textarea.suwarikuTextrea {
   resize: none;
   line-height: 1.875;
 }
@@ -2071,7 +2071,7 @@ video {
   fill: #ffffff;
 }
 
-.suwarikuHome .suwarikuHeadernav-list__item a {
+.suwarikuHome .suwarikuHeaderNavListItem a {
   color: #ffffff;
 }
 
@@ -2087,7 +2087,7 @@ video {
   fill: #000;
 }
 
-.suwarikuHome .suwarikuHeader.is-scrolled .suwarikuHeadernav-list__item a {
+.suwarikuHome .suwarikuHeader.is-scrolled .suwarikuHeaderNavListItem a {
   color: #1e1e1e;
 }
 
@@ -2144,25 +2144,25 @@ header
   display: none;
 }
 
-.suwarikuHeadernav-list {
+.suwarikuHeaderNavList {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   padding-bottom: 15px;
 }
 
-.suwarikuHeadernav-list__item {
+.suwarikuHeaderNavListItem {
   position: relative;
   font-size: 1.6rem;
   font-weight: 700;
 }
 
-.suwarikuHeadernav-list__item+.suwarikuHeadernav-list__item {
+.suwarikuHeaderNavListItem+.suwarikuHeaderNavListItem {
   margin-left: 30px;
   padding-left: 30px;
 }
 
-.suwarikuHeadernav-list__item+.suwarikuHeadernav-list__item:before {
+.suwarikuHeaderNavListItem+.suwarikuHeaderNavListItem:before {
   position: absolute;
   content: "";
   left: 0;
@@ -2171,11 +2171,11 @@ header
   background-color: #c4ccd9;
 }
 
-.suwarikuHeadernav-list__item>a {
+.suwarikuHeaderNavListItem>a {
   position: relative;
 }
 
-.suwarikuHeadernav-list__item>a:before {
+.suwarikuHeaderNavListItem>a:before {
   content: "";
   width: 100%;
   height: 2px;
@@ -2189,24 +2189,24 @@ header
   transition: .3s;
 }
 
-.suwarikuHeadernav-list__item>a.is-current, .suwarikuHeadernav-list__item>a:hover {
+.suwarikuHeaderNavListItem>a.is-current, .suwarikuHeaderNavListItem>a:hover {
   text-decoration: none;
 }
 
-.suwarikuHeadernav-list__item>a.is-current:before, .suwarikuHeadernav-list__item>a:hover:before {
+.suwarikuHeaderNavListItem>a.is-current:before, .suwarikuHeaderNavListItem>a:hover:before {
   opacity: 1;
 }
 
-.suwarikuHeadernav-child {
+.suwarikuHeaderNavChild {
   display: none;
 }
 
-.suwarikuHeadersp-nav {
+.suwarikuHeaderSpNav {
   display: none;
 }
 
 @media screen and (min-width: 768px) {
-  .t-about .suwarikuHeadernav-list__item:nth-of-type(2)>a:before, .t-history .suwarikuHeadernav-list__item:nth-of-type(3)>a:before, .t-service .suwarikuHeadernav-list__item:nth-of-type(4)>a:before, .t-recruit .suwarikuHeadernav-list__item:nth-of-type(5)>a:before, .t-contact-us .suwarikuHeadernav-list__item:nth-of-type(6)>a:before {
+  .suwarikuAbout .suwarikuHeaderNavListItem:nth-of-type(2)>a:before, .suwarikuHistory .suwarikuHeaderNavListItem:nth-of-type(3)>a:before, .suwarikuService .suwarikuHeaderNavListItem:nth-of-type(4)>a:before, .suwarikuRecruit .suwarikuHeaderNavListItem:nth-of-type(5)>a:before, .suwarikuContactUs .suwarikuHeaderNavListItem:nth-of-type(6)>a:before {
     opacity: 1;
   }
 }
@@ -2243,13 +2243,13 @@ footer
   justify-content: space-between;
 }
 
-.suwarikuFooterh__content {
+.suwarikuFooterHContent {
   -webkit-box-flex: 1;
   -ms-flex: 1 1 0px;
   flex: 1 1 0;
 }
 
-.suwarikuFooterh__map {
+.suwarikuFooterHMap {
   width: calc(576 / 1200 * 100%);
   -ms-flex-negative: 0;
   flex-shrink: 0;
@@ -2292,15 +2292,15 @@ footer
   display: flex;
 }
 
-.suwarikuFooternav-list+.suwarikuFooternav-list {
+.suwarikuFooterNavList+.suwarikuFooterNavList {
   margin-left: 40px;
 }
 
-.suwarikuFooternav-list__item+.suwarikuFooternav-list__item {
+.suwarikuFooterNavListItem+.suwarikuFooterNavListItem {
   margin-top: 30px;
 }
 
-.suwarikuFooternav-list__item>a, .suwarikuFooternav-list__item>span {
+.suwarikuFooterNavListItem>a, .suwarikuFooterNavListItem>span {
   padding-left: 20px;
   display: block;
   font-size: 1.8rem;
@@ -2308,7 +2308,7 @@ footer
   position: relative;
 }
 
-.suwarikuFooternav-list__item>a:before, .suwarikuFooternav-list__item>span:before {
+.suwarikuFooterNavListItem>a:before, .suwarikuFooterNavListItem>span:before {
   position: absolute;
   content: "";
   top: 6px;
@@ -2319,22 +2319,22 @@ footer
   background-size: 100%;
 }
 
-.suwarikuFooternav-list-child {
+.suwarikuFooterNavListChild {
   margin-top: 30px;
 }
 
-.suwarikuFooternav-list-child__item+.suwarikuFooternav-list-child__item {
+.suwarikuFooterNavListChildItem+.suwarikuFooterNavListChildItem {
   margin-top: 15px;
 }
 
-.suwarikuFooternav-list-child__item>a, .suwarikuFooternav-list-child__item>span {
+.suwarikuFooterNavListChildItem>a, .suwarikuFooterNavListChildItem>span {
   padding-left: 20px;
   display: block;
   font-size: 1.6rem;
   position: relative;
 }
 
-.suwarikuFooternav-list-child__item>a:before, .suwarikuFooternav-list-child__item>span:before {
+.suwarikuFooterNavListChildItem>a:before, .suwarikuFooterNavListChildItem>span:before {
   position: absolute;
   content: "";
   top: 4px;
@@ -2345,21 +2345,21 @@ footer
   background-size: 100%;
 }
 
-.suwarikuFooternav-list-gchild {
+.suwarikuFooterNavListGChild {
   margin-top: 20px;
 }
 
-.suwarikuFooternav-list-gchild__item {
+.suwarikuFooterNavListGChildItem {
   position: relative;
   padding-left: 20px;
   font-size: 1.4rem;
 }
 
-.suwarikuFooternav-list-gchild__item+.suwarikuFooternav-list-gchild__item {
+.suwarikuFooterNavListGChildItem+.suwarikuFooterNavListGChildItem {
   margin-top: 10px;
 }
 
-.suwarikuFooternav-list-gchild__item:before {
+.suwarikuFooterNavListGChildItem:before {
   content: '・';
   color: #d6b762;
   position: absolute;
@@ -2367,13 +2367,13 @@ footer
   top: 0;
 }
 
-.suwarikuFooternav-col {
+.suwarikuFooterNavCol {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
 }
 
-.suwarikuFooternav-col>*+* {
+.suwarikuFooterNavCol>*+* {
   margin-left: 30px;
 }
 
@@ -2465,13 +2465,13 @@ Common CSS
   background-color: #f5f6f8;
 }
 
-.suwarikuContentTitle-text {
+.suwarikuContentTitleText {
   font-weight: 700;
   font-size: 3.8rem;
   text-align: center;
 }
 
-.suwarikuContentTitle-text .en {
+.suwarikuContentTitleText .en {
   margin-top: 10px;
   display: block;
   color: #d6b762;
@@ -2539,17 +2539,17 @@ Common CSS
   background-image: linear-gradient(to left, #d6b762 0%, #d6b762 50px, #021F49 50px, #021F49 100%);
 }
 
-.suwarikuLineTitle--s .title:before, .suwarikuLineTitle--s .title:after {
+.suwarikuLineTitleS .title:before, .suwarikuLineTitleS .title:after {
   width: 80px;
 }
 
-.suwarikuLineTitle--s .title:before {
+.suwarikuLineTitleS .title:before {
   background-image: -webkit-linear-gradient(left, #d6b762 0%, #d6b762 25px, #021F49 25px, #021F49 100%);
   background-image: -o-linear-gradient(left, #d6b762 0%, #d6b762 25px, #021F49 25px, #021F49 100%);
   background-image: linear-gradient(to right, #d6b762 0%, #d6b762 25px, #021F49 25px, #021F49 100%);
 }
 
-.suwarikuLineTitle--s .title:after {
+.suwarikuLineTitleS .title:after {
   background-image: -webkit-linear-gradient(right, #d6b762 0%, #d6b762 25px, #021F49 25px, #021F49 100%);
   background-image: -o-linear-gradient(right, #d6b762 0%, #d6b762 25px, #021F49 25px, #021F49 100%);
   background-image: linear-gradient(to left, #d6b762 0%, #d6b762 25px, #021F49 25px, #021F49 100%);
@@ -2559,11 +2559,11 @@ Common CSS
   width: 100%;
 }
 
-.suwarikuTbl--align-c th, .suwarikuTbl--align-c td {
+.suwarikuTblAlignC th, .suwarikuTblAlignC td {
   text-align: center;
 }
 
-.suwarikuTbl--fixed {
+.suwarikuTblFixed {
   table-layout: fixed;
 }
 
@@ -2593,7 +2593,7 @@ Home CSS
   height: 100%;
 }
 
-.suwarikuJsHome-anima-item {
+.suwarikuJsHomeAnimaItem {
   opacity: 0;
   -webkit-transform: translateY(40px);
   -ms-transform: translateY(40px);
@@ -2603,7 +2603,7 @@ Home CSS
   transition: .6s;
 }
 
-.suwarikuJsHome-anima-item.is-on {
+.suwarikuJsHomeAnimaItem.is-on {
   opacity: 1;
   -webkit-transform: translateY(0);
   -ms-transform: translateY(0);
@@ -2613,13 +2613,13 @@ Home CSS
   transition-delay: .3s;
 }
 
-.suwarikuHome-content .suwarikuJsHome-anima-item.suwarikuHome-title {
+.suwarikuHomeContent .suwarikuJsHomeAnimaItem.suwarikuHomeTitle {
   -webkit-transform: translate(-50%, -20%);
   -ms-transform: translate(-50%, -20%);
   transform: translate(-50%, -20%);
 }
 
-.suwarikuHome-content .suwarikuJsHome-anima-item.suwarikuHome-title.is-on {
+.suwarikuHomeContent .suwarikuJsHomeAnimaItem.suwarikuHomeTitle.is-on {
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
@@ -2642,7 +2642,7 @@ Home CSS
   z-index: 5011;
 }
 
-.suwarikuHomeIntro-logo {
+.suwarikuHomeIntroLogo {
   width: 112px;
   opacity: 0;
   -webkit-transition: 0.8s;
@@ -2650,7 +2650,7 @@ Home CSS
   transition: 0.8s;
 }
 
-.suwarikuHomeIntro.on .suwarikuHomeIntro-logo {
+.suwarikuHomeIntro.on .suwarikuHomeIntroLogo {
   opacity: 1;
 }
 
@@ -2662,13 +2662,13 @@ Home CSS
   opacity: 0;
 }
 
-.suwarikuHome-content {
+.suwarikuHomeContent {
   position: relative;
   padding: 115px 120px 80px 120px;
   background-color: #ffffff;
 }
 
-.suwarikuHome-content .suwarikuHome-title {
+.suwarikuHomeContent .suwarikuHomeTitle {
   position: absolute;
   top: 0;
   left: 50%;
@@ -2677,38 +2677,38 @@ Home CSS
   transform: translate(-50%, -50%);
 }
 
-.suwarikuHome-title {
+.suwarikuHomeTitle {
   text-align: center;
 }
 
-.suwarikuHome-title .en {
+.suwarikuHomeTitle .en {
   display: block;
   font-size: 5.6rem;
   color: #d6b762;
 }
 
-.suwarikuHome-title .ja {
+.suwarikuHomeTitle .ja {
   margin-top: 10px;
   display: block;
   font-size: 2.2rem;
   font-weight: 700;
 }
 
-.suwarikuHome-title-s .ja {
+.suwarikuHomeTitleS .ja {
   font-weight: 700;
   display: block;
   font-size: 3.6rem;
   color: #ffffff;
 }
 
-.suwarikuHome-title-s .en {
+.suwarikuHomeTitleS .en {
   margin-top: 10px;
   display: block;
   font-size: 1.4rem;
   color: #d6b762;
 }
 
-.suwarikuHome-mv {
+.suwarikuHomeMv {
   position: relative;
   padding-bottom: calc(900 / 1600 * 100%);
   background-color: #1e1e1e;
@@ -2730,7 +2730,7 @@ Home CSS
   transition: 1s;
 }
 
-.suwarikuHome-mv.is-on .suwarikuHomeMvvideo {
+.suwarikuHomeMv.is-on .suwarikuHomeMvvideo {
   opacity: 1;
 }
 
@@ -2780,7 +2780,7 @@ Home CSS
   margin-top: 10px;
 }
 
-.suwarikuHome-mv.is-on .suwarikuHomeMvtitle .text {
+.suwarikuHomeMv.is-on .suwarikuHomeMvtitle .text {
   opacity: 1;
 }
 
@@ -2802,7 +2802,7 @@ Home CSS
   transition-delay: .5s;
 }
 
-.suwarikuHome-mv.is-on .suwarikuHomeMvtitle .and {
+.suwarikuHomeMv.is-on .suwarikuHomeMvtitle .and {
   opacity: 0.3;
 }
 
@@ -2820,7 +2820,7 @@ Home CSS
   transition-delay: 1s;
 }
 
-.suwarikuHome-mv.is-on .suwarikuHomeMvtext {
+.suwarikuHomeMv.is-on .suwarikuHomeMvtext {
   opacity: 1;
 }
 
@@ -2837,7 +2837,7 @@ Home CSS
   transition-delay: 1.5s;
 }
 
-.suwarikuHome-mv.is-on .suwarikuHomeMvplay {
+.suwarikuHomeMv.is-on .suwarikuHomeMvplay {
   opacity: 1;
 }
 
@@ -2858,14 +2858,14 @@ Home CSS
   text-decoration: none;
 }
 
-.suwarikuHomeMvplay-text {
+.suwarikuHomeMvplayText {
   color: #ffffff;
   font-size: 1.2rem;
   font-weight: 700;
   margin-right: 20px;
 }
 
-.suwarikuHomeMvplay-icon {
+.suwarikuHomeMvplayIcon {
   position: relative;
   display: block;
   width: 70px;
@@ -2874,7 +2874,7 @@ Home CSS
   border-radius: 50%;
 }
 
-.suwarikuHomeMvplay-icon:before {
+.suwarikuHomeMvplayIcon:before {
   position: absolute;
   content: "";
   top: 50%;
@@ -2959,7 +2959,7 @@ Home CSS
   }
 }
 
-.suwarikuHomeMvplay-icon {
+.suwarikuHomeMvplayIcon {
   -webkit-animation-name: homeMvPlayIconCircle;
   animation-name: homeMvPlayIconCircle;
   -webkit-animation-timing-function: ease-in-out;
@@ -2976,7 +2976,7 @@ Home CSS
   animation-delay: 0s;
 }
 
-.suwarikuHomeMvplay-icon:before {
+.suwarikuHomeMvplayIcon:before {
   -webkit-animation-name: homeMvPlayIconArrow;
   animation-name: homeMvPlayIconArrow;
   -webkit-animation-timing-function: ease-in-out;
@@ -2997,27 +2997,27 @@ Home CSS
   margin-top: 150px;
 }
 
-.suwarikuHome-history {
+.suwarikuHomeHistory {
   margin-top: 150px;
 }
 
-.suwarikuHome-history-mv {
+.suwarikuHomeHistoryMv {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
 }
 
-.suwarikuHome-history-mv__item {
+.suwarikuHomeHistoryMvItem {
   -webkit-box-flex: 1;
   -ms-flex: 1 1 0px;
   flex: 1 1 0;
 }
 
-.suwarikuHome-history-mv__item img {
+.suwarikuHomeHistoryMvItem img {
   width: 100%;
 }
 
-.suwarikuHome-history-mv__item--title {
+.suwarikuHomeHistoryMvItemTitle {
   position: relative;
   background-color: #021F49;
   display: -webkit-box;
@@ -3036,17 +3036,17 @@ Home CSS
   background-repeat: no-repeat;
 }
 
-.suwarikuHome-history-content {
+.suwarikuHomeHistoryContent {
   margin-top: -80px;
   padding: 70px 190px 80px 190px;
   background-color: #d6b762;
 }
 
-.suwarikuHome-recruit {
+.suwarikuHomeRecruit {
   margin-top: 100px;
 }
 
-.suwarikuHome-recruit-list {
+.suwarikuHomeRecruitList {
   margin-top: 80px;
   margin-right: -50px;
   display: -webkit-box;
@@ -3056,52 +3056,52 @@ Home CSS
   align-items: center;
 }
 
-.suwarikuHome-recruit-list__item {
+.suwarikuHomeRecruitListItem {
   margin-right: 50px;
   width: calc(100% / 3 - 50px);
 }
 
-.suwarikuHome-recruit-list-image {
+.suwarikuHomeRecruitListImage {
   overflow: hidden;
 }
 
-.suwarikuHome-recruit-list-image img {
+.suwarikuHomeRecruitListImage img {
   -webkit-transition: .5s;
   -o-transition: .5s;
   transition: .5s;
   width: 100%;
 }
 
-.suwarikuHome-recruit-list a {
+.suwarikuHomeRecruitList a {
   display: block;
   -webkit-transition: opacity 0.3s;
   -o-transition: opacity 0.3s;
   transition: opacity 0.3s;
 }
 
-.suwarikuHome-recruit-list a:hover {
+.suwarikuHomeRecruitList a:hover {
   opacity: 0.7;
   text-decoration: none;
 }
 
-.suwarikuHome-recruit-list a:hover .suwarikuHome-recruit-list-image img {
+.suwarikuHomeRecruitList a:hover .suwarikuHomeRecruitListImage img {
   -webkit-transform: scale(1.05);
   -ms-transform: scale(1.05);
   transform: scale(1.05);
 }
 
-.suwarikuHome-service {
+.suwarikuHomeService {
   margin-top: 120px;
 }
 
-.suwarikuHome-service-main {
+.suwarikuHomeServiceMain {
   margin-top: 30px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
 }
 
-.suwarikuHome-service-main--realestate {
+.suwarikuHomeServiceMainRealState {
   margin-top: 100px;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: reverse;
@@ -3109,29 +3109,29 @@ Home CSS
   flex-direction: row-reverse;
 }
 
-.suwarikuHome-service-main--realestate .suwarikuHome-service-main-image {
+.suwarikuHomeServiceMainRealState .suwarikuHomeServiceMainImage {
   -webkit-box-pack: start;
   -ms-flex-pack: start;
   justify-content: flex-start;
 }
 
-.suwarikuHome-service-main--realestate .suwarikuHome-service-main-image-s {
+.suwarikuHomeServiceMainRealState .suwarikuHomeServiceMainImageS {
   left: auto;
   right: -24%;
 }
 
-.suwarikuHome-service-main__mv {
+.suwarikuHomeServiceMainMv {
   width: calc(696 / 1440 * 100%);
 }
 
-.suwarikuHome-service-main__content {
+.suwarikuHomeServiceMainContent {
   position: relative;
   -webkit-box-flex: 1;
   -ms-flex: 1 1 0px;
   flex: 1 1 0;
 }
 
-.suwarikuHome-service-main-image {
+.suwarikuHomeServiceMainImage {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -3140,26 +3140,26 @@ Home CSS
   justify-content: flex-end;
 }
 
-.suwarikuHome-service-main-image-inner {
+.suwarikuHomeServiceMainImage-inner {
   position: relative;
   width: calc(448 / 744 * 100%);
   padding-bottom: 60px;
 }
 
-.suwarikuHome-service-main-image-s {
+.suwarikuHomeServiceMainImageS {
   position: absolute;
   width: calc(324 / 448 * 100%);
   left: -24%;
   bottom: 0;
 }
 
-.suwarikuHome-service-main-item {
+.suwarikuHomeServiceMainItem {
   margin-left: -100px;
   margin-right: -80px;
   position: relative;
 }
 
-.suwarikuHome-service-main-item a {
+.suwarikuHomeServiceMainItem a {
   position: relative;
   display: block;
   -webkit-transition: opacity 0.3s;
@@ -3169,12 +3169,12 @@ Home CSS
   background-color: #021F49;
 }
 
-.suwarikuHome-service-main-item a:hover {
+.suwarikuHomeServiceMainItem a:hover {
   opacity: 0.7;
   text-decoration: none;
 }
 
-.suwarikuHome-service-main-item a:before {
+.suwarikuHomeServiceMainItem a:before {
   position: absolute;
   content: "";
   top: 50%;
@@ -3188,12 +3188,12 @@ Home CSS
   background-size: 100%;
 }
 
-.suwarikuHome-service-title {
+.suwarikuHomeServiceTitle {
   position: relative;
   text-align: center;
 }
 
-.suwarikuHome-service-title .title {
+.suwarikuHomeServiceTitle .title {
   display: inline-block;
   position: relative;
   padding-left: 40px;
@@ -3201,7 +3201,7 @@ Home CSS
   z-index: 1;
 }
 
-.suwarikuHome-service-title .title:before, .suwarikuHome-service-title .title:after {
+.suwarikuHomeServiceTitle .title:before, .suwarikuHomeServiceTitle .title:after {
   content: "";
   width: 240px;
   height: 1px;
@@ -3209,7 +3209,7 @@ Home CSS
   top: 50%;
 }
 
-.suwarikuHome-service-title .title:before {
+.suwarikuHomeServiceTitle .title:before {
   left: 0;
   -webkit-transform: translateX(-100%);
   -ms-transform: translateX(-100%);
@@ -3219,7 +3219,7 @@ Home CSS
   background-image: linear-gradient(to right, #d6b762 0%, #d6b762 50px, #021F49 50px, #021F49 100%);
 }
 
-.suwarikuHome-service-title .title:after {
+.suwarikuHomeServiceTitle .title:after {
   right: 0;
   -webkit-transform: translateX(100%);
   -ms-transform: translateX(100%);
@@ -3229,14 +3229,14 @@ Home CSS
   background-image: linear-gradient(to left, #d6b762 0%, #d6b762 50px, #021F49 50px, #021F49 100%);
 }
 
-.suwarikuHome-service-content {
+.suwarikuHomeServiceContent {
   position: relative;
   padding: 50px 120px 55px 120px;
   background-color: #ffffff;
   margin-top: 60px;
 }
 
-.suwarikuHome-service-content-title {
+.suwarikuHomeServiceContentTitle {
   position: absolute;
   top: 0;
   left: 50%;
@@ -3246,7 +3246,7 @@ Home CSS
   text-align: center;
 }
 
-.suwarikuHome-service-realestate-col {
+.suwarikuHomeServiceRealStateCol {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -3256,7 +3256,7 @@ Home CSS
   flex-direction: row-reverse;
 }
 
-.suwarikuHome-service-realestate-col__content {
+.suwarikuHomeServiceRealStateColContent {
   margin-top: 50px;
   width: 380px;
   -ms-flex-negative: 0;
@@ -3264,101 +3264,101 @@ Home CSS
   margin-right: 100px;
 }
 
-.suwarikuHome-service-realestate-col__image {
+.suwarikuHomeServiceRealStateColImage {
   -webkit-box-flex: 1;
   -ms-flex: 1 1 0px;
   flex: 1 1 0;
 }
 
-.suwarikuHome-service-list {
+.suwarikuHomeServiceList {
   margin-right: -50px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
 }
 
-.suwarikuHome-service-list__item {
+.suwarikuHomeServiceListItem {
   margin-right: 50px;
   width: calc(100% / 5 - 50px);
 }
 
-.suwarikuHome-service-list__item a {
+.suwarikuHomeServiceListItem a {
   display: block;
   -webkit-transition: opacity 0.3s;
   -o-transition: opacity 0.3s;
   transition: opacity 0.3s;
 }
 
-.suwarikuHome-service-list__item a:hover {
+.suwarikuHomeServiceListItem a:hover {
   opacity: 0.7;
   text-decoration: none;
 }
 
-.suwarikuHome-service-list__item a:hover .suwarikuHome-service-list-image img {
+.suwarikuHomeServiceListItem a:hover .suwarikuHomeServiceListImage img {
   -webkit-transform: scale(1.05);
   -ms-transform: scale(1.05);
   transform: scale(1.05);
 }
 
-.suwarikuHome-service-list-image {
+.suwarikuHomeServiceListImage {
   overflow: hidden;
 }
 
-.suwarikuHome-service-list-image img {
+.suwarikuHomeServiceListImage img {
   width: 100%;
   -webkit-transition: .5s;
   -o-transition: .5s;
   transition: .5s;
 }
 
-.suwarikuHome-topics {
+.suwarikuHomeTopics {
   margin-top: 120px;
 }
 
-.suwarikuHome-topics-box {
+.suwarikuHomeTopicsBox {
   margin-top: 30px;
   padding: 60px;
   background-color: #ffffff;
 }
 
-.suwarikuHome-topics-list__item {
+.suwarikuHomeTopicsListItem {
   padding: 20px 0;
   border-bottom: 1px #c4ccd9 solid;
 }
 
-.suwarikuHome-topics-list__item a {
+.suwarikuHomeTopicsListItem a {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
 }
 
-.suwarikuHome-topics-list__item a:hover {
+.suwarikuHomeTopicsListItem a:hover {
   text-decoration: none;
 }
 
-.suwarikuHome-topics-list__item a .datetime {
+.suwarikuHomeTopicsListItem a .datetime {
   width: 130px;
   -ms-flex-negative: 0;
   flex-shrink: 0;
 }
 
-.suwarikuHome-gallery {
+.suwarikuHomeGallery {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
 }
 
-.suwarikuHome-gallery__wrap {
+.suwarikuHomeGalleryWrap {
   margin-top: 100px;
 }
 
-.suwarikuHome-gallery__item {
+.suwarikuHomeGalleryItem {
   width: 100%;
   margin-right: -1px;
   margin-bottom: -1px;
 }
 
-.suwarikuHome-gallery__item img {
+.suwarikuHomeGalleryItem img {
   width: 100%;
 }
 
@@ -3371,13 +3371,13 @@ About CSS
   position: relative;
 }
 
-.suwarikuAboutIndexMv-image img {
+.suwarikuAboutIndexMvImage img {
   width: 100%;
   padding-left: 15%;
   padding-right: 15%;
 }
 
-.suwarikuAboutIndexMv-title {
+.suwarikuAboutIndexMvTitle {
   position: absolute;
   left: 50%;
   top: 50%;
@@ -3398,7 +3398,7 @@ About CSS
   align-items: flex-start;
 }
 
-.suwarikuAboutIndexMv-title span {
+.suwarikuAboutIndexMvTitle span {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -3406,7 +3406,7 @@ About CSS
   padding: 10px 20px;
 }
 
-.suwarikuAboutIndexMv-title span+span {
+.suwarikuAboutIndexMvTitle span+span {
   margin-top: 10px;
 }
 
@@ -3420,11 +3420,11 @@ About CSS
   flex-direction: row-reverse;
 }
 
-.suwarikuAboutIndexMessage__image {
+.suwarikuAboutIndexMessageImage {
   width: calc(472 / 1200 * 100%);
 }
 
-.suwarikuAboutIndexMessage__content {
+.suwarikuAboutIndexMessageContent {
   -webkit-box-flex: 1;
   -ms-flex: 1 1 0px;
   flex: 1 1 0;
@@ -3438,7 +3438,7 @@ About CSS
   margin-right: -50px;
 }
 
-.suwarikuAboutNav__item {
+.suwarikuAboutNavItem {
   -webkit-box-flex: 1;
   -ms-flex: 1 1 0px;
   flex: 1 1 0;
@@ -3447,7 +3447,7 @@ About CSS
   font-size: 1.8rem;
 }
 
-.suwarikuAboutNav__item a {
+.suwarikuAboutNavItem a {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -3467,7 +3467,7 @@ About CSS
   transition: .3s;
 }
 
-.suwarikuAboutNav__item a.is-active, .suwarikuAboutNav__item a:hover {
+.suwarikuAboutNavItem a.is-active, .suwarikuAboutNavItem a:hover {
   text-decoration: none;
   background-color: transparent;
   color: #021F49;
@@ -3492,18 +3492,18 @@ About CSS
   border-top: solid 1px #c4ccd9;
 }
 
-.suwarikuAboutOutlineSales__image {
+.suwarikuAboutOutlineSalesImage {
   width: calc(576 / 1000 * 100%);
 }
 
-.suwarikuAboutOutlineSales__content {
+.suwarikuAboutOutlineSalesContent {
   -webkit-box-flex: 1;
   -ms-flex: 1 1 0px;
   flex: 1 1 0;
   margin-left: 50px;
 }
 
-.suwarikuAboutOutlineSales-heading {
+.suwarikuAboutOutlineSalesHeading {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -3515,21 +3515,21 @@ About CSS
   align-items: center;
 }
 
-.suwarikuAboutOutlineSales-warehouse {
+.suwarikuAboutOutlineSalesWarehouse {
   margin-top: 20px;
   padding: 20px 50px;
   background-color: #f2f4f7;
   color: #021F49;
 }
 
-.suwarikuAboutOutlineSales-realestate {
+.suwarikuAboutOutlineSalesRealState {
   margin-top: 20px;
   padding: 20px 50px;
   background-color: #fcf9f3;
   color: #b78e29;
 }
 
-.suwarikuAboutOutlineSales-list {
+.suwarikuAboutOutlineSalesList {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -3543,13 +3543,13 @@ About CSS
   margin-top: 10px;
 }
 
-.suwarikuAboutOutlineSales-list__title {
+.suwarikuAboutOutlineSalesListTitle {
   position: relative;
   padding-left: 30px;
   width: 70%;
 }
 
-.suwarikuAboutOutlineSales-list__title:before {
+.suwarikuAboutOutlineSalesListTitle:before {
   content: "";
   width: 20px;
   height: 10px;
@@ -3562,19 +3562,19 @@ About CSS
   transform: translateY(-50%);
 }
 
-.suwarikuAboutOutlineSales-list__title:nth-of-type(2):before {
+.suwarikuAboutOutlineSalesListTitle:nth-of-type(2):before {
   background-color: rgba(183, 142, 41, 0.75);
 }
 
-.suwarikuAboutOutlineSales-list__title:nth-of-type(3):before {
+.suwarikuAboutOutlineSalesListTitle:nth-of-type(3):before {
   background-color: rgba(183, 142, 41, 0.5);
 }
 
-.suwarikuAboutOutlineSales-list__title:nth-of-type(4):before {
+.suwarikuAboutOutlineSalesListTitle:nth-of-type(4):before {
   background-color: rgba(183, 142, 41, 0.25);
 }
 
-.suwarikuAboutOutlineSales-list__content {
+.suwarikuAboutOutlineSalesListContent {
   width: 30%;
   text-align: right;
 }
@@ -3588,19 +3588,19 @@ About CSS
   flex-wrap: wrap;
 }
 
-.suwarikuAboutOutlineBnrs__item {
+.suwarikuAboutOutlineBnrsItem {
   width: calc(33% - 48px);
   margin-right: 48px;
   margin-bottom: 25px;
 }
 
-.suwarikuAboutOutlineBnrs__item a {
+.suwarikuAboutOutlineBnrsItem a {
   -webkit-transition: opacity 0.3s;
   -o-transition: opacity 0.3s;
   transition: opacity 0.3s;
 }
 
-.suwarikuAboutOutlineBnrs__item a:hover {
+.suwarikuAboutOutlineBnrsItem a:hover {
   opacity: 0.7;
   text-decoration: none;
 }
@@ -3625,12 +3625,12 @@ About CSS
   margin: 80px 0;
 }
 
-.suwarikuAboutPhilosphyLogo-img {
+.suwarikuAboutPhilosphyLogoImg {
   width: 40%;
   text-align: center;
 }
 
-.suwarikuAboutPhilosphyLogo-text {
+.suwarikuAboutPhilosphyLogoText {
   width: 40%;
   line-height: 30px;
 }
@@ -3644,12 +3644,12 @@ Public Notice CSS
   border-top: solid 1px #e5e5e5;
 }
 
-.suwarikuPublicNoticeLinks-item {
+.suwarikuPublicNoticeLinksItem {
   border-bottom: solid 1px #e5e5e5;
   padding: 20px 0;
 }
 
-.suwarikuPublicNoticeLinks-link {
+.suwarikuPublicNoticeLinksLink {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -3664,15 +3664,15 @@ Public Notice CSS
   text-decoration: underline;
 }
 
-.suwarikuPublicNoticeLinks-link:hover {
+.suwarikuPublicNoticeLinksLink:hover {
   opacity: 0.7;
 }
 
-.suwarikuPublicNoticeLinks-pdf {
+.suwarikuPublicNoticeLinksPdf {
   display: block;
 }
 
-.suwarikuPublicNoticeLinks-pdf::after {
+.suwarikuPublicNoticeLinksPdf::after {
   content: '';
   display: inline-block;
   width: 24px;
@@ -3694,11 +3694,11 @@ History CSS
   position: relative;
 }
 
-.suwarikuHistoryMv-image img {
+.suwarikuHistoryMvImage img {
   width: 100%;
 }
 
-.suwarikuHistoryMv-text {
+.suwarikuHistoryMvText {
   position: absolute;
   left: 50%;
   top: 50%;
@@ -3752,13 +3752,13 @@ History CSS
   background-color: #8090ad;
 }
 
-.suwarikuHistoryNav__item {
+.suwarikuHistoryNavItem {
   position: relative;
   padding-left: 25px;
   height: 80px;
 }
 
-.suwarikuHistoryNav__item__text {
+.suwarikuHistoryNavItemText {
   -webkit-transition: opacity 0.3s;
   -o-transition: opacity 0.3s;
   transition: opacity 0.3s;
@@ -3768,12 +3768,12 @@ History CSS
   white-space: nowrap;
 }
 
-.suwarikuHistoryNav__item__text:hover {
+.suwarikuHistoryNavItemText:hover {
   opacity: 0.7;
   text-decoration: none;
 }
 
-.suwarikuHistoryNav__item:before {
+.suwarikuHistoryNavItem:before {
   content: "";
   width: 15px;
   height: 15px;
@@ -3788,12 +3788,12 @@ History CSS
   transition: .3s;
 }
 
-.suwarikuHistoryNav__item.is-active:before {
+.suwarikuHistoryNavItem.is-active:before {
   border-color: #ffffff;
   background-color: #d6b762;
 }
 
-.suwarikuHistoryNav__item .ja {
+.suwarikuHistoryNavItem .ja {
   margin-bottom: 4px;
   font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "ＭＳ Ｐ明朝", "MS PMincho", "メイリオ", Meiryo, serif;
   display: block;
@@ -3802,7 +3802,7 @@ History CSS
   line-height: 1.35;
 }
 
-.suwarikuHistoryNav__item .en {
+.suwarikuHistoryNavItem .en {
   display: block;
   font-family: europa, sans-serif;
   font-weight: 700;
@@ -3830,7 +3830,7 @@ History CSS
   opacity: 1;
 }
 
-.suwarikuHistoryHeading-year {
+.suwarikuHistoryHeadingYear {
   margin-top: 30px;
   color: #d6b762;
   font-family: europa, sans-serif;
@@ -3844,7 +3844,7 @@ History CSS
   padding-bottom: 40px;
 }
 
-.suwarikuHistoryList-line {
+.suwarikuHistoryListLine {
   width: 2px;
   position: absolute;
   left: 50%;
@@ -3857,13 +3857,13 @@ History CSS
   transition: 0s linear;
 }
 
-.suwarikuHistoryList-line--on {
+.suwarikuHistoryListLineOn {
   max-height: 100%;
   height: 0;
   background-color: #d6b762;
 }
 
-.suwarikuHistoryList__item {
+.suwarikuHistoryListItem {
   position: relative;
   width: 50%;
   -webkit-transition: 1s;
@@ -3875,18 +3875,18 @@ History CSS
   transform: translateY(80px);
 }
 
-.suwarikuHistoryList__item.is-active {
+.suwarikuHistoryListItem.is-active {
   opacity: 1;
   -webkit-transform: translateY(0);
   -ms-transform: translateY(0);
   transform: translateY(0);
 }
 
-.suwarikuHistoryList__item+.suwarikuHistoryList__item {
+.suwarikuHistoryListItem+.suwarikuHistoryListItem {
   margin-top: -60px;
 }
 
-.suwarikuHistoryList__item .y {
+.suwarikuHistoryListItem .y {
   position: absolute;
   top: 40px;
   font-family: europa, sans-serif;
@@ -3896,7 +3896,7 @@ History CSS
   font-size: 2.4rem;
 }
 
-.suwarikuHistoryList__item .y:before, .suwarikuHistoryList__item .y:after {
+.suwarikuHistoryListItem .y:before, .suwarikuHistoryListItem .y:after {
   content: "";
   position: absolute;
   top: 50%;
@@ -3906,69 +3906,69 @@ History CSS
   transform: translateY(-50%);
 }
 
-.suwarikuHistoryList__item .y:before {
+.suwarikuHistoryListItem .y:before {
   width: 60px;
   height: 2px;
 }
 
-.suwarikuHistoryList__item .y:after {
+.suwarikuHistoryListItem .y:after {
   width: 16px;
   height: 16px;
   border-radius: 50%;
 }
 
-.suwarikuHistoryList__item:nth-of-type(odd) {
+.suwarikuHistoryListItem:nth-of-type(odd) {
   margin-right: auto;
   padding-right: 170px;
 }
 
-.suwarikuHistoryList__item:nth-of-type(odd) .y {
+.suwarikuHistoryListItem:nth-of-type(odd) .y {
   right: 0;
   padding-right: 70px;
 }
 
-.suwarikuHistoryList__item:nth-of-type(odd) .y:after {
+.suwarikuHistoryListItem:nth-of-type(odd) .y:after {
   -webkit-transform: translate(50%, -50%);
   -ms-transform: translate(50%, -50%);
   transform: translate(50%, -50%);
 }
 
-.suwarikuHistoryList__item:nth-of-type(odd) .y:before, .suwarikuHistoryList__item:nth-of-type(odd) .y:after {
+.suwarikuHistoryListItem:nth-of-type(odd) .y:before, .suwarikuHistoryListItem:nth-of-type(odd) .y:after {
   right: 0;
 }
 
-.suwarikuHistoryList__item:nth-of-type(even) {
+.suwarikuHistoryListItem:nth-of-type(even) {
   margin-left: auto;
   padding-left: 170px;
 }
 
-.suwarikuHistoryList__item:nth-of-type(even) .y {
+.suwarikuHistoryListItem:nth-of-type(even) .y {
   left: 0;
   padding-left: 70px;
 }
 
-.suwarikuHistoryList__item:nth-of-type(even) .y:after {
+.suwarikuHistoryListItem:nth-of-type(even) .y:after {
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
 }
 
-.suwarikuHistoryList__item:nth-of-type(even) .y:before, .suwarikuHistoryList__item:nth-of-type(even) .y:after {
+.suwarikuHistoryListItem:nth-of-type(even) .y:before, .suwarikuHistoryListItem:nth-of-type(even) .y:after {
   left: 0;
 }
 
-.suwarikuHistoryList-image {
+.suwarikuHistoryListImage {
   margin-bottom: 20px;
   text-align: center;
 }
 
-.suwarikuHistoryList-year {
+.suwarikuHistoryListYear {
   margin-bottom: 20px;
   text-align: center;
   color: #d6b762;
 }
 
-.suwarikuHistoryList-year .en {
+.suwarikuHistoryListYear .en {
   margin-bottom: 4px;
   display: block;
   font-family: europa, sans-serif;
@@ -3977,12 +3977,12 @@ History CSS
   font-size: 3rem;
 }
 
-.suwarikuHistoryList-year .ja {
+.suwarikuHistoryListYear .ja {
   display: block;
   font-size: 1.6rem;
 }
 
-.suwarikuHistoryList-title {
+.suwarikuHistoryListTitle {
   margin-bottom: 30px;
   color: #ffffff;
   font-weight: 700;
@@ -3991,7 +3991,7 @@ History CSS
   text-align: center;
 }
 
-.suwarikuHistoryList-text {
+.suwarikuHistoryListText {
   margin-bottom: 20px;
   color: #ffffff;
   line-height: 2;
@@ -4020,13 +4020,13 @@ History CSS
   transform: translateY(0);
 }
 
-.suwarikuHistoryPresent__image {
+.suwarikuHistoryPresentImage {
   width: 368px;
   -ms-flex-negative: 0;
   flex-shrink: 0;
 }
 
-.suwarikuHistoryPresent__content {
+.suwarikuHistoryPresentContent {
   -webkit-box-flex: 1;
   -ms-flex: 1 1 0px;
   flex: 1 1 0;
@@ -4046,14 +4046,14 @@ Service CSS
   background-position: 50%;
 }
 
-.suwarikuServiceMv-movie {
+.suwarikuServiceMvMovie {
   max-width: 864px;
   margin-top: 40px;
   margin-left: auto;
   margin-right: auto;
 }
 
-.suwarikuServiceMv-movie__content {
+.suwarikuServiceMvMovieContent {
   position: relative;
   padding-bottom: 56.25%;
   border: solid 5px #ffffff;
@@ -4061,7 +4061,7 @@ Service CSS
   overflow: hidden;
 }
 
-.suwarikuServiceMv-movie__content iframe {
+.suwarikuServiceMvMovieContent iframe {
   position: absolute;
   left: 0;
   top: 0;
@@ -4076,13 +4076,13 @@ Service CSS
   display: flex;
 }
 
-.suwarikuServiceList__item {
+.suwarikuServiceListItem {
   position: relative;
   margin-right: 50px;
   width: calc(100% / 2 - 50px);
 }
 
-.suwarikuServiceList__item a {
+.suwarikuServiceListItem a {
   display: block;
   -webkit-transition: opacity 0.3s;
   -o-transition: opacity 0.3s;
@@ -4091,16 +4091,16 @@ Service CSS
   background-color: #ffffff;
 }
 
-.suwarikuServiceList__item a:hover {
+.suwarikuServiceListItem a:hover {
   opacity: 0.7;
   text-decoration: none;
 }
 
-.suwarikuServiceList-image img {
+.suwarikuServiceListImage img {
   width: 100%;
 }
 
-.suwarikuServiceList-content {
+.suwarikuServiceListContent {
   padding: 30px 40px;
 }
 
@@ -4113,7 +4113,7 @@ Service / Warehouse CSS
   background-color: #f5f6f8;
 }
 
-.suwarikuServiceWarehouseItem-col {
+.suwarikuServiceWarehouseItemCol {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -4122,28 +4122,28 @@ Service / Warehouse CSS
   justify-content: center;
 }
 
-.suwarikuServiceWarehouseItem-col__image {
+.suwarikuServiceWarehouseItemColImage {
   -ms-flex-negative: 0;
   flex-shrink: 0;
 }
 
-.suwarikuServiceWarehouseItem-col__content {
+.suwarikuServiceWarehouseItemColContent {
   margin-left: 50px;
   -webkit-box-flex: 1;
   -ms-flex: 1 1 0px;
   flex: 1 1 0;
 }
 
-.suwarikuServiceWarehouseItem-content {
+.suwarikuServiceWarehouseItemContent {
   padding-left: 30px;
 }
 
-.suwarikuServiceWarehouseItem-title {
+.suwarikuServiceWarehouseItemTitle {
   position: relative;
   padding-left: 30px;
 }
 
-.suwarikuServiceWarehouseItem-title:before {
+.suwarikuServiceWarehouseItemTitle:before {
   position: absolute;
   content: "";
   left: 0;
@@ -4207,7 +4207,7 @@ Service / Warehouse Details CSS
   margin-right: -10px;
 }
 
-.suwarikuServiceWarehouseDetailSpec__item {
+.suwarikuServiceWarehouseDetailSpecItem {
   width: calc(50% - 10px);
   margin-right: 10px;
   margin-bottom: 10px;
@@ -4239,26 +4239,26 @@ Service / Warehouse Details CSS
   align-items: flex-end;
 }
 
-.suwarikuServiceWarehouseDetaildata__item+.suwarikuServiceWarehouseDetaildata__item {
+.suwarikuServiceWarehouseDetaildataItem+.suwarikuServiceWarehouseDetaildataItem {
   margin-left: 10px;
 }
 
-.suwarikuServiceWarehouseDetaildata-tbl {
+.suwarikuServiceWarehouseDetaildataTable {
   border: 2px #c4ccd9 solid;
 }
 
-.suwarikuServiceWarehouseDetaildata-tbl th, .suwarikuServiceWarehouseDetaildata-tbl td {
+.suwarikuServiceWarehouseDetaildataTable th, .suwarikuServiceWarehouseDetaildataTable td {
   font-weight: 700;
   padding: 15px 20px;
   border: 1px #c4ccd9 solid;
   text-align: center;
 }
 
-.suwarikuServiceWarehouseDetaildata-tbl th {
+.suwarikuServiceWarehouseDetaildataTable th {
   background-color: #ebedf2;
 }
 
-.suwarikuServiceWarehouseDetaildata-tbl tr:nth-of-type(even) td {
+.suwarikuServiceWarehouseDetaildataTable tr:nth-of-type(even) td {
   background-color: #f5f6f8;
 }
 
@@ -4267,7 +4267,7 @@ Service / Warehouse Details CSS
   position: relative;
 }
 
-.suwarikuServiceWarehouseDetailother-title {
+.suwarikuServiceWarehouseDetailOtherTitle {
   position: absolute;
   left: 50%;
   top: 0;
@@ -4276,7 +4276,7 @@ Service / Warehouse Details CSS
   transform: translate(-50%, -50%);
 }
 
-.suwarikuServiceWarehouseDetailother-list {
+.suwarikuServiceWarehouseDetailotherList {
   margin-right: -50px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -4286,24 +4286,24 @@ Service / Warehouse Details CSS
   justify-content: center;
 }
 
-.suwarikuServiceWarehouseDetailother-list__item {
+.suwarikuServiceWarehouseDetailotherListItem {
   margin-right: 50px;
   width: calc(100% / 4 - 50px);
 }
 
-.suwarikuServiceWarehouseDetailother-list__item a {
+.suwarikuServiceWarehouseDetailotherListItem a {
   display: block;
   -webkit-transition: opacity 0.3s;
   -o-transition: opacity 0.3s;
   transition: opacity 0.3s;
 }
 
-.suwarikuServiceWarehouseDetailother-list__item a:hover {
+.suwarikuServiceWarehouseDetailotherListItem a:hover {
   opacity: 0.7;
   text-decoration: none;
 }
 
-.suwarikuServiceWarehouseDetailother-list__item img {
+.suwarikuServiceWarehouseDetailotherListItem img {
   width: 100%;
 }
 
@@ -4324,7 +4324,7 @@ Service / Real State CSS
   background-color: #ffffff;
 }
 
-.suwarikuServiceRealstateMain__content {
+.suwarikuServiceRealstateMainContent {
   width: 370px;
   -ms-flex-negative: 0;
   flex-shrink: 0;
@@ -4333,7 +4333,7 @@ Service / Real State CSS
   margin-right: 50px;
 }
 
-.suwarikuServiceRealstateMain__image {
+.suwarikuServiceRealstateMainImage {
   -webkit-box-flex: 1;
   -ms-flex: 1 1 0px;
   flex: 1 1 0;
@@ -4349,25 +4349,25 @@ Service / Real State CSS
   flex-wrap: wrap;
 }
 
-.suwarikuServiceRealstateList__item {
+.suwarikuServiceRealstateListItem {
   margin-bottom: 70px;
   margin-right: 50px;
   width: calc(33.3% - 50px);
 }
 
-.suwarikuServiceRealstateList__item a {
+.suwarikuServiceRealstateListItem a {
   display: block;
   -webkit-transition: opacity 0.3s;
   -o-transition: opacity 0.3s;
   transition: opacity 0.3s;
 }
 
-.suwarikuServiceRealstateList__item a:hover {
+.suwarikuServiceRealstateListItem a:hover {
   opacity: 0.7;
   text-decoration: none;
 }
 
-.suwarikuServiceRealstateList-image img {
+.suwarikuServiceRealstateListImage img {
   width: 100%;
 }
 
@@ -4382,12 +4382,12 @@ Service / Real State Detail CSS
   display: flex;
 }
 
-.suwarikuServiceRealstateIntro__image {
+.suwarikuServiceRealstateIntroImage {
   width: calc(680 / 1200 * 100%);
   overflow: hidden;
 }
 
-.suwarikuServiceRealstateIntro__content {
+.suwarikuServiceRealstateIntroContent {
   -webkit-box-flex: 1;
   -ms-flex: 1 1 0px;
   flex: 1 1 0;
@@ -4408,23 +4408,23 @@ Service / Real State Detail CSS
   margin-top: 20px;
 }
 
-.suwarikuServiceRealstateSpec__title {
+.suwarikuServiceRealstateSpecTitle {
   width: 6em;
   -ms-flex-negative: 0;
   flex-shrink: 0;
 }
 
-.suwarikuServiceRealstateSpec__text {
+.suwarikuServiceRealstateSpecText {
   -webkit-box-flex: 1;
   -ms-flex: 1 1 0px;
   flex: 1 1 0;
 }
 
-.suwarikuServiceRealstateImg__item {
+.suwarikuServiceRealstateImgItem {
   position: relative;
 }
 
-.suwarikuServiceRealstateImg-title {
+.suwarikuServiceRealstateImgTitle {
   position: absolute;
   left: 0;
   bottom: 0;
@@ -4473,25 +4473,25 @@ Service / Real State Detail CSS
   margin-bottom: -80px;
 }
 
-.suwarikuServiceRealstateTenant__item {
+.suwarikuServiceRealstateTenantItem {
   width: calc(33.3% - 80px);
   margin-right: 80px;
   margin-bottom: 80px;
 }
 
-.suwarikuServiceRealstateTenant-spec {
+.suwarikuServiceRealstateTenantSpecs {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
 }
 
-.suwarikuServiceRealstateTenant-spec__title {
+.suwarikuServiceRealstateTenantSpecsTitle {
   width: 5em;
   -ms-flex-negative: 0;
   flex-shrink: 0;
 }
 
-.suwarikuServiceRealstateTenant-spec__text {
+.suwarikuServiceRealstateTenantSpecsText {
   -webkit-box-flex: 1;
   -ms-flex: 1 1 0px;
   flex: 1 1 0;
@@ -4502,7 +4502,7 @@ Service / Real State Detail CSS
   height: auto;
 }
 
-.suwarikuServiceRealstateCalendar-txt {
+.suwarikuServiceRealstateCalendarText {
   text-align: center;
   line-height: 1.8;
   padding-bottom: 20px;
@@ -4517,11 +4517,11 @@ service / realestate / fukuyama-minami-3jo-building
   position: relative;
 }
 
-.suwarikuServiceRealstateFm3bTitle-image img {
+.suwarikuServiceRealstateFm3bTitleImg img {
   width: 100%;
 }
 
-.suwarikuServiceRealstateFm3bTitle-text {
+.suwarikuServiceRealstateFm3bTitleText {
   position: absolute;
   left: 75%;
   top: 50%;
@@ -4546,7 +4546,7 @@ service / realestate / fukuyama-minami-3jo-building
   transform: translate(-50%, -50%);
 }
 
-.suwarikuServiceRealstateFm3bTitle-text small {
+.suwarikuServiceRealstateFm3bTitleText small {
   margin-top: 10px;
   display: block;
   font-size: 2.4rem;
@@ -4559,7 +4559,7 @@ service / realestate / fukuyama-minami-3jo-building
   margin-right: -5px;
 }
 
-.suwarikuServiceRealstateDetailNav__item {
+.suwarikuServiceRealstateDetailNavItem {
   margin-right: 5px;
   -webkit-box-flex: 1;
   -ms-flex: 1 1 0px;
@@ -4575,12 +4575,12 @@ service / realestate / fukuyama-minami-3jo-building
   transition: opacity 0.3s;
 }
 
-.suwarikuServiceRealstateDetailNav__item:hover {
+.suwarikuServiceRealstateDetailNavItem:hover {
   opacity: 0.7;
   text-decoration: none;
 }
 
-.suwarikuServiceRealstateDetailNav__item:before {
+.suwarikuServiceRealstateDetailNavItem:before {
   content: "";
   border-top: solid 6px #c4ccd9;
   border-left: solid 8px transparent;
@@ -4593,7 +4593,7 @@ service / realestate / fukuyama-minami-3jo-building
   transform: translateX(-50%);
 }
 
-.suwarikuServiceRealstateDetailNav__item .icon {
+.suwarikuServiceRealstateDetailNavItem .icon {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -4622,11 +4622,11 @@ service / realestate / fukuyama-minami-3jo-building
   display: flex;
 }
 
-.suwarikuServiceRealstateFm3bCol1__image {
+.suwarikuServiceRealstateFm3bCol1Img {
   width: calc(784 / 1200 * 100%);
 }
 
-.suwarikuServiceRealstateFm3bCol1__content {
+.suwarikuServiceRealstateFm3bCol1Content {
   -webkit-box-flex: 1;
   -ms-flex: 1 1 0px;
   flex: 1 1 0;
@@ -4642,11 +4642,11 @@ service / realestate / fukuyama-minami-3jo-building
   display: flex;
 }
 
-.suwarikuServiceRealstateFm3bCol2__image {
+.suwarikuServiceRealstateFm3bCol2Img {
   width: calc(576 / 1200 * 100%);
 }
 
-.suwarikuServiceRealstateFm3bCol2__content {
+.suwarikuServiceRealstateFm3bCol2Content {
   -webkit-box-flex: 1;
   -ms-flex: 1 1 0px;
   flex: 1 1 0;
@@ -4662,7 +4662,7 @@ service / realestate / fukuyama-minami-3jo-building
   display: flex;
 }
 
-.suwarikuServiceRealstateFm3bCol3__item {
+.suwarikuServiceRealstateFm3bCol3Item {
   -webkit-box-flex: 1;
   -ms-flex: 1 1 0px;
   flex: 1 1 0;
@@ -4678,13 +4678,13 @@ service / realestate / fukuyama-minami-3jo-building
   margin-right: auto;
 }
 
-.suwarikuServiceRealstateFacMovie__content {
+.suwarikuServiceRealstateFacMovieContent {
   position: relative;
   padding-bottom: 56.25%;
   overflow: hidden;
 }
 
-.suwarikuServiceRealstateFacMovie__content iframe {
+.suwarikuServiceRealstateFacMovieContent iframe {
   position: absolute;
   left: 0;
   top: 0;
@@ -4699,11 +4699,11 @@ service / realestate / fukuyama-minami-3jo-building
   border: solid 4px #ebedf2;
 }
 
-.suwarikuServiceRealstateFacLink__image {
+.suwarikuServiceRealstateFacLinkImg {
   width: calc(724 / 1200 * 100%);
 }
 
-.suwarikuServiceRealstateFacLink__content {
+.suwarikuServiceRealstateFacLinkContent {
   -webkit-box-flex: 1;
   -ms-flex: 1 1 0px;
   flex: 1 1 0;
@@ -4725,7 +4725,7 @@ csr / detail
   margin-bottom: -40px;
 }
 
-.suwarikuCsrDetailList__item {
+.suwarikuCsrDetailListItem {
   width: calc(100% / 4 - 35px);
   margin-right: 35px;
   margin-bottom: 40px;
@@ -4743,19 +4743,19 @@ csr / regional-contribution
   margin-right: -50px;
 }
 
-.suwarikuCsrRcCol--reverse {
+.suwarikuCsrRcColReverse {
   -webkit-box-orient: horizontal;
   -webkit-box-direction: reverse;
   -ms-flex-direction: row-reverse;
   flex-direction: row-reverse;
 }
 
-.suwarikuCsrRcCol__image {
+.suwarikuCsrRcColImage {
   width: calc(472 / 1200 * 100%);
   margin-right: 50px;
 }
 
-.suwarikuCsrRcCol__content {
+.suwarikuCsrRcColContent {
   -webkit-box-flex: 1;
   -ms-flex: 1 1 0px;
   flex: 1 1 0;
@@ -4769,7 +4769,7 @@ csr / regional-contribution
   margin-right: -50px;
 }
 
-.suwarikuCsrRcCol2__item {
+.suwarikuCsrRcCol2Item {
   width: calc(50% - 50px);
   margin-right: 50px;
 }
@@ -4835,7 +4835,7 @@ contact-us
   justify-content: center;
 }
 
-.suwarikuContactUsTel__item {
+.suwarikuContactUsTelItem {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -4844,11 +4844,11 @@ contact-us
   align-items: center;
 }
 
-.suwarikuContactUsTel__item+.suwarikuContactUsTel__item {
+.suwarikuContactUsTelItem+.suwarikuContactUsTelItem {
   margin-left: 30px;
 }
 
-.suwarikuContactUsTel__item>*+* {
+.suwarikuContactUsTelItem>*+* {
   margin-left: 10px;
 }
 
@@ -4863,13 +4863,13 @@ contact-us
   border-top: solid 1px #bdbdbd;
 }
 
-.suwarikuFormItem__title {
+.suwarikuFormItemTitle {
   width: 280px;
   padding-left: 40px;
   padding-right: 40px;
 }
 
-.suwarikuFormItem__content {
+.suwarikuFormItemContent {
   -webkit-box-flex: 1;
   -ms-flex: 1 1 0px;
   flex: 1 1 0;
@@ -4892,7 +4892,7 @@ contact-us
   margin-left: 20px;
 }
 
-.forSuwarikubtns {
+.forsuwarikuButtons {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -4901,7 +4901,7 @@ contact-us
   justify-content: center;
 }
 
-.forSuwarikubtns input, .forSuwarikubtns button {
+.forsuwarikuButtons input, .forsuwarikuButtons button {
   margin-left: 20px;
   margin-right: 20px;
 }
@@ -4917,33 +4917,33 @@ topics
   display: flex;
 }
 
-.suwarikuTopics__aside {
+.suwarikuTopicsAside {
   width: 286px;
   -ms-flex-negative: 0;
   flex-shrink: 0;
   margin-left: 140px;
 }
 
-.suwarikuTopics__content {
+.suwarikuTopicsContent {
   -webkit-box-flex: 1;
   -ms-flex: 1 1 0px;
   flex: 1 1 0;
 }
 
-.suwarikuTopics-archives-item+.suwarikuTopics-archives-item {
+.suwarikuTopicsArchiveItem+.suwarikuTopicsArchiveItem {
   margin-top: 80px;
 }
 
-.suwarikuTopics-article-heading {
+.suwarikuTopicsArticleHeading {
   border-bottom: solid 1px #d6b762;
   padding-bottom: 20px;
 }
 
-.suwarikuTopics-article-body {
+.suwarikuTopicsArticleBody {
   margin-top: 20px;
 }
 
-.suwarikuTopics-date {
+.suwarikuTopicsDate {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -4952,11 +4952,11 @@ topics
   margin-right: -30px;
 }
 
-.suwarikuTopics-date>* {
+.suwarikuTopicsDate>* {
   margin-right: 30px;
 }
 
-.suwarikuTopics-cat {
+.suwarikuTopicsCategory {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -4965,15 +4965,15 @@ topics
   margin-right: -30px;
 }
 
-.suwarikuTopics-cat>* {
+.suwarikuTopicsCategory>* {
   margin-right: 30px;
 }
 
-.suwarikuTopics-aside-item+.suwarikuTopics-aside-item {
+.suwarikuTopicsAsideItem+.suwarikuTopicsAsideItem {
   margin-top: 60px;
 }
 
-.suwarikuTopics-aside-item-title {
+.suwarikuTopicsAsideItemTitle {
   margin-bottom: 20px;
   padding: 20px;
   border-left: solid 1px #021F49;
@@ -4983,25 +4983,25 @@ topics
   font-size: 1.8rem;
 }
 
-.suwarikuTopics-aside-item-list>* {
+.suwarikuTopicsAsideItemList>* {
   padding-top: 15px;
   padding-bottom: 15px;
   font-size: 1.4rem;
   line-height: 1.75;
 }
 
-.suwarikuTopics-aside-item-list>*+* {
+.suwarikuTopicsAsideItemList>*+* {
   border-top: solid 1px #f5f5f5;
 }
 
-.suwarikuTopics-aside-item-list>* a {
+.suwarikuTopicsAsideItemList>* a {
   position: relative;
   display: block;
   padding-left: 20px;
   padding-right: 20px;
 }
 
-.suwarikuTopics-aside-item-list>* a:before {
+.suwarikuTopicsAsideItemList>* a:before {
   content: "";
   width: 4px;
   height: 4px;
@@ -5012,7 +5012,7 @@ topics
   background-color: #021F49;
 }
 
-.suwarikuTopics-aside-item-list>* a:after {
+.suwarikuTopicsAsideItemList>* a:after {
   position: absolute;
   content: "";
   top: 50%;
@@ -5026,14 +5026,14 @@ topics
   transform: translateY(-50%);
 }
 
-.suwarikuTopics-btns {
+.suwarikuTopicsButton {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   margin-right: -40px;
 }
 
-.suwarikuTopics-btns__item {
+.suwarikuTopicsButtonItem {
   width: calc(50% - 40px);
   margin-right: 40px;
 }
@@ -5049,21 +5049,21 @@ sitemap
   display: flex;
 }
 
-.suwarikuSitemap__content {
+.suwarikuSitemapContent {
   -webkit-box-flex: 1;
   -ms-flex: 1 1 0px;
   flex: 1 1 0;
 }
 
-.suwarikuSitemap__content+.suwarikuSitemap__content {
+.suwarikuSitemapContent+.suwarikuSitemapContent {
   margin-left: 60px;
 }
 
-.suwarikuSitemap-list__item+.suwarikuSitemap-list__item {
+.suwarikuSitemapListItem+.suwarikuSitemapListItem {
   margin-top: 80px;
 }
 
-.suwarikuSitemap-list__item>span, .suwarikuSitemap-list__item>a {
+.suwarikuSitemapListItem>span, .suwarikuSitemapListItem>a {
   position: relative;
   display: block;
   font-weight: 700;
@@ -5073,7 +5073,7 @@ sitemap
   padding: 20px 50px 20px 0;
 }
 
-.suwarikuSitemap-list__item>span:before, .suwarikuSitemap-list__item>a:before {
+.suwarikuSitemapListItem>span:before, .suwarikuSitemapListItem>a:before {
   position: absolute;
   content: "";
   top: 50%;
@@ -5087,25 +5087,25 @@ sitemap
   transform: translateY(-50%);
 }
 
-.suwarikuSitemap-child {
+.suwarikuSitemapChild {
   margin-top: 30px;
 }
 
-.suwarikuSitemap-child__item {
+.suwarikuSitemapChildItem {
   font-size: 1.8rem;
 }
 
-.suwarikuSitemap-child__item+.suwarikuSitemap-child__item {
+.suwarikuSitemapChildItem+.suwarikuSitemapChildItem {
   margin-top: 20px;
 }
 
-.suwarikuSitemap-child__item>span, .suwarikuSitemap-child__item>a {
+.suwarikuSitemapChildItem>span, .suwarikuSitemapChildItem>a {
   position: relative;
   display: inline-block;
   padding-left: 30px;
 }
 
-.suwarikuSitemap-child__item>span:before, .suwarikuSitemap-child__item>a:before {
+.suwarikuSitemapChildItem>span:before, .suwarikuSitemapChildItem>a:before {
   position: absolute;
   content: "";
   top: 50%;
@@ -5119,26 +5119,26 @@ sitemap
   transform: translateY(-50%);
 }
 
-.suwarikuSitemap-gchild {
+.suwarikuSitemapGChild {
   margin-left: 30px;
   margin-top: 20px;
 }
 
-.suwarikuSitemap-gchild__item {
+.suwarikuSitemapGChildItem {
   font-size: 1.8rem;
 }
 
-.suwarikuSitemap-gchild__item+.suwarikuSitemap-gchild__item {
+.suwarikuSitemapGChildItem+.suwarikuSitemapGChildItem {
   margin-top: 10px;
 }
 
-.suwarikuSitemap-gchild__item>span, .suwarikuSitemap-gchild__item>a {
+.suwarikuSitemapGChildItem>span, .suwarikuSitemapGChildItem>a {
   position: relative;
   display: inline-block;
   padding-left: 30px;
 }
 
-.suwarikuSitemap-gchild__item>span:before, .suwarikuSitemap-gchild__item>a:before {
+.suwarikuSitemapGChildItem>span:before, .suwarikuSitemapGChildItem>a:before {
   content: "";
   width: 4px;
   height: 4px;
@@ -5157,107 +5157,107 @@ sitemap
 モジュール
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
   /* sp only */
-  .suwarikuAlignC--pc {
+  .suwarikuAlignCPc {
     text-align: inherit;
   }
   .suwarikuPconly {
     display: none !important;
   }
   /* text */
-  .suwarikuText-10 {
+  .suwarikuText10 {
     font-size: 1rem;
   }
-  .suwarikuText-11 {
+  .suwarikuText11 {
     font-size: 1rem;
   }
-  .suwarikuText-12 {
+  .suwarikuText12 {
     font-size: 1.1rem;
   }
-  .suwarikuText-13 {
+  .suwarikuText13 {
     font-size: 1.1rem;
   }
-  .suwarikuText-14 {
+  .suwarikuText14 {
     font-size: 1.2rem;
   }
-  .suwarikuText-15 {
+  .suwarikuText15 {
     font-size: 1.2rem;
   }
-  .suwarikuText-16 {
+  .suwarikuText16 {
     font-size: 1.3rem;
   }
-  .suwarikuText-17 {
+  .suwarikuText17 {
     font-size: 1.3rem;
   }
-  .suwarikuText-18 {
+  .suwarikuText18 {
     font-size: 1.4rem;
   }
-  .suwarikuText-19 {
+  .suwarikuText19 {
     font-size: 1.4rem;
   }
-  .suwarikuText-20 {
+  .suwarikuText20 {
     font-size: 1.5rem;
   }
-  .suwarikuText-21 {
+  .suwarikuText21 {
     font-size: 1.5rem;
   }
-  .suwarikuText-22 {
+  .suwarikuText22 {
     font-size: 1.6rem;
   }
-  .suwarikuText-23 {
+  .suwarikuText23 {
     font-size: 1.6rem;
   }
-  .suwarikuText-24 {
+  .suwarikuText24 {
     font-size: 1.7rem;
   }
-  .suwarikuText-25 {
+  .suwarikuText25 {
     font-size: 1.7rem;
   }
-  .suwarikuText-26 {
+  .suwarikuText26 {
     font-size: 1.8rem;
   }
-  .suwarikuText-27 {
+  .suwarikuText27 {
     font-size: 1.8rem;
   }
-  .suwarikuText-28 {
+  .suwarikuText28 {
     font-size: 1.9rem;
   }
-  .suwarikuText-30 {
+  .suwarikuText30 {
     font-size: 2.0rem;
   }
-  .suwarikuText-31 {
+  .suwarikuText31 {
     font-size: 2.0rem;
   }
-  .suwarikuText-32 {
+  .suwarikuText32 {
     font-size: 2.1rem;
   }
-  .suwarikuText-34 {
+  .suwarikuText34 {
     font-size: 2.2rem;
   }
-  .suwarikuText-35 {
+  .suwarikuText35 {
     font-size: 2.2rem;
   }
-  .suwarikuText-36 {
+  .suwarikuText36 {
     font-size: 2.3rem;
   }
-  .suwarikuText-37 {
+  .suwarikuText37 {
     font-size: 2.3rem;
   }
-  .suwarikuText-38 {
+  .suwarikuText38 {
     font-size: 2.4rem;
   }
-  .suwarikuText-40 {
+  .suwarikuText40 {
     font-size: 2.5rem;
   }
-  .suwarikuText-42 {
+  .suwarikuText42 {
     font-size: 2.6rem;
   }
-  .suwarikuText-44 {
+  .suwarikuText44 {
     font-size: 2.7rem;
   }
-  .suwarikuText-46 {
+  .suwarikuText46 {
     font-size: 2.8rem;
   }
-  .suwarikuText-48 {
+  .suwarikuText48 {
     font-size: 2.9rem;
   }
   .suwarikuLs1 {
@@ -5275,128 +5275,128 @@ sitemap
     opacity: 1;
   }
   /* margin */
-  .suwarikuMt-2xs {
+  .suwarikuMt2xs {
     margin-top: 5px;
   }
-  .suwarikuMt-xs {
+  .suwarikuMtxs {
     margin-top: 10px;
   }
-  .suwarikuMt-s {
+  .suwarikuMts {
     margin-top: 10px;
   }
   .suwarikuMt {
     margin-top: 15px;
   }
-  .suwarikuMt-l {
+  .suwarikuMtl {
     margin-top: 20px;
   }
-  .suwarikuMt-xl {
+  .suwarikuMtxl {
     margin-top: 25px;
   }
-  .suwarikuMt-2xl {
+  .suwarikuMt2xl {
     margin-top: 30px;
   }
-  .suwarikuMt-3xl {
+  .suwarikuMt3xl {
     margin-top: 40px;
   }
-  .suwarikuMt-4xl {
+  .suwarikuMt4xl {
     margin-top: 50px;
   }
-  .suwarikuMbtm-2xs {
+  .suwarikuMbtm2xs {
     margin-bottom: 5px;
   }
-  .suwarikuMbtm-xs {
+  .suwarikuMbtmxs {
     margin-bottom: 10px;
   }
-  .suwarikuMbtm-s {
+  .suwarikuMbtms {
     margin-bottom: 10px;
   }
-  .suwarikuMbtm {
+  .suwarikuMbtm{
     margin-bottom: 15px;
   }
-  .suwarikuMbtm-l {
+  .suwarikuMbtml {
     margin-bottom: 20px;
   }
-  .suwarikuMbtm-xl {
+  .suwarikuMbtmxl {
     margin-bottom: 25px;
   }
-  .suwarikuMbtm-2xl {
+  .suwarikuMbtm2xl {
     margin-bottom: 30px;
   }
-  .suwarikuMbtm-3xl {
+  .suwarikuMbtm3xl {
     margin-bottom: 40px;
   }
-  .suwarikuMbtm-4xl {
+  .suwarikuMbtm4xl {
     margin-bottom: 50px;
   }
   /* padding */
-  .suwarikuPtop-2xs {
+  .suwarikuPtop2xs {
     padding-top: 5px;
   }
-  .suwarikuPtop-xs {
+  .suwarikuPtopxs {
     padding-top: 10px;
   }
-  .suwarikuPtop-s {
+  .suwarikuPtops {
     padding-top: 10px;
   }
-  .suwarikuPtop {
+  .suwarikuPtop{
     padding-top: 15px;
   }
-  .suwarikuPtop-l {
+  .suwarikuPtopl {
     padding-top: 20px;
   }
-  .suwarikuPtop-xl {
+  .suwarikuPtopxl {
     padding-top: 25px;
   }
-  .suwarikuPtop-2xl {
+  .suwarikuPtop2xl {
     padding-top: 30px;
   }
-  .suwarikuPtop-3xl {
+  .suwarikuPtop3xl {
     padding-top: 40px;
   }
-  .suwarikuPtop-4xl {
+  .suwarikuPtop4xl {
     padding-top: 50px;
   }
-  .suwarikuPBtm-2xs {
+  .suwarikuPBtm2xs {
     padding-bottom: 5px;
   }
-  .suwarikuPBtm-xs {
+  .suwarikuPBtmxs {
     padding-bottom: 10px;
   }
-  .suwarikuPBtm-s {
+  .suwarikuPBtms {
     padding-bottom: 10px;
   }
-  .suwarikuPBtm {
+  .suwarikuPBtm{
     padding-bottom: 15px;
   }
-  .suwarikuPBtm-l {
+  .suwarikuPBtml {
     padding-bottom: 20px;
   }
-  .suwarikuPBtm-xl {
+  .suwarikuPBtmxl {
     padding-bottom: 25px;
   }
-  .suwarikuPBtm-2xl {
+  .suwarikuPBtm2xl {
     padding-bottom: 30px;
   }
-  .suwarikuPBtm-3xl {
+  .suwarikuPBtm3xl {
     padding-bottom: 40px;
   }
-  .suwarikuPBtm-4xl {
+  .suwarikuPBtm4xl {
     padding-bottom: 50px;
   }
-  .suwarikuPad-xs {
+  .suwarikuPadxs {
     padding: 10px;
   }
-  .suwarikuPad-s {
+  .suwarikuPads {
     padding: 10px;
   }
-  .suwarikuPad {
+  .suwarikuPad{
     padding: 15px;
   }
-  .suwarikuPad-l {
+  .suwarikuPadl {
     padding: 20px;
   }
-  .suwarikuPad-xl {
+  .suwarikuPadxl {
     padding: 20px;
   }
   .suwarikuContent {
@@ -5404,53 +5404,53 @@ sitemap
     padding-right: 15px;
     max-width: inherit;
   }
-  .suwarikuInner-xs, .suwarikuInner-s, .suwarikuInner, .suwarikuInner-l {
+  .suwarikuInnerxs, .suwarikuInners, .suwarikuInner, .suwarikuInnerl {
     max-width: inherit;
     padding-left: 15px;
     padding-right: 15px;
   }
-  .suwarikuInner-xs .suwarikuInner-xs, .suwarikuInner-xs .suwarikuInner-s, .suwarikuInner-xs .suwarikuInner, .suwarikuInner-xs .suwarikuInner-l, .suwarikuInner-s .suwarikuInner-xs, .suwarikuInner-s .suwarikuInner-s, .suwarikuInner-s .suwarikuInner, .suwarikuInner-s .suwarikuInner-l, .suwarikuInner .suwarikuInner-xs, .suwarikuInner .suwarikuInner-s, .suwarikuInner .suwarikuInner, .suwarikuInner .suwarikuInner-l, .suwarikuInner-l .suwarikuInner-xs, .suwarikuInner-l .suwarikuInner-s, .suwarikuInner-l .suwarikuInner, .suwarikuInner-l .suwarikuInner-l {
+  .suwarikuInnerxs .suwarikuInnerxs, .suwarikuInnerxs .suwarikuInners, .suwarikuInnerxs .suwarikuInner, .suwarikuInnerxs .suwarikuInnerl, .suwarikuInners .suwarikuInnerxs, .suwarikuInners .suwarikuInners, .suwarikuInners .suwarikuInner, .suwarikuInners .suwarikuInnerl, .suwarikuInner .suwarikuInnerxs, .suwarikuInner .suwarikuInners, .suwarikuInner .suwarikuInner, .suwarikuInner .suwarikuInnerl, .suwarikuInnerl .suwarikuInnerxs, .suwarikuInnerl .suwarikuInners, .suwarikuInnerl .suwarikuInner, .suwarikuInnerl .suwarikuInnerl {
     padding-left: 0;
     padding-right: 0;
   }
   /* btn */
-  button.Suwarikubtn, input.Suwarikubtn, a.Suwarikubtn, .Suwarikubtn {
+  button.suwarikuButton, input.suwarikuButton, a.suwarikuButton, .suwarikuButton {
     width: 100%;
     height: 50px;
     line-height: 46px;
     font-size: 1.5rem;
   }
-  button.Suwarikubtn--l, input.Suwarikubtn--l, a.Suwarikubtn--l, .Suwarikubtn--l {
+  button.suwarikuButtonWidth368, input.suwarikuButtonWidth368, a.suwarikuButtonWidth368, .suwarikuButtonWidth368 {
     width: 100%;
   }
-  button.Suwarikubtn-secondary, input.Suwarikubtn-secondary, a.Suwarikubtn-secondary, .Suwarikubtn-secondary {
+  button.suwarikuButtonSecondary, input.suwarikuButtonSecondary, a.suwarikuButtonSecondary, .suwarikuButtonSecondary {
     font-size: 1.4rem;
     width: 100%;
   }
   /* icon */
   /* breadcrumb */
-  .suwarikuBreadcrumb-wrap {
+  .suwarikuBreadcrumbWrap {
     max-width: inherit;
     padding: 20px;
   }
   .suwarikuBreadcrumb {
     max-width: inherit;
   }
-  .suwarikuBreadcrumb__item {
+  .suwarikuBreadcrumbItem {
     font-size: 1rem;
     padding-right: 2em;
   }
-  .suwarikuBreadcrumb__item:before {
+  .suwarikuBreadcrumbItem:before {
     font-size: 1rem;
     right: .5em;
   }
   /* form */
-  input[type="text"].suwarikuInputText, textarea.suwarikuTextarea {
+  input[type="text"].suwarikuInputText, textarea.suwarikuTextrea {
     width: 100%;
     padding: 10px;
     font-size: 1.2rem;
   }
-  textarea.suwarikuTextarea {
+  textarea.suwarikuTextrea {
     line-height: 1.6;
   }
   input[type="radio"].suwarikuInputRadio, input[type="checkbox"].suwarikuInputCheckbox {
@@ -5606,7 +5606,7 @@ sitemap
   .suwarikuHome .suwarikuHeader.is-scrolled .suwarikuHeaderlogo svg .st1 {
     fill: #005585;
   }
-  .suwarikuHome .suwarikuHeader.is-scrolled .suwarikuHeadernav-list__item a {
+  .suwarikuHome .suwarikuHeader.is-scrolled .suwarikuHeaderNavListItem a {
     color: #ffffff;
   }
   .suwarikuHome .suwarikuHeader.is-active {
@@ -5720,31 +5720,31 @@ header
     opacity: 1;
     pointer-events: auto;
   }
-  .suwarikuHeadernav-list {
+  .suwarikuHeaderNavList {
     display: block;
     padding-bottom: 0;
   }
-  .suwarikuHeadernav-list__item {
+  .suwarikuHeaderNavListItem {
     font-size: 1.5rem;
     border-bottom: solid 1px #334e7c;
   }
-  .suwarikuHeadernav-list__item+.suwarikuHeadernav-list__item {
+  .suwarikuHeaderNavListItem+.suwarikuHeaderNavListItem {
     margin-left: 0;
     padding-left: 0;
   }
-  .suwarikuHeadernav-list__item+.suwarikuHeadernav-list__item:before {
+  .suwarikuHeaderNavListItem+.suwarikuHeaderNavListItem:before {
     display: none;
   }
-  .suwarikuHeadernav-list__item>a {
+  .suwarikuHeaderNavListItem>a {
     color: #ffffff;
     position: relative;
     display: block;
     padding: 15px 40px 15px 30px;
   }
-  .suwarikuHeadernav-list__item>a:before {
+  .suwarikuHeaderNavListItem>a:before {
     display: none;
   }
-  .suwarikuHeadernav-list__item--toggle>a:before {
+  .suwarikuHeaderNavListItemToggle>a:before {
     display: block;
     content: "";
     width: 16px;
@@ -5760,7 +5760,7 @@ header
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
   }
-  .suwarikuHeadernav-list__item--toggle>a:after {
+  .suwarikuHeaderNavListItemToggle>a:after {
     content: "";
     width: 2px;
     height: 16px;
@@ -5775,28 +5775,28 @@ header
     -o-transition: .3s;
     transition: .3s;
   }
-  .suwarikuHeadernav-list__item--toggle>a.is-active:after {
+  .suwarikuHeaderNavListItemToggle>a.is-active:after {
     height: 0;
     opacity: 0;
   }
-  .suwarikuHeadernav-list__item--toggle>a.is-active:after {
+  .suwarikuHeaderNavListItemToggle>a.is-active:after {
     height: 0;
     opacity: 0;
   }
-  .suwarikuHeadernav-child {
+  .suwarikuHeaderNavChild {
     display: none;
     background-color: #19386b;
   }
-  .suwarikuHeadernav-child__item {
+  .suwarikuHeaderNavChildItem {
     border-top: solid 1px #334e7c;
   }
-  .suwarikuHeadernav-child__item>a {
+  .suwarikuHeaderNavChildItem>a {
     position: relative;
     display: block;
     padding: 15px 15px 15px 80px;
     color: #ffffff;
   }
-  .suwarikuHeadernav-child__item>a:before {
+  .suwarikuHeaderNavChildItem>a:before {
     position: absolute;
     content: "";
     top: 50%;
@@ -5809,11 +5809,11 @@ header
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
   }
-  .suwarikuHeadersp-nav {
+  .suwarikuHeaderSpNav {
     display: block;
     padding: 40px 20px 100px;
   }
-  .suwarikuHeadersp-nav-list {
+  .suwarikuHeaderSpNavList {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -5823,19 +5823,19 @@ header
     margin-right: -20px;
     margin-bottom: -20px;
   }
-  .suwarikuHeadersp-nav-list__item {
+  .suwarikuHeaderSpNavListItem {
     width: calc(50% - 20px);
     margin-right: 20px;
     margin-bottom: 20px;
     font-size: 1.4rem;
   }
-  .suwarikuHeadersp-nav-list__item a {
+  .suwarikuHeaderSpNavListItem a {
     position: relative;
     display: inline-block;
     padding-left: 15px;
     color: #ffffff;
   }
-  .suwarikuHeadersp-nav-list__item a:before {
+  .suwarikuHeaderSpNavListItem a:before {
     position: absolute;
     content: "";
     top: 50%;
@@ -5858,7 +5858,7 @@ footer
   .suwarikuFooterh {
     display: block;
   }
-  .suwarikuFooterh__map {
+  .suwarikuFooterHMap {
     width: auto;
     margin-top: 20px;
     margin-left: 0;
@@ -5899,10 +5899,10 @@ Common CSS
     padding: 20px;
     height: 120px;
   }
-  .suwarikuContentTitle-text {
+  .suwarikuContentTitleText {
     font-size: 2.4rem;
   }
-  .suwarikuContentTitle-text .en {
+  .suwarikuContentTitleText .en {
     margin-top: 5px;
     font-size: 1.6rem;
   }
@@ -5931,7 +5931,7 @@ Common CSS
     -ms-flex: 1 1 0px;
     flex: 1 1 0;
   }
-  .suwarikuLineTitle--s .suwarikuLineTitle .title:before, .suwarikuLineTitle--s .suwarikuLineTitle .title:after {
+  .suwarikuLineTitleS .suwarikuLineTitle .title:before, .suwarikuLineTitleS .suwarikuLineTitle .title:after {
     width: auto;
   }
   .suwarikuLineTitle .title:before {
@@ -5966,26 +5966,26 @@ Common CSS
   /* =======================================================================
 home
 ======================================================================= */
-  .suwarikuHomeIntro-logo {
+  .suwarikuHomeIntroLogo {
     width: 80px;
   }
-  .suwarikuHome-content {
+  .suwarikuHomeContent {
     padding: 80px 20px 40px 20px;
   }
-  .suwarikuHome-title .en {
+  .suwarikuHomeTitle .en {
     font-size: 3.6rem;
   }
-  .suwarikuHome-title .ja {
+  .suwarikuHomeTitle .ja {
     font-size: 1.5rem;
   }
-  .suwarikuHome-title-s .ja {
+  .suwarikuHomeTitleS .ja {
     font-size: 2.4rem;
   }
-  .suwarikuHome-title-s .en {
+  .suwarikuHomeTitleS .en {
     margin-top: 5px;
     font-size: 1rem;
   }
-  .suwarikuHome-mv {
+  .suwarikuHomeMv {
     padding-bottom: calc(1136 / 750 * 100%);
   }
   .suwarikuHomeMvvideo {
@@ -6024,15 +6024,15 @@ home
     right: 20px;
     bottom: 20px;
   }
-  .suwarikuHomeMvplay-text {
+  .suwarikuHomeMvplayText {
     font-size: 1rem;
     margin-right: 10px;
   }
-  .suwarikuHomeMvplay-icon {
+  .suwarikuHomeMvplayIcon {
     width: 50px;
     height: 50px;
   }
-  .suwarikuHomeMvplay-icon:before {
+  .suwarikuHomeMvplayIcon:before {
     border-top-width: 4px;
     border-bottom-width: 4px;
     border-left-width: 8px;
@@ -6040,104 +6040,104 @@ home
   .suwarikuHome-company {
     margin-top: 75px;
   }
-  .suwarikuHome-history {
+  .suwarikuHomeHistory {
     margin-top: 50px;
   }
-  .suwarikuHome-history-mv {
+  .suwarikuHomeHistoryMv {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
   }
-  .suwarikuHome-history-mv__item {
+  .suwarikuHomeHistoryMvItem {
     width: 50%;
     -webkit-box-flex: 0;
     -ms-flex: 0 0 auto;
     flex: 0 0 auto;
   }
-  .suwarikuHome-history-mv__item img {
+  .suwarikuHomeHistoryMvItem img {
     width: 100%;
   }
-  .suwarikuHome-history-mv__item--title {
+  .suwarikuHomeHistoryMvItemTitle {
     width: 100%;
     padding: 50px;
     background-size: 50%;
   }
-  .suwarikuHome-history-content {
+  .suwarikuHomeHistoryContent {
     margin-top: -15px;
     padding: 30px 20px 40px;
   }
-  .suwarikuHome-recruit {
+  .suwarikuHomeRecruit {
     margin-top: 75px;
   }
-  .suwarikuHome-recruit-list {
+  .suwarikuHomeRecruitList {
     margin-top: 20px;
     margin-right: 0;
     display: block;
   }
-  .suwarikuHome-recruit-list__item {
+  .suwarikuHomeRecruitListItem {
     margin-right: 0;
     width: auto;
   }
-  .suwarikuHome-recruit-list__item+.suwarikuHome-recruit-list__item {
+  .suwarikuHomeRecruitListItem+.suwarikuHomeRecruitListItem {
     margin-top: 20px;
   }
-  .suwarikuHome-service {
+  .suwarikuHomeService {
     margin-top: 60px;
   }
-  .suwarikuHome-service-main {
+  .suwarikuHomeServiceMain {
     margin-top: 30px;
     margin-left: -20px;
     margin-right: -20px;
     display: block;
   }
-  .suwarikuHome-service-main--realestate {
+  .suwarikuHomeServiceMainRealState {
     margin-top: 40px;
   }
-  .suwarikuHome-service-main--realestate .suwarikuHome-service-main__mv {
+  .suwarikuHomeServiceMainRealState .suwarikuHomeServiceMainMv {
     margin-right: 0;
     margin-left: 60px;
   }
-  .suwarikuHome-service-main--realestate .suwarikuHome-service-main-item {
+  .suwarikuHomeServiceMainRealState .suwarikuHomeServiceMainItem {
     margin-left: 0;
     margin-right: 30px;
   }
-  .suwarikuHome-service-main--realestate .suwarikuHome-service-main-image {
+  .suwarikuHomeServiceMainRealState .suwarikuHomeServiceMainImage {
     -webkit-box-pack: start;
     -ms-flex-pack: start;
     justify-content: flex-start;
   }
-  .suwarikuHome-service-main--realestate .suwarikuHome-service-main-image-s {
+  .suwarikuHomeServiceMainRealState .suwarikuHomeServiceMainImageS {
     left: auto;
     right: -24%;
   }
-  .suwarikuHome-service-main__mv {
+  .suwarikuHomeServiceMainMv {
     width: auto;
     margin-right: 60px;
   }
-  .suwarikuHome-service-main__content {
+  .suwarikuHomeServiceMainContent {
     margin-top: -20%;
   }
-  .suwarikuHome-service-main-image-inner {
+  .suwarikuHomeServiceMainImage-inner {
     width: calc(360 / 750 * 100%);
     padding-bottom: 35px;
   }
-  .suwarikuHome-service-main-image-s {
+  .suwarikuHomeServiceMainImageS {
     position: absolute;
     width: calc(294 / 405 * 100%);
   }
-  .suwarikuHome-service-main-item {
+  .suwarikuHomeServiceMainItem {
     margin-left: 30px;
     margin-right: 0px;
   }
-  .suwarikuHome-service-main-item a {
+  .suwarikuHomeServiceMainItem a {
     padding: 30px 40px 40px 25px;
   }
-  .suwarikuHome-service-main-item a:before {
+  .suwarikuHomeServiceMainItem a:before {
     right: 20px;
   }
-  .suwarikuHome-service-title .title {
+  .suwarikuHomeServiceTitle .title {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -6151,7 +6151,7 @@ home
     padding-right: 0;
     z-index: 1;
   }
-  .suwarikuHome-service-title .title:before, .suwarikuHome-service-title .title:after {
+  .suwarikuHomeServiceTitle .title:before, .suwarikuHomeServiceTitle .title:after {
     width: auto;
     height: 1px;
     position: relative;
@@ -6160,7 +6160,7 @@ home
     -ms-flex: 1 1 0px;
     flex: 1 1 0;
   }
-  .suwarikuHome-service-title .title:before {
+  .suwarikuHomeServiceTitle .title:before {
     left: auto;
     -webkit-transform: none;
     -ms-transform: none;
@@ -6170,7 +6170,7 @@ home
     background-image: -o-linear-gradient(left, #d6b762 0%, #d6b762 20px, #021F49 20px, #021F49 100%);
     background-image: linear-gradient(to right, #d6b762 0%, #d6b762 20px, #021F49 20px, #021F49 100%);
   }
-  .suwarikuHome-service-title .title:after {
+  .suwarikuHomeServiceTitle .title:after {
     right: auto;
     -webkit-transform: none;
     -ms-transform: none;
@@ -6180,51 +6180,51 @@ home
     background-image: -o-linear-gradient(right, #d6b762 0%, #d6b762 20px, #021F49 20px, #021F49 100%);
     background-image: linear-gradient(to left, #d6b762 0%, #d6b762 20px, #021F49 20px, #021F49 100%);
   }
-  .suwarikuHome-service-content {
+  .suwarikuHomeServiceContent {
     padding: 20px;
     margin-top: 40px;
   }
-  .suwarikuHome-service-realestate-col {
+  .suwarikuHomeServiceRealStateCol {
     display: block;
   }
-  .suwarikuHome-service-realestate-col__content {
+  .suwarikuHomeServiceRealStateColContent {
     margin-top: 20px;
     margin-right: 0;
     width: auto;
   }
-  .suwarikuHome-service-list {
+  .suwarikuHomeServiceList {
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
     margin-right: -20px;
     margin-bottom: -20px;
   }
-  .suwarikuHome-service-list__item {
+  .suwarikuHomeServiceListItem {
     margin-right: 20px;
     margin-bottom: 20px;
     width: calc(100% / 2 - 20px);
   }
-  .suwarikuHome-topics {
+  .suwarikuHomeTopics {
     margin-top: 50px;
   }
-  .suwarikuHome-topics-box {
+  .suwarikuHomeTopicsBox {
     margin-top: 20px;
     padding: 20px;
   }
-  .suwarikuHome-topics-list__item {
+  .suwarikuHomeTopicsListItem {
     padding: 0 0 10px;
   }
-  .suwarikuHome-topics-list__item+.suwarikuHome-topics-list__item {
+  .suwarikuHomeTopicsListItem+.suwarikuHomeTopicsListItem {
     padding-top: 10px;
   }
-  .suwarikuHome-topics-list__item a {
+  .suwarikuHomeTopicsListItem a {
     display: block;
   }
-  .suwarikuHome-topics-list__item a .datetime {
+  .suwarikuHomeTopicsListItem a .datetime {
     display: block;
     width: auto;
     margin-bottom: 5px;
   }
-  .suwarikuHome-gallery__wrap {
+  .suwarikuHomeGalleryWrap {
     margin-top: 50px;
   }
 }
@@ -6251,37 +6251,37 @@ home
   /* =======================================================================
 about
 ======================================================================= */
-  .suwarikuAboutIndexMv-image {
+  .suwarikuAboutIndexMvImage {
     margin-left: -20%;
     margin-right: -20%;
   }
-  .suwarikuAboutIndexMv-title {
+  .suwarikuAboutIndexMvTitle {
     left: 15px;
     margin-left: 0;
     font-size: 1.4rem;
   }
-  .suwarikuAboutIndexMv-title span {
+  .suwarikuAboutIndexMvTitle span {
     padding: 10px;
   }
   .suwarikuAboutIndexMessage {
     display: block;
   }
-  .suwarikuAboutIndexMessage__image {
+  .suwarikuAboutIndexMessageImage {
     margin-top: 30px;
     width: auto;
     text-align: center;
   }
-  .suwarikuAboutIndexMessage__content {
+  .suwarikuAboutIndexMessageContent {
     margin-left: 0;
   }
   .suwarikuAboutNav {
     margin-right: -10px;
   }
-  .suwarikuAboutNav__item {
+  .suwarikuAboutNavItem {
     margin-right: 10px;
     font-size: 1.2rem;
   }
-  .suwarikuAboutNav__item a {
+  .suwarikuAboutNavItem a {
     height: 50px;
   }
   .suwarikuAboutOutlineSales {
@@ -6289,27 +6289,27 @@ about
     padding-top: 30px;
     padding-bottom: 30px;
   }
-  .suwarikuAboutOutlineSales__image {
+  .suwarikuAboutOutlineSalesImage {
     width: auto;
     margin-top: 20px;
     text-align: center;
   }
-  .suwarikuAboutOutlineSales__content {
+  .suwarikuAboutOutlineSalesContent {
     margin-left: 0;
   }
-  .suwarikuAboutOutlineSales-warehouse {
+  .suwarikuAboutOutlineSalesWarehouse {
     padding: 20px;
   }
-  .suwarikuAboutOutlineSales-realestate {
+  .suwarikuAboutOutlineSalesRealState {
     padding: 20px;
   }
-  .suwarikuAboutOutlineSales-list {
+  .suwarikuAboutOutlineSalesList {
     margin-left: 0;
   }
   .suwarikuAboutOutlineBnrs {
     margin-right: -10px;
   }
-  .suwarikuAboutOutlineBnrs__item {
+  .suwarikuAboutOutlineBnrsItem {
     margin-right: 10px;
     width: calc(50% - 10px);
     margin-bottom: 10px;
@@ -6317,10 +6317,10 @@ about
   .suwarikuAboutPhilosphyLogo {
     display: block;
   }
-  .suwarikuAboutPhilosphyLogo-img {
+  .suwarikuAboutPhilosphyLogoImg {
     width: 100%;
   }
-  .suwarikuAboutPhilosphyLogo-text {
+  .suwarikuAboutPhilosphyLogoText {
     width: 100%;
     margin-top: 40px;
   }
@@ -6333,7 +6333,7 @@ history
     background-size: cover;
     padding: 40px 20px;
   }
-  .suwarikuHistoryMv-text {
+  .suwarikuHistoryMvText {
     position: relative;
     left: auto;
     right: auto;
@@ -6343,7 +6343,7 @@ history
     -ms-transform: none;
     transform: none;
   }
-  .suwarikuHistoryMv-image {
+  .suwarikuHistoryMvImage {
     display: none;
   }
   .suwarikuHistoryBg {
@@ -6368,56 +6368,56 @@ history
     margin-left: auto;
     margin-right: auto;
   }
-  .suwarikuHistoryHeading-year {
+  .suwarikuHistoryHeadingYear {
     margin-top: 20px;
     font-size: 2rem;
   }
   .suwarikuHistoryList {
     padding-bottom: 20px;
   }
-  .suwarikuHistoryList-line {
+  .suwarikuHistoryListLine {
     display: none;
   }
-  .suwarikuHistoryList__item {
+  .suwarikuHistoryListItem {
     width: auto;
     -webkit-transform: translateY(20px);
     -ms-transform: translateY(20px);
     transform: translateY(20px);
   }
-  .suwarikuHistoryList__item.is-active {
+  .suwarikuHistoryListItem.is-active {
     -webkit-transform: translateY(0);
     -ms-transform: translateY(0);
     transform: translateY(0);
   }
-  .suwarikuHistoryList__item+.suwarikuHistoryList__item {
+  .suwarikuHistoryListItem+.suwarikuHistoryListItem {
     margin-top: 50px;
   }
-  .suwarikuHistoryList__item .y {
+  .suwarikuHistoryListItem .y {
     display: none;
   }
-  .suwarikuHistoryList__item:nth-of-type(odd) {
+  .suwarikuHistoryListItem:nth-of-type(odd) {
     padding-right: 0;
   }
-  .suwarikuHistoryList__item:nth-of-type(even) {
+  .suwarikuHistoryListItem:nth-of-type(even) {
     padding-left: 0;
   }
-  .suwarikuHistoryList-image {
+  .suwarikuHistoryListImage {
     margin-bottom: 20px;
   }
-  .suwarikuHistoryList-year {
+  .suwarikuHistoryListYear {
     margin-bottom: 15px;
   }
-  .suwarikuHistoryList-year .en {
+  .suwarikuHistoryListYear .en {
     font-size: 2rem;
   }
-  .suwarikuHistoryList-year .ja {
+  .suwarikuHistoryListYear .ja {
     font-size: 1.2rem;
   }
-  .suwarikuHistoryList-title {
+  .suwarikuHistoryListTitle {
     margin-bottom: 15px;
     font-size: 1.4rem;
   }
-  .suwarikuHistoryList-text {
+  .suwarikuHistoryListText {
     margin-bottom: 15px;
     font-size: 1.4rem;
   }
@@ -6433,10 +6433,10 @@ history
     -ms-transform: translateY(0);
     transform: translateY(0);
   }
-  .suwarikuHistoryPresent__image {
+  .suwarikuHistoryPresentImage {
     width: auto;
   }
-  .suwarikuHistoryPresent__content {
+  .suwarikuHistoryPresentContent {
     margin-right: 0;
     margin-bottom: 20px;
   }
@@ -6446,7 +6446,7 @@ service
   .suwarikuServiceMv {
     padding: 30px 20px;
   }
-  .suwarikuServiceMv-movie {
+  .suwarikuServiceMvMovie {
     max-width: inherit;
     margin-top: 20px;
   }
@@ -6454,40 +6454,40 @@ service
     margin-right: 0;
     display: block;
   }
-  .suwarikuServiceList__item {
+  .suwarikuServiceListItem {
     margin-right: 0;
     width: auto;
   }
-  .suwarikuServiceList__item+.suwarikuServiceList__item {
+  .suwarikuServiceListItem+.suwarikuServiceListItem {
     margin-top: 20px;
   }
-  .suwarikuServiceList-content {
+  .suwarikuServiceListContent {
     padding: 20px;
   }
   /* =======================================================================
 service / warehouse
 ======================================================================= */
-  .suwarikuServiceWarehouseItem-col {
+  .suwarikuServiceWarehouseItemCol {
     display: block;
   }
-  .suwarikuServiceWarehouseItem-col__image {
+  .suwarikuServiceWarehouseItemColImage {
     -ms-flex-negative: 0;
     flex-shrink: 0;
   }
-  .suwarikuServiceWarehouseItem-col__content {
+  .suwarikuServiceWarehouseItemColContent {
     margin-top: 20px;
     margin-left: 0;
     -webkit-box-flex: 1;
     -ms-flex: 1 1 0px;
     flex: 1 1 0;
   }
-  .suwarikuServiceWarehouseItem-content {
+  .suwarikuServiceWarehouseItemContent {
     padding-left: 20px;
   }
-  .suwarikuServiceWarehouseItem-title {
+  .suwarikuServiceWarehouseItemTitle {
     padding-left: 20px;
   }
-  .suwarikuServiceWarehouseItem-title:before {
+  .suwarikuServiceWarehouseItemTitle:before {
     width: 4px;
   }
   /* =======================================================================
@@ -6508,12 +6508,12 @@ service / warehouse / detail
     margin-bottom: 0;
     margin-right: 0;
   }
-  .suwarikuServiceWarehouseDetailSpec__item {
+  .suwarikuServiceWarehouseDetailSpecItem {
     width: auto;
     margin-right: 0;
     margin-bottom: 0;
   }
-  .suwarikuServiceWarehouseDetailSpec__item+.suwarikuServiceWarehouseDetailSpec__item {
+  .suwarikuServiceWarehouseDetailSpecItem+.suwarikuServiceWarehouseDetailSpecItem {
     margin-top: 10px;
   }
   .suwarikuServiceWarehouseDetailMap {
@@ -6525,17 +6525,17 @@ service / warehouse / detail
   .suwarikuServiceWarehouseDetaildata {
     display: block;
   }
-  .suwarikuServiceWarehouseDetaildata__item+.suwarikuServiceWarehouseDetaildata__item {
+  .suwarikuServiceWarehouseDetaildataItem+.suwarikuServiceWarehouseDetaildataItem {
     margin-left: 0;
     margin-top: 20px;
   }
-  .suwarikuServiceWarehouseDetaildata-tbl {
+  .suwarikuServiceWarehouseDetaildataTable {
     width: 100%;
   }
   .suwarikuServiceWarehouseDetailother {
     padding: 40px 20px 20px;
   }
-  .suwarikuServiceWarehouseDetailother-list {
+  .suwarikuServiceWarehouseDetailotherList {
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
     -webkit-box-pack: start;
@@ -6543,7 +6543,7 @@ service / warehouse / detail
     justify-content: flex-start;
     margin-right: -20px;
   }
-  .suwarikuServiceWarehouseDetailother-list__item {
+  .suwarikuServiceWarehouseDetailotherListItem {
     width: calc(100% / 2 - 20px);
     margin-right: 20px;
     margin-bottom: 20px;
@@ -6555,7 +6555,7 @@ service / realestate
     display: block;
     padding: 20px;
   }
-  .suwarikuServiceRealstateMain__content {
+  .suwarikuServiceRealstateMainContent {
     width: auto;
     -ms-flex-negative: 0;
     flex-shrink: 0;
@@ -6572,7 +6572,7 @@ service / realestate
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
   }
-  .suwarikuServiceRealstateList__item {
+  .suwarikuServiceRealstateListItem {
     margin-bottom: 20px;
     margin-right: 20px;
     width: calc(100% / 2 - 20px);
@@ -6583,10 +6583,10 @@ service / realestate / detail
   .suwarikuServiceRealstateIntro {
     display: block;
   }
-  .suwarikuServiceRealstateIntro__image {
+  .suwarikuServiceRealstateIntroImage {
     width: auto;
   }
-  .suwarikuServiceRealstateIntro__content {
+  .suwarikuServiceRealstateIntroContent {
     margin-left: 0;
     margin-top: 20px;
     padding: 20px;
@@ -6605,7 +6605,7 @@ service / realestate / detail
     margin-right: -20px;
     margin-bottom: -20px;
   }
-  .suwarikuServiceRealstateTenant__item {
+  .suwarikuServiceRealstateTenantItem {
     width: calc(50% - 20px);
     margin-right: 20px;
     margin-bottom: 20px;
@@ -6614,19 +6614,19 @@ service / realestate / detail
     width: 100%;
     height: auto;
   }
-  .suwarikuServiceRealstateCalendar-txt {
+  .suwarikuServiceRealstateCalendarText {
     line-height: 1.5;
   }
   /* =======================================================================
 service / realestate / fukuyama-minami-3jo-building
 ======================================================================= */
-  .suwarikuServiceRealstateFm3bTitle-text {
+  .suwarikuServiceRealstateFm3bTitleText {
     width: 66.6%;
     left: 50%;
     padding: 20px;
     font-size: 2rem;
   }
-  .suwarikuServiceRealstateFm3bTitle-text small {
+  .suwarikuServiceRealstateFm3bTitleText small {
     margin-top: 5px;
     font-size: 1.4rem;
   }
@@ -6634,7 +6634,7 @@ service / realestate / fukuyama-minami-3jo-building
     display: block;
     margin-right: 0;
   }
-  .suwarikuServiceRealstateDetailNav__item {
+  .suwarikuServiceRealstateDetailNavItem {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -6645,13 +6645,13 @@ service / realestate / fukuyama-minami-3jo-building
     font-size: 1.4rem;
     padding: 20px;
   }
-  .suwarikuServiceRealstateDetailNav__item br {
+  .suwarikuServiceRealstateDetailNavItem br {
     display: none;
   }
-  .suwarikuServiceRealstateDetailNav__item+.suwarikuServiceRealstateDetailNav__item {
+  .suwarikuServiceRealstateDetailNavItem+.suwarikuServiceRealstateDetailNavItem {
     margin-top: 5px;
   }
-  .suwarikuServiceRealstateDetailNav__item:before {
+  .suwarikuServiceRealstateDetailNavItem:before {
     bottom: auto;
     left: auto;
     right: 20px;
@@ -6660,7 +6660,7 @@ service / realestate / fukuyama-minami-3jo-building
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
   }
-  .suwarikuServiceRealstateDetailNav__item .icon {
+  .suwarikuServiceRealstateDetailNavItem .icon {
     width: 40px;
     margin-left: 0;
     margin-right: 10px;
@@ -6675,18 +6675,18 @@ service / realestate / fukuyama-minami-3jo-building
   .suwarikuServiceRealstateDetailTitle .icon {
     width: 40px;
   }
-  .suwarikuServiceRealstateDetail-table-wrap {
+  .suwarikuServiceRealstateDetailTableWrap {
     position: relative;
     padding-right: 30px;
   }
-  .suwarikuServiceRealstateDetail-table {
+  .suwarikuServiceRealstateDetailTable {
     overflow-x: scroll;
     -webkit-overflow-scrolling: touch;
   }
-  .suwarikuServiceRealstateDetail-table table {
+  .suwarikuServiceRealstateDetailTable table {
     width: 800px;
   }
-  .suwarikuServiceRealstateDetail-table-wrap::after {
+  .suwarikuServiceRealstateDetailTableWrap::after {
     content: '続きはスクロール↑';
     position: absolute;
     bottom: 0;
@@ -6711,7 +6711,7 @@ service / realestate / fukuyama-minami-3jo-building
   .suwarikuServiceRealstateFm3bCol1 {
     display: block;
   }
-  .suwarikuServiceRealstateFm3bCol1__image {
+  .suwarikuServiceRealstateFm3bCol1Img {
     width: auto;
   }
   .suwarikuServiceRealstateFm3bCol1>*+* {
@@ -6721,7 +6721,7 @@ service / realestate / fukuyama-minami-3jo-building
   .suwarikuServiceRealstateFm3bCol2 {
     display: block;
   }
-  .suwarikuServiceRealstateFm3bCol2__image {
+  .suwarikuServiceRealstateFm3bCol2Img {
     width: auto;
   }
   .suwarikuServiceRealstateFm3bCol2>*+* {
@@ -6736,12 +6736,12 @@ service / realestate / fukuyama-minami-3jo-building
     margin-left: auto;
     margin-right: auto;
   }
-  .suwarikuServiceRealstateFacMovie__content {
+  .suwarikuServiceRealstateFacMovieContent {
     position: relative;
     padding-bottom: 56.25%;
     overflow: hidden;
   }
-  .suwarikuServiceRealstateFacMovie__content iframe {
+  .suwarikuServiceRealstateFacMovieContent iframe {
     position: absolute;
     left: 0;
     top: 0;
@@ -6751,10 +6751,10 @@ service / realestate / fukuyama-minami-3jo-building
   .suwarikuServiceRealstateFacLink {
     display: block;
   }
-  .suwarikuServiceRealstateFacLink__image {
+  .suwarikuServiceRealstateFacLinkImg {
     width: auto;
   }
-  .suwarikuServiceRealstateFacLink__content {
+  .suwarikuServiceRealstateFacLinkContent {
     padding: 20px;
   }
   /* =======================================================================
@@ -6764,7 +6764,7 @@ csr / detail
     margin-right: -20px;
     margin-bottom: -20px;
   }
-  .suwarikuCsrDetailList__item {
+  .suwarikuCsrDetailListItem {
     width: calc(100% / 2 - 20px);
     margin-right: 20px;
     margin-bottom: 20px;
@@ -6776,23 +6776,23 @@ csr / regional-contribution
     display: block;
     margin-right: 0;
   }
-  .suwarikuCsrRcCol__image {
+  .suwarikuCsrRcColImage {
     width: auto;
     margin-right: 0;
     margin-top: 20px;
   }
-  .suwarikuCsrRcCol__content {
+  .suwarikuCsrRcColContent {
     margin-right: 0;
   }
   .suwarikuCsrRcCol2 {
     display: block;
     margin-right: 0;
   }
-  .suwarikuCsrRcCol2__item {
+  .suwarikuCsrRcCol2Item {
     width: auto;
     margin-right: 0;
   }
-  .suwarikuCsrRcCol2__item+.suwarikuCsrRcCol2__item {
+  .suwarikuCsrRcCol2Item+.suwarikuCsrRcCol2Item {
     margin-top: 40px;
   }
   /* =======================================================================
@@ -6821,30 +6821,30 @@ contact-us
   .suwarikuContactUsTel {
     display: block;
   }
-  .suwarikuContactUsTel__item {
+  .suwarikuContactUsTelItem {
     -webkit-box-pack: center;
     -ms-flex-pack: center;
     justify-content: center;
   }
-  .suwarikuContactUsTel__item+.suwarikuContactUsTel__item {
+  .suwarikuContactUsTelItem+.suwarikuContactUsTelItem {
     margin-left: 0;
     margin-top: 20px;
   }
-  .suwarikuContactUsTel__item>*+* {
+  .suwarikuContactUsTelItem>*+* {
     margin-left: 10px;
   }
-  .suwarikuContactUsTel__item .icon {
+  .suwarikuContactUsTelItem .icon {
     width: 16px;
   }
   .suwarikuFormItem {
     display: block;
   }
-  .suwarikuFormItem__title {
+  .suwarikuFormItemTitle {
     width: auto;
     padding-left: 0;
     padding-right: 0;
   }
-  .suwarikuFormItem__content {
+  .suwarikuFormItemContent {
     margin-top: 20px;
   }
   .suwarikuFormItem .require {
@@ -6855,10 +6855,10 @@ contact-us
     margin-left: 0;
     margin-top: 10px;
   }
-  .forSuwarikubtns {
+  .forsuwarikuButtons {
     display: block;
   }
-  .forSuwarikubtns input, .forSuwarikubtns button {
+  .forsuwarikuButtons input, .forsuwarikuButtons button {
     margin-left: 0;
     margin-right: 0;
     margin-bottom: 20px;
@@ -6869,53 +6869,53 @@ topics
   .suwarikuTopics {
     display: block;
   }
-  .suwarikuTopics__aside {
+  .suwarikuTopicsAside {
     width: auto;
     margin-left: 0;
     margin-top: 80px;
   }
-  .suwarikuTopics-archives-item+.suwarikuTopics-archives-item {
+  .suwarikuTopicsArchiveItem+.suwarikuTopicsArchiveItem {
     margin-top: 60px;
   }
-  .suwarikuTopics-date {
+  .suwarikuTopicsDate {
     margin-right: -15px;
   }
-  .suwarikuTopics-date>* {
+  .suwarikuTopicsDate>* {
     margin-right: 15px;
   }
-  .suwarikuTopics-cat {
+  .suwarikuTopicsCategory {
     margin-right: -15px;
   }
-  .suwarikuTopics-cat>* {
+  .suwarikuTopicsCategory>* {
     margin-right: 15px;
   }
-  .suwarikuTopics-aside-item+.suwarikuTopics-aside-item {
+  .suwarikuTopicsAsideItem+.suwarikuTopicsAsideItem {
     margin-top: 30px;
   }
-  .suwarikuTopics-aside-item-title {
+  .suwarikuTopicsAsideItemTitle {
     margin-bottom: 10px;
     padding: 20px;
     font-size: 1.4rem;
   }
-  .suwarikuTopics-aside-item-list>* {
+  .suwarikuTopicsAsideItemList>* {
     font-size: 1.2rem;
   }
-  .suwarikuTopics-aside-item-list>* a {
+  .suwarikuTopicsAsideItemList>* a {
     padding-left: 15px;
     padding-right: 15px;
   }
-  .suwarikuTopics-aside-item-list>* a:before {
+  .suwarikuTopicsAsideItemList>* a:before {
     top: 8px;
   }
-  .suwarikuTopics-btns {
+  .suwarikuTopicsButton {
     display: block;
     margin-right: 0;
   }
-  .suwarikuTopics-btns__item {
+  .suwarikuTopicsButtonItem {
     width: auto;
     margin-right: 0;
   }
-  .suwarikuTopics-btns__item+.suwarikuTopics-btns__item {
+  .suwarikuTopicsButtonItem+.suwarikuTopicsButtonItem {
     margin-top: 20px;
   }
   /* =======================================================================
@@ -6924,32 +6924,32 @@ sitemap
   .suwarikuSitemap {
     display: block;
   }
-  .suwarikuSitemap__content+.suwarikuSitemap__content {
+  .suwarikuSitemapContent+.suwarikuSitemapContent {
     margin-left: 0;
     margin-top: 40px;
   }
-  .suwarikuSitemap-list__item+.suwarikuSitemap-list__item {
+  .suwarikuSitemapListItem+.suwarikuSitemapListItem {
     margin-top: 40px;
   }
-  .suwarikuSitemap-list__item>span, .suwarikuSitemap-list__item>a {
+  .suwarikuSitemapListItem>span, .suwarikuSitemapListItem>a {
     font-size: 1.6rem;
   }
-  .suwarikuSitemap-child {
+  .suwarikuSitemapChild {
     margin-top: 20px;
   }
-  .suwarikuSitemap-child__item {
+  .suwarikuSitemapChildItem {
     font-size: 1.4rem;
   }
-  .suwarikuSitemap-child__item>span, .suwarikuSitemap-child__item>a {
+  .suwarikuSitemapChildItem>span, .suwarikuSitemapChildItem>a {
     padding-left: 20px;
   }
-  .suwarikuSitemap-gchild {
+  .suwarikuSitemapGChild {
     margin-left: 20px;
   }
-  .suwarikuSitemap-gchild__item {
+  .suwarikuSitemapGChildItem {
     font-size: 1.4rem;
   }
-  .suwarikuSitemap-gchild__item>span, .suwarikuSitemap-gchild__item>a {
+  .suwarikuSitemapGChildItem>span, .suwarikuSitemapGChildItem>a {
     padding-left: 15px;
   }
 }
