@@ -14,31 +14,31 @@
 
 get_header();
 ?>
-	<main class="l-container">
-		<div class="m-content-title">
-			<h1 class="m-content-title-text">スワリクについて<span class="en">COMPANY</span></h1>
+	<main class="suwarikuContainer">
+		<div class="suwarikuContentTitle">
+			<h1 class="suwarikuContentTitle-text">スワリクについて<span class="en">COMPANY</span></h1>
 		</div>
-		<div class="m-breadcrumb-wrap">
-			<ol class="m-breadcrumb">
-				<li class="m-breadcrumb__item"><a href="<?php bloginfo('url'); ?>">ホーム</a></li>
-				<li class="m-breadcrumb__item">スワリクについて</li>
+		<div class="suwarikuBreadcrumb-wrap">
+			<ol class="suwarikuBreadcrumb">
+				<li class="suwarikuBreadcrumb__item"><a href="<?php bloginfo('url'); ?>">ホーム</a></li>
+				<li class="suwarikuBreadcrumb__item">スワリクについて</li>
 			</ol>
 		</div>
-		<div class="l-inner m-pt-xl">
-			<ul class="m-about-nav">
-				<li class="m-about-nav__item"><a href="<?php bloginfo('url'); ?>/about/">代表挨拶</a></li>
-				<li class="m-about-nav__item"><a href="<?php bloginfo('url'); ?>/about/company/">会社概要</a></li>
-				<li class="m-about-nav__item"><a href="<?php bloginfo('url'); ?>/about/philosophy/" class="is-active">経営理念</a></li>
-				<li class="m-about-nav__item"><a href="<?php bloginfo('url'); ?>/about/links/">リンク</a></li>
+		<div class="suwarikuInner suwarikuPtop-xl">
+			<ul class="suwarikuAboutNav">
+				<li class="suwarikuAboutNav__item"><a href="<?php bloginfo('url'); ?>/about/">代表挨拶</a></li>
+				<li class="suwarikuAboutNav__item"><a href="<?php bloginfo('url'); ?>/about/company/">会社概要</a></li>
+				<li class="suwarikuAboutNav__item"><a href="<?php bloginfo('url'); ?>/about/philosophy/" class="is-active">経営理念</a></li>
+				<li class="suwarikuAboutNav__item"><a href="<?php bloginfo('url'); ?>/about/links/">リンク</a></li>
 			</ul>
 		</div>
 
 		<section>
-			<div class="l-inner m-pt-xl m-pb-xl">
-				<h2 class="m-line-title"><span class="title">経営理念</span></h2>
-				<div class="m-about-philosphy">
-					<div class="m-about-philosphy-content">
-						<h3 class="m-about-philosphy-title">
+			<div class="suwarikuInner suwarikuPtop-xl suwarikuPBtm-xl">
+				<h2 class="suwarikuLineTitle"><span class="title">経営理念</span></h2>
+				<div class="suwarikuAboutPhilosphy">
+					<div class="suwarikuAboutPhilosphyContent">
+						<h3 class="suwarikuAboutPhilosphyTitle">
 							<svg xmlns="http://www.w3.org/2000/svg" width="181" height="84" viewBox="0 0 181 84">
 							<defs>
 								<style>
@@ -60,7 +60,7 @@ get_header();
 							</g>
 							</svg>
 						</h3>
-						<div class="m-about-philosphy-logo-img">
+						<div class="suwarikuAboutPhilosphyLogo-img">
 							<svg xmlns="http://www.w3.org/2000/svg" width="336.092" height="142.5" viewBox="0 0 336.092 142.5">
 								<defs>
 									<style>
@@ -144,12 +144,12 @@ get_header();
 								</g>
 								</svg>								  
 						</div>
-						<span class="m-about-philosphy-content-img-a"></span>
+						<span class="suwarikuAboutPhilosphyConentImgA"></span>
 						<p>【元気】とは、単に人の活気ある姿や、<br>いきいきとした動作などを言うだけではなく、<br>天地万物・命を生み出し、<br>それを生かしているエネルギーの根源を言います<br>私たちは、根源なる気＝エネルギーをお届けすることにより、<br>新たな価値の創造や感動・幸福のお役立ちとなります。</p>
-						<span class="m-about-philosphy-content-img-a-1"></span>
+						<span class="suwarikuAboutPhilosphyConentImgA-1"></span>
 					</div>
-					<div class="m-about-philosphy-content">
-						<h3 class="m-about-philosphy-title"><svg xmlns="http://www.w3.org/2000/svg" width="290" height="84" viewBox="0 0 290 84">
+					<div class="suwarikuAboutPhilosphyContent">
+						<h3 class="suwarikuAboutPhilosphyTitle"><svg xmlns="http://www.w3.org/2000/svg" width="290" height="84" viewBox="0 0 290 84">
 							<defs>
 								<style>
 								.cls-1-2 {
@@ -170,11 +170,11 @@ get_header();
 							</g>
 							</svg>
 							</h3>
-						<span class="m-about-philosphy-content-img-b"></span>
+						<span class="suwarikuAboutPhilosphyConentImgB"></span>
 						<p>私たちは、物流業務を通じて、<br>全従業員の物心両面の豊かさを実現すると共に、<br>お客様と社会の発展に貢献します。</p>
 					</div>
-					<div class="m-about-philosphy-content">
-						<h3 class="m-about-philosphy-title"><svg xmlns="http://www.w3.org/2000/svg" width="255" height="84" viewBox="0 0 255 84">
+					<div class="suwarikuAboutPhilosphyContent">
+						<h3 class="suwarikuAboutPhilosphyTitle"><svg xmlns="http://www.w3.org/2000/svg" width="255" height="84" viewBox="0 0 255 84">
 							<defs>
 								<style>
 								.cls-1-3 {
@@ -195,11 +195,11 @@ get_header();
 							</g>
 							</svg>
 							</h3>
-						<span class="m-about-philosphy-content-img-c"></span>
+						<span class="suwarikuAboutPhilosphyConentImgC"></span>
 						<p>私たちは、決められたこと基本的なことを確実に実行します。<br>私たちは、お客様と共にお取引先様と共に社員みんなと<br>共に明るく積極的に前向きに行動します。</p>
 					</div>
-					<div class="m-about-philosphy-content">
-						<h3 class="m-about-philosphy-title"><svg xmlns="http://www.w3.org/2000/svg" width="350" height="84" viewBox="0 0 350 84">
+					<div class="suwarikuAboutPhilosphyContent">
+						<h3 class="suwarikuAboutPhilosphyTitle"><svg xmlns="http://www.w3.org/2000/svg" width="350" height="84" viewBox="0 0 350 84">
 							<defs>
 								<style>
 								.cls-1-4 {
@@ -220,15 +220,15 @@ get_header();
 							</g>
 							</svg>
 							</h3>
-						<span class="m-about-philosphy-content-img-d"></span>
+						<span class="suwarikuAboutPhilosphyConentImgD"></span>
 						<p>【仁】　万事において人の心を尊重した対応をおこなう<br>【義】　道義・原理原則に則った判断を行う<br>【誠】　常に誠実に行動する<br>【和】　共に働く仲間の和をもって事を成す</p>
-						<span class="m-about-philosphy-content-img-d-2"></span>
+						<span class="suwarikuAboutPhilosphyConentImgD-2"></span>
 					</div>
 				</div>
-				<h2 class="m-line-title m-mt-4xl m-mb-4xl"><span class="title">ロゴについて</span></h2>
-				<div class="m-about-philosphy">
-					<div class="m-about-philosphy-logo">
-						<div class="m-about-philosphy-logo-img">
+				<h2 class="suwarikuLineTitle suwarikuMt-4xl suwarikuMb-4xl"><span class="title">ロゴについて</span></h2>
+				<div class="suwarikuAboutPhilosphy">
+					<div class="suwarikuAboutPhilosphyLogo">
+						<div class="suwarikuAboutPhilosphyLogo-img">
 							<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="249" height="147" viewBox="0 0 249 147">
 							<defs>
 								<style>
@@ -258,13 +258,13 @@ get_header();
 							</g>
 							</svg>
 						</div>
-						<div class="m-about-philosphy-logo-text">
-							<p>「<span class="m-color-red">SuwaRiku</span>」の<span class="m-color-red"></span><span class="m-color-red">SR</span>の文字と、<br class="br-none">「<span class="m-color-red">Transport</span>」の<span class="m-color-red">T</span>の文字そして、
-							輸送品質で<span class="m-color-red">イチバン</span>になるという「<span class="m-color-red">イ</span>」の文字を<br class="br-none">具現化してSRと一体化させました。<br class="br-none">スワリクのお客様と一体になり、<br class="br-none">共に歩んでいきたいという<br class="br-none">情熱に満ち溢れた意思を表しています。</p>
+						<div class="suwarikuAboutPhilosphyLogo-text">
+							<p>「<span class="suwarikuColor-red">SuwaRiku</span>」の<span class="suwarikuColor-red"></span><span class="suwarikuColor-red">SR</span>の文字と、<br class="br-none">「<span class="suwarikuColor-red">Transport</span>」の<span class="suwarikuColor-red">T</span>の文字そして、
+							輸送品質で<span class="suwarikuColor-red">イチバン</span>になるという「<span class="suwarikuColor-red">イ</span>」の文字を<br class="br-none">具現化してSRと一体化させました。<br class="br-none">スワリクのお客様と一体になり、<br class="br-none">共に歩んでいきたいという<br class="br-none">情熱に満ち溢れた意思を表しています。</p>
 						</div>
 					</div>
-					<div class="m-about-philosphy-logo">
-						<div class="m-about-philosphy-logo-img">
+					<div class="suwarikuAboutPhilosphyLogo">
+						<div class="suwarikuAboutPhilosphyLogo-img">
 							<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="177" height="212" viewBox="0 0 177 212">
 								<defs>
 									<style>
@@ -281,10 +281,10 @@ get_header();
 								</g>
 								</svg>								  
 						</div>
-						<div class="m-about-philosphy-logo-text"><p>諏訪湖というイメージから、純白な白鳥を採用しました。<br>純白の清純なイメージからは、人に対する優しさや愛情を<br>大切にしていきたいとの思いがこめられており、<br>二羽の白鳥が寄り添うように、いとおしさが表現されています。<br>愛と慈悲の心をハート型で表現されています。</p></div>
+						<div class="suwarikuAboutPhilosphyLogo-text"><p>諏訪湖というイメージから、純白な白鳥を採用しました。<br>純白の清純なイメージからは、人に対する優しさや愛情を<br>大切にしていきたいとの思いがこめられており、<br>二羽の白鳥が寄り添うように、いとおしさが表現されています。<br>愛と慈悲の心をハート型で表現されています。</p></div>
 					</div>
-					<div class="m-about-philosphy-logo">
-						<div class="m-about-philosphy-logo-img">
+					<div class="suwarikuAboutPhilosphyLogo">
+						<div class="suwarikuAboutPhilosphyLogo-img">
 							<svg xmlns="http://www.w3.org/2000/svg" width="336.092" height="142.5" viewBox="0 0 336.092 142.5">
 								<defs>
 									<style>
@@ -370,18 +370,18 @@ get_header();
 								</g>
 								</svg>								  
 						</div>
-						<div class="m-about-philosphy-logo-text"><p>【青】・・・目に見えない風・空気・音<br>【赤】・・・太陽・情熱・火・マグマ<br>【黄】・・・光・温かさ・愛情<br>【緑】・・・山川草木・天地万物・眼に見えるすべて</p></div>
+						<div class="suwarikuAboutPhilosphyLogo-text"><p>【青】・・・目に見えない風・空気・音<br>【赤】・・・太陽・情熱・火・マグマ<br>【黄】・・・光・温かさ・愛情<br>【緑】・・・山川草木・天地万物・眼に見えるすべて</p></div>
 					</div>
 				</div>
 			</div>
 		</section>
 
-		<div class="l-inner m-pt-xl">
-			<ul class="m-about-nav">
-				<li class="m-about-nav__item"><a href="<?php bloginfo('url'); ?>/about/">代表挨拶</a></li>
-				<li class="m-about-nav__item"><a href="<?php bloginfo('url'); ?>/about/company/">会社概要</a></li>
-				<li class="m-about-nav__item"><a href="<?php bloginfo('url'); ?>/about/philosophy/" class="is-active">経営理念</a></li>
-				<li class="m-about-nav__item"><a href="<?php bloginfo('url'); ?>/about/links/">リンク</a></li>
+		<div class="suwarikuInner suwarikuPtop-xl">
+			<ul class="suwarikuAboutNav">
+				<li class="suwarikuAboutNav__item"><a href="<?php bloginfo('url'); ?>/about/">代表挨拶</a></li>
+				<li class="suwarikuAboutNav__item"><a href="<?php bloginfo('url'); ?>/about/company/">会社概要</a></li>
+				<li class="suwarikuAboutNav__item"><a href="<?php bloginfo('url'); ?>/about/philosophy/" class="is-active">経営理念</a></li>
+				<li class="suwarikuAboutNav__item"><a href="<?php bloginfo('url'); ?>/about/links/">リンク</a></li>
 			</ul>
 		</div>
 	</main>
