@@ -103,40 +103,40 @@ if($body_class == "suwariku-www.suwariku.co.jp"){
 			<figure></figure>
 		</a>
 		<nav class="suwarikuHeadernav">
-			<ul class="suwarikuHeadernav-list">
-			<li class="suwarikuHeadernav-list__item suwarikuSpOnly"> <a href="<?php bloginfo('url'); ?>">トップページ</a> </li>
-			<li class="suwarikuHeadernav-list__item suwarikuHeadernav-list__item--toggle"> <a href="<?php bloginfo('url'); ?>/about/">スワリクについて</a>
-				<ul class="suwarikuHeadernav-child">
-				<li class="suwarikuHeadernav-child__item"><a href="<?php bloginfo('url'); ?>/about/">代表挨拶</a></li>
-				<li class="suwarikuHeadernav-child__item"><a href="<?php bloginfo('url'); ?>/about/company/">会社概要</a></li>
-				<li class="suwarikuHeadernav-child__item"><a href="<?php bloginfo('url'); ?>/about/philosophy/">経営理念</a></li>
-				<li class="suwarikuHeadernav-child__item"><a href="<?php bloginfo('url'); ?>/about/links/">リンク</a></li>
+			<ul class="suwarikuHeaderNavList">
+			<li class="suwarikuHeaderNavListItem suwarikuSpOnly"> <a href="<?php bloginfo('url'); ?>">トップページ</a> </li>
+			<li class="suwarikuHeaderNavListItem suwarikuHeaderNavListItemToggle"> <a href="<?php bloginfo('url'); ?>/about/">スワリクについて</a>
+				<ul class="suwarikuHeaderNavChild">
+				<li class="suwarikuHeaderNavChildItem"><a href="<?php bloginfo('url'); ?>/about/">代表挨拶</a></li>
+				<li class="suwarikuHeaderNavChildItem"><a href="<?php bloginfo('url'); ?>/about/company/">会社概要</a></li>
+				<li class="suwarikuHeaderNavChildItem"><a href="<?php bloginfo('url'); ?>/about/philosophy/">経営理念</a></li>
+				<li class="suwarikuHeaderNavChildItem"><a href="<?php bloginfo('url'); ?>/about/links/">リンク</a></li>
 				</ul>
 			</li>
-			<li class="suwarikuHeadernav-list__item"> <a href="<?php bloginfo('url'); ?>#history">スワリクの歩み</a> </li>
-			<li class="suwarikuHeadernav-list__item"> <a href="<?php bloginfo('url'); ?>/torikumi/">スワリクの取り組み</a> </li>
-			<li class="suwarikuHeadernav-list__item suwarikuHeadernav-list__item--toggle"> <a href="<?php bloginfo('url'); ?>/service/">事業紹介</a>
-				<ul class="suwarikuHeadernav-child">
-				<li class="suwarikuHeadernav-child__item"><a href="<?php bloginfo('url'); ?>/service/#warehouse">冷凍 冷蔵倉庫</a></li>
-				<li class="suwarikuHeadernav-child__item"><a href="<?php bloginfo('url'); ?>/service/#transportation">輸配送業務</a></li>
+			<li class="suwarikuHeaderNavListItem"> <a href="<?php bloginfo('url'); ?>#history">スワリクの歩み</a> </li>
+			<li class="suwarikuHeaderNavListItem"> <a href="<?php bloginfo('url'); ?>/torikumi/">スワリクの取り組み</a> </li>
+			<li class="suwarikuHeaderNavListItem suwarikuHeaderNavListItemToggle"> <a href="<?php bloginfo('url'); ?>/service/">事業紹介</a>
+				<ul class="suwarikuHeaderNavChild">
+				<li class="suwarikuHeaderNavChildItem"><a href="<?php bloginfo('url'); ?>/service/#warehouse">冷凍 冷蔵倉庫</a></li>
+				<li class="suwarikuHeaderNavChildItem"><a href="<?php bloginfo('url'); ?>/service/#transportation">輸配送業務</a></li>
 				</ul>
 			</li>
-			<li class="suwarikuHeadernav-list__item suwarikuHeadernav-list__item--toggle"> <a href="<?php bloginfo('url'); ?>/recruit/">採用情報</a>
-				<ul class="suwarikuHeadernav-child">
-				<li class="suwarikuHeadernav-child__item"><a href="<?php bloginfo('url'); ?>/recruit/#new">新卒採用情報</a></li>
-				<li class="suwarikuHeadernav-child__item"><a href="<?php bloginfo('url'); ?>/recruit/#semi">中途採用情報</a></li>
+			<li class="suwarikuHeaderNavListItem suwarikuHeaderNavListItemToggle"> <a href="<?php bloginfo('url'); ?>/recruit/">採用情報</a>
+				<ul class="suwarikuHeaderNavChild">
+				<li class="suwarikuHeaderNavChildItem"><a href="<?php bloginfo('url'); ?>/recruit/#new">新卒採用情報</a></li>
+				<li class="suwarikuHeaderNavChildItem"><a href="<?php bloginfo('url'); ?>/recruit/#semi">中途採用情報</a></li>
 				</ul>
 			</li>
-			<li class="suwarikuHeadernav-list__item suwarikuPconly"> 
+			<li class="suwarikuHeaderNavListItem suwarikuPconly"> 
 				<a href="<?php bloginfo('url'); ?>/contact/">お問い合わせ</a> 
 			</li>
 			</ul>
-			<div class="suwarikuHeadersp-nav"> 
+			<div class="suwarikuHeaderSpNav"> 
 				<a href="<?php //bloginfo('url'); ?>/contact/" class="Suwarikubtn Suwarikubtn--ye">メールでのお問い合わせ</a>
-			<ul class="suwarikuHeadersp-nav-list">
-				<li class="suwarikuHeadersp-nav-list__item"><a href="<?php bloginfo('url'); ?>/information/">お知らせ</a></li>
-				<li class="suwarikuHeadersp-nav-list__item"><a href="<?php bloginfo('url'); ?>/privacy-policy/">プライバシーポリシー</a></li>
-				<li class="suwarikuHeadersp-nav-list__item"><a href="<?php bloginfo('url'); ?>/sitemap.xml">サイトマップ</a></li>
+			<ul class="suwarikuHeaderSpNavList">
+				<li class="suwarikuHeaderSpNavListItem"><a href="<?php bloginfo('url'); ?>/information/">お知らせ</a></li>
+				<li class="suwarikuHeaderSpNavListItem"><a href="<?php bloginfo('url'); ?>/privacy-policy/">プライバシーポリシー</a></li>
+				<li class="suwarikuHeaderSpNavListItem"><a href="<?php bloginfo('url'); ?>/sitemap.xml">サイトマップ</a></li>
 			</ul>
 			</div>
 		</nav>
