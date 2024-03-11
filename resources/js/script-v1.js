@@ -88,11 +88,11 @@ common effect
 		scrollHeader();
 	});
 
-	$('.suwarikuHeadernav-list__item--toggle >a').on("click",function(e){
+	$('.suwarikuHeaderNavListItemToggle >a').on("click",function(e){
 		if( window.matchMedia('(max-width:767px)').matches ){
 			e.preventDefault();
 			$(this).toggleClass('is-active');
-			$(this).next('.suwarikuHeadernav-child').slideToggle(150);
+			$(this).next('.suwarikuHeaderNavChild').slideToggle(150);
 			return false;
 		}
 	});
@@ -115,7 +115,7 @@ common effect
 				autoplay: true,
 				autoplaySpeed: 2000,
 				speed: 500,
-				slide: '.suwarikuServiceWarehouseDetailSlider__item',
+				slide: '.suwarikuServiceWarehouseDetailSliderItem',
 				// prevArrow: '<i class="m-icon-slide-prev">前へ</i>',
 				// nextArrow: '<i class="m-icon-slide-next">次へ</i>',
 				pauseOnHover: false,
@@ -149,7 +149,7 @@ common effect
 				autoplay: true,
 				autoplaySpeed: 2000,
 				speed: 500,
-				slide: '.suwarikuServiceRealstateImg__item',
+				slide: '.suwarikuServiceRealstateImgItem',
 				// prevArrow: '<i class="m-icon-slide-prev">前へ</i>',
 				// nextArrow: '<i class="m-icon-slide-next">次へ</i>',
 				pauseOnHover: false,
@@ -183,7 +183,7 @@ common effect
 				autoplay: true,
 				autoplaySpeed: 2000,
 				speed: 1500,
-				slide: '.suwarikuCsrSlider__item',
+				slide: '.suwarikuCsrSliderItem',
 				// prevArrow: '<i class="m-icon-slide-prev">前へ</i>',
 				// nextArrow: '<i class="m-icon-slide-next">次へ</i>',
 				pauseOnHover: false,
@@ -217,7 +217,7 @@ common effect
 				autoplay: true,
 				autoplaySpeed: 2500,
 				speed: 1500,
-				slide: '.suwarikuHistoryPresentSlider__item',
+				slide: '.suwarikuHistoryPresentSliderItem',
 				// prevArrow: '<i class="m-icon-slide-prev">前へ</i>',
 				// nextArrow: '<i class="m-icon-slide-next">次へ</i>',
 				pauseOnHover: false,
@@ -238,7 +238,7 @@ common effect
 
 	//scroll anima
 	function historyAmina(){
-		if($('body').hasClass('suwarikuT_History')){
+		if($('body').hasClass('suwarikuTHistory')){
 			var scroll = $(window).scrollTop();
 
 			$('.suwarikuJsHistoryItem').each(function(i) {
@@ -260,10 +260,10 @@ common effect
 				var blockStart = $(this).offset().top - $('.suwarikuHeader').innerHeight() - 1;
 				var blockEnd = blockStart + $(this).innerHeight();
 				if((scroll > blockStart) && (scroll < blockEnd)){
-					$(this).find('.suwarikuHistoryListLine--on').css({'height': scroll - blockStart});
-					$('.suwarikuHistoryNav__item').eq(i).addClass('is-active');
+					$(this).find('.suwarikuHistoryListLineOn').css({'height': scroll - blockStart});
+					$('.suwarikuHistoryNavItem').eq(i).addClass('is-active');
 				}else{
-					$('.suwarikuHistoryNav__item').eq(i).removeClass('is-active');
+					$('.suwarikuHistoryNavItem').eq(i).removeClass('is-active');
 				}
 			});
 
@@ -286,10 +286,10 @@ common effect
 			});
 			$('.suwarikuHomeMv').addClass('is-on');
 
-			$('.suwarikuJsHome-anima').each(function(i) {
+			$('.suwarikuJsHomeAnima').each(function(i) {
 				var item = $(this).offset().top - $(window).height() + 200;
 				if(scroll > item){
-					$(this).find('.suwarikuJsHome-anima-item').each(function(i) {
+					$(this).find('.suwarikuJsHomeAnimaItem').each(function(i) {
 						$(this).delay(i * 150).queue(function() {
 							$(this).addClass('is-on').dequeue();
 						});
@@ -328,7 +328,7 @@ common effect
 			$('.suwarikuJsServiceAnima').each(function(i) {
 				var item = $(this).offset().top - $(window).height() + 200;
 				if(scroll > item){
-					$(this).find('.suwarikuJsServiceAnima-item').each(function(i) {
+					$(this).find('.suwarikuJsServiceAnimaIitem').each(function(i) {
 						$(this).delay(i * 150).queue(function() {
 							$(this).addClass('is-active').dequeue();
 						});
