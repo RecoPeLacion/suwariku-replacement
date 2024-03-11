@@ -16,18 +16,18 @@ get_header();
 ?>
 		<main class="suwarikuContainer">
 			<div class="suwarikuContentTitle">
-				<h1 class="suwarikuContentTitle-text">採用情報<span class="en">RECRUIT</span></h1>
+				<h1 class="suwarikuContentTitleText">採用情報<span class="en">RECRUIT</span></h1>
 			</div>
-		<div class="suwarikuBreadcrumb-wrap">
+		<div class="suwarikuBreadcrumbWrap">
 			<ol class="suwarikuBreadcrumb">
-				<li class="suwarikuBreadcrumb__item"><a href="<?php bloginfo('url'); ?>">ホーム</a></li>
-				<li class="suwarikuBreadcrumb__item">採用情報</li>
+				<li class="suwarikuBreadcrumbItem"><a href="<?php bloginfo('url'); ?>">ホーム</a></li>
+				<li class="suwarikuBreadcrumbItem">採用情報</li>
 			</ol>
 		</div>
 			<p class="suwarikuLineTitle">共にスワリクの幸せ創造空間に集い、共にみんなで手を携えて、永遠に前進して参りましよう</p>
-			<section class="suwarikuPtop-xl" id="new">
+			<section class="suwarikuPtopxl" id="new">
 				<h2 class="suwarikuLineTitle"><span class="title">新卒募集要項</span></h2>
-				<div class="suwarikuInner-xs suwarikuPtop-2xl suwarikuPBtm-2xl">
+				<div class="suwarikuInnerxs suwarikuPtop2xl suwarikuPBtm2xl">
 					<table class="suwarikuRecruitTable">
 						<tr>
 							<th>職種</th>
@@ -70,9 +70,9 @@ get_header();
 				</div>
 			</section>
 
-			<section class="suwarikuPtop-xl" id="semi">
+			<section class="suwarikuPtopxl" id="semi">
 				<h2 class="suwarikuLineTitle"><span class="title">中途募集要項</span></h2>
-				<div class="suwarikuInner-xs suwarikuPtop-2xl suwarikuPBtm-2xl">
+				<div class="suwarikuInnerxs suwarikuPtop2xl suwarikuPBtm2xl">
 					<table class="suwarikuRecruitTable">
 						<tr>
 							<th>職種</th>

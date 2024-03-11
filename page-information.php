@@ -18,42 +18,42 @@ get_header();
 			<div class="suwarikuContentTitle">
 				<h1 class="suwarikuContentTitle-text">お知らせ<span class="en">INFORMATION</span></h1>
 			</div>
-			<div class="suwarikuBreadcrumb-wrap">
+			<div class="suwarikuBreadcrumbWrap">
 				<ol class="suwarikuBreadcrumb">
-					<li class="suwarikuBreadcrumb__item"><a href="<?php bloginfo('url'); ?>">ホーム</a></li>
-					<li class="suwarikuBreadcrumb__item">お知らせ</li>
+					<li class="suwarikuBreadcrumbItem"><a href="<?php bloginfo('url'); ?>">ホーム</a></li>
+					<li class="suwarikuBreadcrumbItem">お知らせ</li>
 				</ol>
 			</div>
 
 			<section>
-				<div class="suwarikuInner-s suwarikuPtop-xl suwarikuPBtm">
+				<div class="suwarikuInners suwarikuPtopxl suwarikuPBtm">
 					<div class="suwarikuTopics">
-						<div class="suwarikuTopics__content">
+						<div class="suwarikuTopicsContent">
 							<?php 
 							// the query
 							$wpb_all_query = new WP_Query(array('post_type'=>'post', 'post_status'=>'publish', 'posts_per_page'=>20));
 							?>
 							<?php if ( $wpb_all_query->have_posts() ) : ?>
-							<div class="suwarikuTopics-archives">
+							<div class="suwarikuTopicsArchive">
 								<!-- the loop -->
                                 <?php while ( $wpb_all_query->have_posts() ) : $wpb_all_query->the_post(); ?>
-								<div class="suwarikuTopics-archives-item">
-									<div class="suwarikuTopics-article-heading">
-										<h2 class="suwarikuFontB suwarikuText-28"><?php echo wp_trim_words( get_the_title(), 26 , '…' ); ?></h2>
+								<div class="suwarikuTopicsArchiveItem">
+									<div class="suwarikuTopicsArticleHeading">
+										<h2 class="suwarikuFontB suwarikuText28"><?php echo wp_trim_words( get_the_title(), 26 , '…' ); ?></h2>
 									</div>
-									<div class="suwarikuTopics-date suwarikuMt-s">
-										<time class="suwarikuText-18" datetime="<?php echo get_the_date('Y-m-d'); ?>"><?php echo get_the_date('Y.m.d'); ?></time>
+									<div class="suwarikuTopicsDate suwarikuMts">
+										<time class="suwarikuText18" datetime="<?php echo get_the_date('Y-m-d'); ?>"><?php echo get_the_date('Y.m.d'); ?></time>
 									</div>
-									<div class="suwarikuTopics-article-body suwarikuCmsBody">
+									<div class="suwarikuTopicsArticleBody suwarikuCmsBody">
 									<?php echo wp_trim_words( get_the_content(), 40 , '…' );?>
 									</div>
 									<?php
 									$uri = get_permalink( $id ); 
 									?>
 									<?php if(!empty($uri)):?>
-										<a href="<?php echo $uri; ?>" class="Suwarikubtn-secondary suwarikuMt">本文を読む</a>
+										<a href="<?php echo $uri; ?>" class="suwarikuButtonSecondary suwarikuMt">本文を読む</a>
 									<?php else : ?>
-										<a href="<?php echo the_permalink(); ?>" class="Suwarikubtn-secondary suwarikuMt" target="_blank">本文を読む</a>
+										<a href="<?php echo the_permalink(); ?>" class="suwarikuButtonSecondary suwarikuMt" target="_blank">本文を読む</a>
 									<?php endif; ?>
 								</div>
 								<?php endwhile; ?>
@@ -65,11 +65,11 @@ get_header();
 								<?php endif; ?>
 								</div>
 							</div>
-							<aside class="suwarikuTopics__aside">
-								<dl class="suwarikuTopics-aside-item">
-									<dt class="suwarikuTopics-aside-item-title">最新記事</dt>
+							<aside class="suwarikuTopicsAside">
+								<dl class="suwarikuTopicsAsideItem">
+									<dt class="suwarikuTopicsAsideItemTitle">最新記事</dt>
 									<dd>
-										<ul class="suwarikuTopics-aside-item-list">
+										<ul class="suwarikuTopicsAsideItemList">
 										<?php
 											$args = array(
 												'post_type' => 'post',
@@ -86,10 +86,10 @@ get_header();
 										</ul>
 									</dd>
 								</dl>
-								<dl class="suwarikuTopics-aside-item">
-									<dt class="suwarikuTopics-aside-item-title">アーカイブ</dt>
+								<dl class="suwarikuTopicsAsideItem">
+									<dt class="suwarikuTopicsAsideItemTitle">アーカイブ</dt>
 									<dd>
-										<ul class="suwarikuTopics-aside-item-list">
+										<ul class="suwarikuTopicsAsideItemList">
 										<?php wp_get_archives( 'post_type=post&type=yearly' ); ?>
 										</ul>
 									</dd>

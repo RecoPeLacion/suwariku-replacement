@@ -16,41 +16,41 @@
  ?>
 	 <main class="suwarikuContainer">
 		 <div class="suwarikuContentTitle">
-			 <h1 class="suwarikuContentTitle-text">スワリクについて<span class="en">COMPANY</span></h1>
+			 <h1 class="suwarikuContentTitleText">スワリクについて<span class="en">COMPANY</span></h1>
 		 </div>
-		 <div class="suwarikuBreadcrumb-wrap">
+		 <div class="suwarikuBreadcrumbWrap">
 			 <ol class="suwarikuBreadcrumb">
-				 <li class="suwarikuBreadcrumb__item"><a href="<?php bloginfo('url'); ?>">ホーム</a></li>
-				 <li class="suwarikuBreadcrumb__item">スワリクについて</li>
+				 <li class="suwarikuBreadcrumbItem"><a href="<?php bloginfo('url'); ?>">ホーム</a></li>
+				 <li class="suwarikuBreadcrumbItem">スワリクについて</li>
 			 </ol>
 		 </div>
-		 <div class="suwarikuInner suwarikuPtop-xl">
+		 <div class="suwarikuInner suwarikuPtopxl">
 			 <ul class="suwarikuAboutNav">
-				 <li class="suwarikuAboutNav__item"><a href="<?php bloginfo('url'); ?>/about/">代表挨拶</a></li>
-				 <li class="suwarikuAboutNav__item"><a href="<?php bloginfo('url'); ?>/about/company/">会社概要</a></li>
-				 <li class="suwarikuAboutNav__item"><a href="<?php bloginfo('url'); ?>/about/philosophy/">経営理念</a></li>
-				 <li class="suwarikuAboutNav__item"><a href="<?php bloginfo('url'); ?>/about/links/" class="is-active">リンク</a></li>
+				 <li class="suwarikuAboutNavItem"><a href="<?php bloginfo('url'); ?>/about/">代表挨拶</a></li>
+				 <li class="suwarikuAboutNavItem"><a href="<?php bloginfo('url'); ?>/about/company/">会社概要</a></li>
+				 <li class="suwarikuAboutNavItem"><a href="<?php bloginfo('url'); ?>/about/philosophy/">経営理念</a></li>
+				 <li class="suwarikuAboutNavItem"><a href="<?php bloginfo('url'); ?>/about/links/" class="is-active">リンク</a></li>
 			 </ul>
 		 </div>
  
 		 <section>
-			<div class="suwarikuInner suwarikuPtop-xl suwarikuPBtm-xl">
+			<div class="suwarikuInner suwarikuPtopxl suwarikuPBtmxl">
 				<h2 class="suwarikuLineTitle"><span class="title">リンク</span></h2>
-				<ul class="suwarikuLinkList m-mt-2xl">
-					<li class="suwarikuLinkList__item">
-						<div class="suwarikuLinkList-title suwarikuText-22 suwarikuColorNv suwarikuFontB">株式会社太平洋</div>
-						<div class="suwarikuLinkList-url suwarikuText-18"><figure class="suwarikuMbtm-xs"><a href="https://taiheiyou.org/" target="_blank"></a></figure><a href="https://taiheiyou.org/" target="_blank" class="suwarikuULine suwarikuColor">https://taiheiyou.org/</a></div>
+				<ul class="suwarikuLinkList suwarikuMtxl">
+					<li class="suwarikuLinkListItem">
+						<div class="suwarikuLinkListTitle suwarikuText22 suwarikuColorNv suwarikuFontB">株式会社太平洋</div>
+						<div class="suwarikuLinkListUrl suwarikuText18"><figure class="suwarikuMbtmxs"><a href="https://taiheiyou.org/" target="_blank"></a></figure><a href="https://taiheiyou.org/" target="_blank" class="suwarikuULine suwarikuColor">https://taiheiyou.org/</a></div>
 					</li>
 				</ul>
 			</div>
 		</section>
  
-		 <div class="suwarikuInner suwarikuPtop-xl">
+		 <div class="suwarikuInner suwarikuPtopxl">
 			 <ul class="suwarikuAboutNav">
-				 <li class="suwarikuAboutNav__item"><a href="<?php bloginfo('url'); ?>/about/">代表挨拶</a></li>
-				 <li class="suwarikuAboutNav__item"><a href="<?php bloginfo('url'); ?>/about/company/">会社概要</a></li>
-				 <li class="suwarikuAboutNav__item"><a href="<?php bloginfo('url'); ?>/about/philosophy/">経営理念</a></li>
-				 <li class="suwarikuAboutNav__item"><a href="<?php bloginfo('url'); ?>/about/links/" class="is-active">リンク</a></li>
+				 <li class="suwarikuAboutNavItem"><a href="<?php bloginfo('url'); ?>/about/">代表挨拶</a></li>
+				 <li class="suwarikuAboutNavItem"><a href="<?php bloginfo('url'); ?>/about/company/">会社概要</a></li>
+				 <li class="suwarikuAboutNavItem"><a href="<?php bloginfo('url'); ?>/about/philosophy/">経営理念</a></li>
+				 <li class="suwarikuAboutNavItem"><a href="<?php bloginfo('url'); ?>/about/links/" class="is-active">リンク</a></li>
 			 </ul>
 		 </div>
 	 </main>

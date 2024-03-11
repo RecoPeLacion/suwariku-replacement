@@ -16,12 +16,12 @@ get_header();
 ?>
 <main class="suwarikuSContainer">
 	<div class="suwarikuContentTitle">
-		<h1 class="suwarikuContentTitle-text">プライバシーポリシー<span class="en">PRIVACY POLICY</span></h1>
+		<h1 class="suwarikuContentTitleText">プライバシーポリシー<span class="en">PRIVACY POLICY</span></h1>
 	</div>
-<div class="suwarikuBreadcrumb-wrap">
+<div class="suwarikuBreadcrumbWrap">
 	<ol class="suwarikuBreadcrumb">
-		<li class="suwarikuBreadcrumb__item"><a href="<?php bloginfo('url'); ?>">ホーム</a></li>
-		<li class="suwarikuBreadcrumb__item">プライバシーポリシー</li>
+		<li class="suwarikuBreadcrumbItem"><a href="<?php bloginfo('url'); ?>">ホーム</a></li>
+		<li class="suwarikuBreadcrumbItem">プライバシーポリシー</li>
 	</ol>
 </div>
 
