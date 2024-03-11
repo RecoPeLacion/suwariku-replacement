@@ -16,32 +16,32 @@ get_header();
 ?>
 <main class="suwarikuContainer">
 	<div class="suwarikuContentTitle">
-		<h1 class="suwarikuContentTitle-text">輸送業<span class="en">TRANSPORTION</span></h1>
+		<h1 class="suwarikuContentTitleText">輸送業<span class="en">TRANSPORTION</span></h1>
 	</div>
-	<div class="suwarikuBreadcrumb-wrap">
+	<div class="suwarikuBreadcrumbWrap">
 		<ol class="suwarikuBreadcrumb">
-			<li class="suwarikuBreadcrumb__item"><a href="<?php bloginfo('url'); ?>">ホーム</a></li>
-			<li class="suwarikuBreadcrumb__item">事業紹介</li>
-			<li class="suwarikuBreadcrumb__item">輸送業</li>
-			<li class="suwarikuBreadcrumb__item">千葉第一センター</li>
+			<li class="suwarikuBreadcrumbItem"><a href="<?php bloginfo('url'); ?>">ホーム</a></li>
+			<li class="suwarikuBreadcrumbItem">事業紹介</li>
+			<li class="suwarikuBreadcrumbItem">輸送業</li>
+			<li class="suwarikuBreadcrumbItem">千葉第一センター</li>
 		</ol>
 	</div>
 
 	<section>
-		<div class="suwarikuInner suwarikuPtop-l suwarikuPBtm-l suwarikuTrMainImg">
-			<h2 class="suwarikuMt-xl suwarikuLineTitle suwarikuTransPa"><span class="title">千葉若葉低温物流センター</span></h2>
+		<div class="suwarikuInner suwarikuPtopl suwarikuPBtml suwarikuTrMainImg">
+			<h2 class="suwarikuMtxl suwarikuLineTitle suwarikuTransPa"><span class="title">千葉若葉低温物流センター</span></h2>
 			<img src="<?php echo get_template_directory_uri(); ?>/resources/images/transportion/chiba_01.jpg">
 		</div>
 	</section>
 
 	<section>
-		<div class="suwarikuInner suwarikuPtop-l suwarikuPBtm-l">
-			<h2 class="suwarikuMt-xl suwarikuLineTitle suwarikuTransPa"><span class="title">ご挨拶</span></h2>
+		<div class="suwarikuInner suwarikuPtopl suwarikuPBtml">
+			<h2 class="suwarikuMtxl suwarikuLineTitle suwarikuTransPa"><span class="title">ご挨拶</span></h2>
 			<div class="suwarikuGreetingBox suwarikuTransPa">
-				<div class="suwarikuGreetingBox_img">
+				<div class="suwarikuGreetingBoxImg">
 					<img src="<?php echo get_template_directory_uri(); ?>/resources/images/transportion/chief_07.jpg">
 				</div>
-				<div class="suwarikuGreetingBox_txt">
+				<div class="suwarikuGreetingBoxTxt">
 					<p>第一センターでは冷凍食品、肉の保管、配送を行なっております。<br><br>
 						安心、安全をモットーに従業員一同取り組んでおります。<br><br>
 
@@ -51,13 +51,13 @@ get_header();
 					何かお困りごとがありましたら、ご相談下さい。
 
 					</p>
-					<p class="suwarikuGreetingBox_txt__name">所長 里見晴人</p>
+					<p class="suwarikuGreetingBoxTxtName">所長 里見晴人</p>
 				</div>
 			</div>
-			<p class="suwarikuText-24 suwarikuText-lh-l suwarikuFontSerif suwarikuAlignC suwarikuAlignC--pc">
+			<p class="suwarikuText24 suwarikuTextlhl suwarikuFontSerif suwarikuAlignC suwarikuAlignCPc">
 				千葉県内、東京都、埼玉南部エリアに、３６５日共同配送するセンターとして活動中！！
 			</p>
-			<table class="suwarikuTbl suwarikuMt-xl suwarikuText-16">
+			<table class="suwarikuTbl suwarikuMtxl suwarikuText16">
 				<tr>
 					<th>住所</th>
 					<td>〒264-0021 千葉県千葉居若葉区若松町2301-1　D棟</td>
@@ -82,39 +82,39 @@ get_header();
 
 	</section>
 	<section>
-		<div class="suwarikuInner suwarikuPtop-l suwarikuPBtm-l">
-			<h2 class="suwarikuMt-xl suwarikuLineTitle suwarikuTransPa"><span class="title">アクセス</span></h2>
+		<div class="suwarikuInner suwarikuPtopl suwarikuPBtml">
+			<h2 class="suwarikuMtxl suwarikuLineTitle suwarikuTransPa"><span class="title">アクセス</span></h2>
 			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3242.487350255208!2d140.17994751132576!3d35.640362672486255!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60228558065409bf%3A0x913a6485b2a1698f!2z5aSn5bed6YGL6Ly4IOiLpeadvueJqea1geOCu-ODs-OCv-ODvA!5e0!3m2!1sja!2sjp!4v1684659571845!5m2!1sja!2sjp" width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>		</div>
 	</section>
 
 	<section id="chiba-second">
-		<div class="suwarikuInner suwarikuPtop-l suwarikuPBtm-l suwarikuTrMainImg">
-			<h2 class="suwarikuMt-xl suwarikuLineTitle suwarikuTransPa"><span class="title">千葉第二低温物流センター</span></h2>
+		<div class="suwarikuInner suwarikuPtopl suwarikuPBtml suwarikuTrMainImg">
+			<h2 class="suwarikuMtxl suwarikuLineTitle suwarikuTransPa"><span class="title">千葉第二低温物流センター</span></h2>
 			<img src="<?php echo get_template_directory_uri(); ?>/resources/images/transportion/chiba_02.jpg">
 		</div>
 	</section>
 	
 
 	<section>
-		<div class="suwarikuInner suwarikuPtop-l suwarikuPBtm-l">
-			<!-- <h2 class="suwarikuMt-xl suwarikuLineTitle suwarikuTransPa"><span class="title">ご挨拶</span></h2>
+		<div class="suwarikuInner suwarikuPtopl suwarikuPBtml">
+			<!-- <h2 class="suwarikuMtxl suwarikuLineTitle suwarikuTransPa"><span class="title">ご挨拶</span></h2>
 			<div class="suwarikuGreetingBox suwarikuTransPa">
-				<div class="suwarikuGreetingBox_img">
+				<div class="suwarikuGreetingBoxImg">
 					<img src="<?php echo get_template_directory_uri(); ?>/resources/images/transportion/chief_01.png">
 				</div>
-				<div class="suwarikuGreetingBox_txt">
+				<div class="suwarikuGreetingBoxTxt">
 					<p>第二センターでは大手食肉会社の物流センターになっています。<br>一部構内仕分け作業も請け負っています。
 					冷凍倉庫は自社営業倉庫になっており、入庫、出庫、保管業務を行っております。<br>
 					何かお困りごとがありましたら、ご相談下さい。
 
 					</p>
-					<p class="suwarikuGreetingBox_txt__name">所長 里見晴人</p>
+					<p class="suwarikuGreetingBoxTxtName">所長 里見晴人</p>
 				</div>
 			</div>
 			<p class="suwarikuText-24 suwarikuText-lh-l suwarikuFontSerif suwarikuAlignC suwarikuAlignC--pc">
 				令和４年に新設しました営業冷蔵倉庫！！千葉県内畜肉加工品の共同配送に最適です！！
 			</p> -->
-			<table class="suwarikuTbl suwarikuMt-xl suwarikuText-16">
+			<table class="suwarikuTbl suwarikuMtxl suwarikuText16">
 				<tr>
 					<th>住所</th>
 					<td>〒264-0021 千葉県千葉市若葉区若松町2249-1</td>
@@ -137,8 +137,8 @@ get_header();
 
 	</section>
 	<section>
-		<div class="suwarikuInner suwarikuPtop-l suwarikuPBtm-l">
-			<h2 class="suwarikuMt-xl suwarikuLineTitle suwarikuTransPa"><span class="title">アクセス</span></h2>
+		<div class="suwarikuInner suwarikuPtopl suwarikuPBtml">
+			<h2 class="suwarikuMtxl suwarikuLineTitle suwarikuTransPa"><span class="title">アクセス</span></h2>
 			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3242.443032251501!2d140.17661401132582!3d35.64145487248595!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6022855973624723%3A0xd8346f1538840d5b!2z44CSMjY0LTAwMjEg5Y2D6JGJ55yM5Y2D6JGJ5biC6Iul6JGJ5Yy66Iul5p2-55S677yS77yS77yU77yZ4oiS77yRIOWkp-WhmuadkOacqOW6lw!5e0!3m2!1sja!2sjp!4v1684659136478!5m2!1sja!2sjp" width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 		</div>
 	</section>
