@@ -35,7 +35,7 @@ get_header();
   <section class="suwarikuPtopxl" id="a-greeting">
     <h2 class="suwarikuLineTitle"><span class="title">代表挨拶</span></h2>
     <div class="suwarikuAboutIndexMv suwarikuMtxl">
-      <figure class="suwarikuAboutIndexMv-image"><img src="<?php echo get_template_directory_uri(); ?>/resources/images/about/index/president.jpg" width="1600" height="720" alt=""></figure>
+      <figure class="suwarikuAboutIndexMv-image"><img src="<?php echo get_template_directory_uri(); ?>/resources/images/about/index/President.jpg" width="1600" height="720" alt=""></figure>
     </div>
     <div class="suwarikuInnerxs suwarikuPtop2xl suwarikuPBtm2xl">
       <h3 class="suwarikuFontSerif suwarikuText34 suwarikuTextLhl">Come together and advance with us forever!<br class="suwarikuPconly">～共に集い、私たちと共に歩みましょう！永遠に！～</h3>

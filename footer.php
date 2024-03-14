@@ -15,13 +15,13 @@
       <div class="suwarikuFooterinner">
         <div class="suwarikuFooterh">
           <div class="suwarikuFooterHContent">
-            <div class="suwarikuFooterlogo"><img src="<?php echo get_template_directory_uri(); ?>/resources/images/common/logo-f.svg" alt="株式会社スワリク" width="290"></div> <address class="suwarikuFooteraddress suwarikuText16 suwarikuMt">
+            <div class="suwarikuFooterlogo"><img src="<?php echo get_template_directory_uri(); ?>/resources/images/common/logoFooterWhite.svg" alt="株式会社スワリク" width="290"></div> <address class="suwarikuFooteraddress suwarikuText16 suwarikuMt">
 							〒392-0016 <br class="suwarikuSpOnly">長野県諏訪市大字豊田1070<br>
 							<a href="tel:0266-52-6193">TEL 0266-52-6193（代表）</a>　FAX 0266-52-6156
 						</address> 
             <a href="<?php bloginfo('url'); ?>/contact/" class="suwarikuButton suwarikuButtonYellow suwarikuButtonLeft suwarikuMt">メールでのお問い合わせ</a>
           </div>
-          <div class="suwarikuFooterHMap"> <img src="<?php echo get_template_directory_uri(); ?>/resources/images/common/img-map.png" width="576" height="346" alt="〒392-0016　長野県諏訪市大字豊田1070"> </div>
+          <div class="suwarikuFooterHMap"> <img src="<?php echo get_template_directory_uri(); ?>/resources/images/common/mapImg.png" width="576" height="346" alt="〒392-0016　長野県諏訪市大字豊田1070"> </div>
         </div>
         <div class="suwarikuFooternav">
           <ul class="suwarikuFooterNavList">
