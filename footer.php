@@ -92,7 +92,7 @@
             </li>
           </ul>
         </div> <small class="suwarikuFootercr">&copy; 株式会社 スワリク</small> </div>
-    </footer> <a href="#suwarikuWrap" class="suwarikuPageTop"><img src="<?php echo get_template_directory_uri(); ?>/resources/images/common/icon-arrow-f.svg" alt="" width="12"></a> </div>
+    </footer> <a href="#suwarikuWrap" class="suwarikuPageTop"><img src="<?php echo get_template_directory_uri(); ?>/resources/images/common/arrowIconFooter.svg" alt="" width="12"></a> </div>
 	<!-- end of footer -->
   <script src="<?php echo get_template_directory_uri(); ?>/resources/js/lib-v1.js"></script>
   <script src="<?php echo get_template_directory_uri(); ?>/resources/js/slick.min-v1.js"></script>

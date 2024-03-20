@@ -30,7 +30,7 @@ get_header();
 		<dl> <dt class="suwarikuText18 suwarikuAlignC">お電話でのお問い合わせはこちら</dt>
 		<dd class="suwarikuMtxs">
 			<ul class="suwarikuContactUsTel">
-			<li class="suwarikuContactUsTelItem"><span class="suwarikuText18">代表</span><i class="icon"><img src="<?php echo get_template_directory_uri(); ?>/resources/images/contact/icon-tel.svg" alt="" width="22" /></i><span class="suwarikuText-30"><a href="tel:0266-52-6193">0266-52-6193</a></span></li>
+			<li class="suwarikuContactUsTelItem"><span class="suwarikuText18">代表</span><i class="icon"><img src="<?php echo get_template_directory_uri(); ?>/resources/images/contact/icoTel.svg" alt="" width="22" /></i><span class="suwarikuText-30"><a href="tel:0266-52-6193">0266-52-6193</a></span></li>
 			</ul>
 		</dd>
 		<dd class="suwarikuMtxs suwarikuText18 suwarikuAlignC">営業時間/8:50～17:30　休業日/土曜日・日曜日・祝日</dd>

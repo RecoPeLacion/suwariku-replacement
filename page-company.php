@@ -91,9 +91,9 @@ get_header();
             </tr>
           </table>
           <ul class="suwarikuAboutOutlineBnrs suwarikuMtxl">
-            <li class="suwarikuAboutOutlineBnrsItem"><a href="https://www.naganota.or.jp/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/resources/images/about/outline/nagano_track_organization_logo.svg" width="368" height="148" alt="公益社団法人長野県トラック協会"></a></li>
-            <li class="suwarikuAboutOutlineBnrsItem"><a href="http://www.suwa-truck.com/navigation.html" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/resources/images/about/outline/suwa_track_logo.svg" width="368" height="148" alt="諏訪トラック協同組合"></a></li>
-            <li class="suwarikuAboutOutlineBnrsItem"><a href="https://www.3pl.or.jp/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/resources/images/about/outline/3pl_logo.svg" width="368" height="148" alt="一般社団法人日本3PL協会"></a></li>
+            <li class="suwarikuAboutOutlineBnrsItem"><a href="https://www.naganota.or.jp/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/resources/images/about/outline/naganoTrackOrganizationLogo.svg" width="368" height="148" alt="公益社団法人長野県トラック協会"></a></li>
+            <li class="suwarikuAboutOutlineBnrsItem"><a href="http://www.suwa-truck.com/navigation.html" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/resources/images/about/outline/suwaTrackLogo.svg" width="368" height="148" alt="諏訪トラック協同組合"></a></li>
+            <li class="suwarikuAboutOutlineBnrsItem"><a href="https://www.3pl.or.jp/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/resources/images/about/outline/3plLogo.svg" width="368" height="148" alt="一般社団法人日本3PL協会"></a></li>
 
           </ul>
         </div>

@@ -17,7 +17,7 @@ get_header();
 
 <!-- mv -->
 <div class="suwarikuHomeIntro">
-    <div class="suwarikuHomeIntroLogo"><img src="<?php echo get_template_directory_uri(); ?>/resources/images/common/logo_02.svg" alt=""></div>
+    <div class="suwarikuHomeIntroLogo"><img src="<?php echo get_template_directory_uri(); ?>/resources/images/common/logo02.svg" alt=""></div>
 </div>
 <main class="suwarikuContainer">
   <div class="suwarikuHomeMv">
@@ -158,37 +158,37 @@ get_header();
           <ul class="suwarikuHomeServiceList suwarikuJsHomeAnimaItem">
             <li class="suwarikuHomeServiceListItem">
               <a href="<?php bloginfo('url'); ?>/service/#suwa-butsuryu">
-                <figure class="suwarikuHomeServiceListImage"> <img src="<?php echo get_template_directory_uri(); ?>/resources/images/service/suwa-butsuryu.jpg" width="264" height="168" alt=""> </figure>
+                <figure class="suwarikuHomeServiceListImage"> <img src="<?php echo get_template_directory_uri(); ?>/resources/images/service/suwaButsuryu.jpg" width="264" height="168" alt=""> </figure>
                 <h5 class="suwarikuIconTitle suwarikuFontB suwarikuText14 suwarikuMts">諏訪物流センター</h5>
               </a>
             </li>
             <li class="suwarikuHomeServiceListItem">
               <a href="<?php bloginfo('url'); ?>/service/#">
-                <figure class="suwarikuHomeServiceListImage"> <img src="<?php echo get_template_directory_uri(); ?>/resources/images/service/suwa-teion.jpg" width="264" height="168" alt=""> </figure>
+                <figure class="suwarikuHomeServiceListImage"> <img src="<?php echo get_template_directory_uri(); ?>/resources/images/service/suwaTeion.jpg" width="264" height="168" alt=""> </figure>
                 <h5 class="suwarikuIconTitle suwarikuFontB suwarikuText14 suwarikuMts">諏訪低温物流センター</h5>
               </a>
             </li>
             <li class="suwarikuHomeServiceListItem">
               <a href="<?php bloginfo('url'); ?>/service/#">
-                <figure class="suwarikuHomeServiceListImage"> <img src="<?php echo get_template_directory_uri(); ?>/resources/images/service/nagano-teion.jpg" width="264" height="168" alt=""> </figure>
+                <figure class="suwarikuHomeServiceListImage"> <img src="<?php echo get_template_directory_uri(); ?>/resources/images/service/naganoTeion.jpg" width="264" height="168" alt=""> </figure>
                 <h5 class="suwarikuIconTitle suwarikuFontB suwarikuText14 suwarikuMts">長野低温物流センター</h5>
               </a>
             </li>
             <li class="suwarikuHomeServiceListItem">
               <a href="<?php bloginfo('url'); ?>/service/#">
-                <figure class="suwarikuHomeServiceListImage"> <img src="<?php echo get_template_directory_uri(); ?>/resources/images/service/saitama-reizo.jpeg" width="264" height="168" alt=""> </figure>
+                <figure class="suwarikuHomeServiceListImage"> <img src="<?php echo get_template_directory_uri(); ?>/resources/images/service/saitamaReizo.jpeg" width="264" height="168" alt=""> </figure>
                 <h5 class="suwarikuIconTitle suwarikuFontB suwarikuText14 suwarikuMts">埼玉冷蔵倉庫</h5>
               </a>
             </li>
             <li class="suwarikuHomeServiceListItem">
               <a href="<?php bloginfo('url'); ?>/service/#">
-                <figure class="suwarikuHomeServiceListImage"> <img src="<?php echo get_template_directory_uri(); ?>/resources/images/service/chibawakaba-teion.jpg" width="264" height="168" alt=""> </figure>
+                <figure class="suwarikuHomeServiceListImage"> <img src="<?php echo get_template_directory_uri(); ?>/resources/images/service/chibawakabaTeion.jpg" width="264" height="168" alt=""> </figure>
                 <h5 class="suwarikuIconTitle suwarikuFontB suwarikuText14 suwarikuMts">千葉若葉低温物流センター</h5>
               </a>
             </li>
             <li class="suwarikuHomeServiceListItem">
               <a href="<?php bloginfo('url'); ?>/service/#">
-                <figure class="suwarikuHomeServiceListImage"> <img src="<?php echo get_template_directory_uri(); ?>/resources/images/service/chiba-teion.jpg" width="264" height="168" alt=""> </figure>
+                <figure class="suwarikuHomeServiceListImage"> <img src="<?php echo get_template_directory_uri(); ?>/resources/images/service/chibaTeion.jpg" width="264" height="168" alt=""> </figure>
                 <h5 class="suwarikuIconTitle suwarikuFontB suwarikuText14 suwarikuMts">千葉低温物流センター</h5>
               </a>
             </li>
@@ -226,25 +226,25 @@ get_header();
             </li>
             <li class="suwarikuHomeServiceListItem">
               <a href="<?php bloginfo('url'); ?>/service/#">
-                <figure class="suwarikuHomeServiceListImage"> <img src="<?php echo get_template_directory_uri(); ?>/resources/images/service/shiojiri-eigyousyo.jpg" width="264" height="168" alt=""> </figure>
+                <figure class="suwarikuHomeServiceListImage"> <img src="<?php echo get_template_directory_uri(); ?>/resources/images/service/shiojiriEigyousyo.jpg" width="264" height="168" alt=""> </figure>
                 <h5 class="suwarikuIconTitle suwarikuFontB suwarikuText14 suwarikuMts">松本・塩尻事業所</h5>
               </a>
             </li>
             <li class="suwarikuHomeServiceListItem">
               <a href="<?php bloginfo('url'); ?>/service/#">
-                <figure class="suwarikuHomeServiceListImage"> <img src="<?php echo get_template_directory_uri(); ?>/resources/images/service/kanagawa-eigyousyo.jpg" width="264" height="168" alt=""> </figure>
+                <figure class="suwarikuHomeServiceListImage"> <img src="<?php echo get_template_directory_uri(); ?>/resources/images/service/kanagawaEigyousyo.jpg" width="264" height="168" alt=""> </figure>
                 <h5 class="suwarikuIconTitle suwarikuFontB suwarikuText14 suwarikuMts">神奈川営業所</h5>
               </a>
             </li>
             <li class="suwarikuHomeServiceListItem">
               <a href="<?php bloginfo('url'); ?>/service/#">
-                <figure class="suwarikuHomeServiceListImage"> <img src="<?php echo get_template_directory_uri(); ?>/resources/images/service/ina-eigyousyo.jpg" width="264" height="168" alt=""> </figure>
+                <figure class="suwarikuHomeServiceListImage"> <img src="<?php echo get_template_directory_uri(); ?>/resources/images/service/inaEigyousyo.jpg" width="264" height="168" alt=""> </figure>
                 <h5 class="suwarikuIconTitle suwarikuFontB suwarikuText14 suwarikuMts">伊那営業所</h5>
               </a>
             </li>
             <li class="suwarikuHomeServiceListItem">
               <a href="<?php bloginfo('url'); ?>/service/#">
-                <figure class="suwarikuHomeServiceListImage"> <img src="<?php echo get_template_directory_uri(); ?>/resources/images/service/iida-eigyousyo.jpg" width="264" height="168" alt=""> </figure>
+                <figure class="suwarikuHomeServiceListImage"> <img src="<?php echo get_template_directory_uri(); ?>/resources/images/service/iidaEigyousyo.jpg" width="264" height="168" alt=""> </figure>
                 <h5 class="suwarikuIconTitle suwarikuFontB suwarikuText14 suwarikuMts">飯田営業所</h5>
               </a>
             </li>

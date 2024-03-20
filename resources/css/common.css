@@ -1134,7 +1134,7 @@ hr {
 }
 
 .m-bg-texture {
-  background-image: url("../images/common/bg-texture.png");
+  background-image: url("../images/common/bgTexture.png");
   background-size: 256px;
 }
 
@@ -1192,7 +1192,7 @@ button.m-btn--blank:before, input.m-btn--blank:before, a.m-btn--blank:before, .m
   content: "";
   width: 12px;
   height: 12px;
-  background-image: url("../images/common/icon-blank.svg");
+  background-image: url("../images/common/icoBlank.svg");
   background-size: 100%;
   position: absolute;
   right: 20px;
@@ -1237,7 +1237,7 @@ button.m-btn-secondary:before, input.m-btn-secondary:before, a.m-btn-secondary:b
   right: 20px;
   width: 8px;
   height: 12px;
-  background-image: url("../images/common/icon-arrow.svg");
+  background-image: url("../images/common/icoArrow.svg");
   background-size: 100%;
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
@@ -2036,7 +2036,7 @@ footer
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
 .m-footer {
   background-color: #00225b;
-  background-image: url(/resources/images/common/footer-background.jpg);
+  background-image: url(/resources/images/common/footerBg.jpg);
   background-size: cover;
 }
 
@@ -2127,7 +2127,7 @@ footer
   left: 0;
   width: 12px;
   height: 12px;
-  background-image: url("../images/common/icon-square.svg");
+  background-image: url("../images/common/icoSquare.svg");
   background-size: 100%;
 }
 
@@ -2151,7 +2151,7 @@ footer
   left: 0;
   width: 8px;
   height: 12px;
-  background-image: url("../images/common/icon-arrow.svg");
+  background-image: url("../images/common/icoArrow.svg");
   background-size: 100%;
 }
 
@@ -2290,7 +2290,7 @@ footer
   right: 0;
   width: 8px;
   height: 12px;
-  background-image: url("../images/common/icon-arrow.svg");
+  background-image: url("../images/common/icoArrow.svg");
 }
 
 .m-line-title {
@@ -2758,7 +2758,7 @@ home
   -ms-flex-align: center;
   align-items: center;
   padding: 20px;
-  background-image: url("../images/index/icon-symbol.svg");
+  background-image: url("../images/index/icoSymbol.svg");
   background-size: 80%;
   background-position: 50%;
   background-repeat: no-repeat;
@@ -2902,7 +2902,7 @@ home
   transform: translateY(-50%);
   width: 8px;
   height: 12px;
-  background-image: url("../images/common/icon-arrow.svg");
+  background-image: url("../images/common/icoArrow.svg");
   background-size: 100%;
 }
 
@@ -3320,7 +3320,7 @@ public notice
   display: inline-block;
   width: 24px;
   height: 24px;
-  background: url("../images/koukoku/icon-pdf.png");
+  background: url("../images/koukoku/icoPDF.png");
   background-size: contain;
   background-repeat: no-repeat;
   -webkit-transform: translateY(25%);
@@ -4538,7 +4538,7 @@ topics
   right: 0;
   width: 8px;
   height: 12px;
-  background-image: url("../images/common/icon-arrow.svg");
+  background-image: url("../images/common/icoArrow.svg");
   background-size: 100%;
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
@@ -4593,7 +4593,7 @@ sitemap
   right: 0;
   width: 8px;
   height: 12px;
-  background-image: url("../images/common/icon-arrow2.svg");
+  background-image: url("../images/common/icoArrow2.svg");
   background-size: 100%;
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
@@ -4621,7 +4621,7 @@ sitemap
   left: 0;
   width: 8px;
   height: 12px;
-  background-image: url("../images/common/icon-arrow.svg");
+  background-image: url("../images/common/icoArrow.svg");
   background-size: 100%;
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
@@ -5402,7 +5402,7 @@ sitemap
     left: 55px;
     width: 8px;
     height: 12px;
-    background-image: url("../images/common/icon-arrow.svg");
+    background-image: url("../images/common/icoArrow.svg");
     background-size: 100%;
     -webkit-transform: translateY(-50%);
     transform: translateY(-50%);
@@ -5443,7 +5443,7 @@ sitemap
     left: 0;
     width: 8px;
     height: 12px;
-    background-image: url("../images/common/icon-arrow.svg");
+    background-image: url("../images/common/icoArrow.svg");
     background-size: 100%;
     -webkit-transform: translateY(-50%);
     transform: translateY(-50%);
@@ -5948,7 +5948,7 @@ sitemap
   history
   ======================================================================= */
   .m-history-mv {
-    background-image: url("../images/history/img-mv.jpg");
+    background-image: url("../images/history/imgMv.jpg");
     background-position: 50%;
     background-size: cover;
     padding: 40px 20px;
