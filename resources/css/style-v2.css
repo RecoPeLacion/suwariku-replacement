@@ -1,7 +1,6 @@
 @charset "UTF-8";
 
-/* 　normalize
-======================================================================= */
+/* Suwariku Normalize CSS */
 
 html {
   -ms-text-size-adjust: 100%;
@@ -11,9 +10,6 @@ html {
 body {
   margin: 0;
 }
-
-/* HTML5 display definitions
-   ========================================================================== */
 
 article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
   display: block;
@@ -33,8 +29,8 @@ audio:not([controls]) {
   display: none;
 }
 
-/* Links
-   ========================================================================== */
+/* Suwariku Anchor Links CSS */
+
 a {
   background-color: transparent;
 }
@@ -42,8 +38,7 @@ a:active, a:hover {
   outline: 0;
 }
 
-/* Text-level semantics
-   ========================================================================== */
+/* Suwariku Semantic CSS */
 
 abbr[title] {
   border-bottom: 1px dotted;
@@ -79,8 +74,6 @@ sub {
   bottom: -0.25em;
 }
 
-/* Embedded content
-   ========================================================================== */
 img {
   border: 0;
 }
@@ -88,9 +81,6 @@ svg:not(:root) {
   overflow: hidden;
 }
 
-
-/* Grouping content
-   ========================================================================== */
 figure {
   margin: 1em 40px;
 }
@@ -108,8 +98,7 @@ code, kbd, pre, samp {
   font-size: 1em;
 }
 
-/* Forms
-   ========================================================================== */
+/* Suwariku Buttons CSS */
 
 button, input, optgroup, select, textarea {
   margin: 0;
@@ -170,8 +159,7 @@ optgroup {
   font-weight: bold;
 }
 
-/* Tables
-   ========================================================================== */
+/* Suwariku Table CSS */
 table {
   border-collapse: collapse;
   border-spacing: 0;
@@ -180,8 +168,7 @@ td, th {
   padding: 0;
 }
 
-/* Reset
-======================================================================= */
+/* Suwariku Reset CSS */
 
 img {
   vertical-align: top;
@@ -254,9 +241,7 @@ hr {
 }
 
 
-/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-Module CSS
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+/* Suwariku Module CSS */
 
 @media screen and (min-width: 768px), print {
   .suwarikuSpOnly {
@@ -269,7 +254,7 @@ Module CSS
 }
 
 
-/* text */
+/* Suwariku Text CSS */
 
 .suwarikuText10 {
   font-size: 1.0rem;
@@ -554,7 +539,7 @@ Module CSS
   text-decoration: none;
 }
 
-/* display */
+/* Suwariku Display CSS */
 
 .suwarikuCf {
   zoom: 1;
@@ -570,7 +555,7 @@ Module CSS
   display: none;
 }
 
-.suwariku-dis-b {
+.suwarikuDisB {
   display: block;
 }
 
@@ -604,7 +589,7 @@ Module CSS
 }
 
 
-/* float */
+/* Suwariku Float CSS */
 
 .suwarikuFloatLeft {
   float: left;
@@ -621,7 +606,7 @@ Module CSS
 }
 
 
-/* align */
+/* Suwariku Align CSS */
 
 .suwarikuAlignCenter {
   text-align: center;
@@ -648,7 +633,7 @@ Module CSS
 }
 
 
-/* margin */
+/* Suwariku Margin CSS */
 
 .suwarikuMt2xs {
   margin-top: 5px;
@@ -731,7 +716,7 @@ Module CSS
 }
 
 
-/* padding */
+/* Suwariku Padding CSS */
 
 .suwarikuPtop2xs {
   padding-top: 5px;
@@ -826,7 +811,7 @@ Module CSS
 }
 
 
-/* list */
+/* Suwariku List CSS */
 
 .suwarikuListDot>li {
   position: relative;
@@ -878,7 +863,7 @@ Module CSS
 }
 
 
-/* layout */
+/* Suwariku Layout CSS */
 
 .suwarikuContent {
   zoom: 1;
@@ -928,7 +913,7 @@ Module CSS
 }
 
 
-/* border */
+/* Suwariku Border CSS */
 
 .suwarikuBor {
   border: solid 1px #cccccc;
@@ -939,7 +924,7 @@ Module CSS
 }
 
 
-/* bg */
+/* Suwariku BG CSS */
 
 .suwarikuBgWhite {
   background-color: #ffffff;
@@ -959,13 +944,7 @@ Module CSS
 }
 
 
-/* box */
-
-
-/* table */
-
-
-/* btn */
+/* Suwariku Buttons CSS */
 
 button.suwarikuButton, input.suwarikuButton, a.suwarikuButton, .suwarikuButton {
   position: relative;
@@ -1099,7 +1078,7 @@ button.suwarikuButtonSecondaryBack:before, input.suwarikuButtonSecondaryBack:bef
 }
 
 
-/* icon */
+/* Suwariku Icon CSS */
 
 .suwarikuIcon {
   display: inline-block;
@@ -1109,7 +1088,7 @@ button.suwarikuButtonSecondaryBack:before, input.suwarikuButtonSecondaryBack:bef
 }
 
 
-/* breadcrumb */
+/* Suwariku Breadcrumbs CSS */
 
 .suwarikuBreadcrumbWrap {
   max-width: 1600px;
@@ -1156,8 +1135,7 @@ button.suwarikuButtonSecondaryBack:before, input.suwarikuButtonSecondaryBack:bef
   text-decoration: none;
 }
 
-
-/* form */
+/* Suwariku Form CSS */
 
 input[type="text"].suwarikuInputText, input[type="email"].suwarikuInputText, textarea.suwarikuTextrea {
   -webkit-transition: 0.3s;
@@ -1579,7 +1557,7 @@ body.suwarikuCmsEditor .wp-caption.aligncenter, body.suwarikuCmsEditor .wp-capti
 }
 
 
-/* Slider */
+/* Suwariku Slider CSS */
 
 .slick-slider {
   position: relative;
@@ -1680,9 +1658,7 @@ body.suwarikuCmsEditor .wp-caption.aligncenter, body.suwarikuCmsEditor .wp-capti
 }
 
 
-/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-base
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+/* Suwariku Base CSS */
 
 html {
   -webkit-font-smoothing: antialiased;
@@ -1793,15 +1769,7 @@ video {
   color: #1e1e1e;
 }
 
-
-/* 
-Common CSS
-======================================================================= */
-
-
-/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-header
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+/* Suwariku Header CSS */
 
 .suwarikuHeader {
   position: fixed;
@@ -1914,8 +1882,7 @@ header
 }
 
 
-/* footer
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+/* Suwariku Footer CSS */
 
 .suwarikuFooter {
   background-color: #021F49;
@@ -2120,8 +2087,7 @@ header
 }
 
 
-/* Common CSS
-======================================================================= */
+/* Suwariku Common CSS */
 
 .suwarikuBorTitle {
   position: relative;
@@ -2284,8 +2250,7 @@ header
 }
 
 
-/* Home CSS
-======================================================================= */
+/* Suwariku Page Home CSS */
 
 .suwarikuHome.suwarikuNoScroll {
   overflow: hidden;
@@ -3062,8 +3027,7 @@ header
 }
 
 
-/* About CSS
-======================================================================= */
+/* Suwariku Page About CSS */
 
 .suwarikuAboutIndexMv {
   position: relative;
@@ -3333,8 +3297,7 @@ header
   line-height: 30px;
 }
 
-/* Public Notice CSS
-======================================================================= */
+/* Suwariku Public Notice CSS */
 
 .suwarikuPublicNoticeLinks {
   border-top: solid 1px #e5e5e5;
@@ -3382,8 +3345,7 @@ header
 }
 
 
-/* History CSS
-======================================================================= */
+/* Suwariku History CSS */
 
 .suwarikuHistoryMv {
   position: relative;
@@ -3799,8 +3761,7 @@ header
 }
 
 
-/* Service / Warehouse CSS
-======================================================================= */
+/* Suwariku Service and Warehouse CSS */
 
 .suwarikuServiceWarehouseItem:nth-of-type(odd) {
   background-color: #f5f6f8;
@@ -3853,8 +3814,7 @@ header
 }
 
 
-/* Service / Warehouse Details CSS
-======================================================================= */
+/* Suwariku Service Details CSS */
 
 .suwarikuServiceWarehouseDetailSlider .slick-dots {
   margin-top: 40px;
@@ -4000,8 +3960,7 @@ header
 }
 
 
-/* Service / Real State CSS
-======================================================================= */
+/* Suwariku Real State CSS */
 
 .suwarikuServiceRealstateMain {
   display: -webkit-box;
@@ -4063,8 +4022,7 @@ header
 }
 
 
-/* Service / Real State Detail CSS
-======================================================================= */
+/* Suwariku Service Details CSS */
 
 .suwarikuServiceRealstateIntro {
   display: -webkit-box;
@@ -4199,8 +4157,7 @@ header
 }
 
 
-/* service / realestate / fukuyama-minami-3jo-building
-======================================================================= */
+/* Suwariku Real State CSS */
 
 .suwarikuServiceRealstateFm3bTitle {
   position: relative;
@@ -4400,8 +4357,7 @@ header
 }
 
 
-/* csr / detail
-======================================================================= */
+/* Suwariku CSR CSS */
 
 .suwarikuCsrDetailList {
   display: -webkit-box;
@@ -4418,11 +4374,6 @@ header
   margin-right: 35px;
   margin-bottom: 40px;
 }
-
-
-/* 
-csr / regional-contribution
-======================================================================= */
 
 .suwarikuCsrRcCol {
   display: -webkit-box;
@@ -4463,8 +4414,7 @@ csr / regional-contribution
 }
 
 
-/* links
-======================================================================= */
+/* Suwariku Links CSS */
 
 .suwarikuLinkListItem {
   display: -webkit-box;
@@ -4509,8 +4459,7 @@ csr / regional-contribution
 }
 
 
-/* contact-us
-======================================================================= */
+/* Suwariku Contact CSS */
 
 .suwarikuContactUsTel {
   display: -webkit-box;
@@ -4593,8 +4542,7 @@ csr / regional-contribution
 }
 
 
-/* topics
-======================================================================= */
+/* Suwariku Topics CSS */
 
 .suwarikuTopics {
   display: -webkit-box;
@@ -4724,8 +4672,7 @@ csr / regional-contribution
 }
 
 
-/* sitemap
-======================================================================= */
+/* Suwariku Sitemap CSS */
 
 .suwarikuSitemap {
   display: -webkit-box;
@@ -4837,16 +4784,12 @@ csr / regional-contribution
 }
 
 @media screen and (max-width: 767px) {
-  /* モジュール
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
-  /* sp only */
   .suwarikuAlignCPc {
     text-align: inherit;
   }
   .suwarikuPconly {
     display: none !important;
   }
-  /* text */
   .suwarikuText10 {
     font-size: 1rem;
   }
@@ -4957,7 +4900,6 @@ csr / regional-contribution
   .suwarikuOp:hover {
     opacity: 1;
   }
-  /* margin */
   .suwarikuMt2xs {
     margin-top: 5px;
   }
@@ -5012,7 +4954,6 @@ csr / regional-contribution
   .suwarikuMbtm4xl {
     margin-bottom: 50px;
   }
-  /* padding */
   .suwarikuPtop2xs {
     padding-top: 5px;
   }
@@ -5096,7 +5037,6 @@ csr / regional-contribution
     padding-left: 0;
     padding-right: 0;
   }
-  /* btn */
   button.suwarikuButton, input.suwarikuButton, a.suwarikuButton, .suwarikuButton {
     width: 100%;
     height: 50px;
@@ -5110,8 +5050,6 @@ csr / regional-contribution
     font-size: 1.4rem;
     width: 100%;
   }
-  /* icon */
-  /* breadcrumb */
   .suwarikuBreadcrumbWrap {
     max-width: inherit;
     padding: 20px;
@@ -5127,7 +5065,6 @@ csr / regional-contribution
     font-size: 1rem;
     right: .5em;
   }
-  /* form */
   input[type="text"].suwarikuInputText, textarea.suwarikuTextrea {
     width: 100%;
     padding: 10px;
@@ -5238,7 +5175,6 @@ csr / regional-contribution
 }
 
 @media screen and (max-width: 767px) {
-  /* base */
   a {
     -webkit-transition: none !important;
     -o-transition: none !important;
@@ -5252,8 +5188,6 @@ csr / regional-contribution
   a.suwarikuULine:hover {
     text-decoration: underline !important;
   }
-  /* 共通
-======================================================================= */
   body {
     font-size: 1.2rem;
   }
@@ -5303,10 +5237,6 @@ csr / regional-contribution
   .suwarikuHome .suwarikuHeader.is-active .suwarikuHeaderlogo svg .st1 {
     fill: #ffffff;
   }
-  /* Common CSS
-======================================================================= */
-  /* header
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
   .suwarikuHeader {
     height: 80px;
     background-color: #ffffff;
@@ -5528,8 +5458,6 @@ csr / regional-contribution
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
   }
-  /* ooter
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
   .suwarikuFooterinner {
     padding: 30px 20px;
     max-width: inherit;
@@ -5561,8 +5489,6 @@ csr / regional-contribution
 }
 
 @media screen and (max-width: 767px) {
-  /* Common CSS
-======================================================================= */
   .suwarikuBorTitle {
     padding-left: 20px;
     font-size: 2rem;
@@ -5641,8 +5567,6 @@ csr / regional-contribution
 }
 
 @media screen and (max-width: 767px) {
-  /* home
-======================================================================= */
   .suwarikuHomeIntroLogo {
     width: 80px;
   }
@@ -5925,8 +5849,6 @@ csr / regional-contribution
 }
 
 @media screen and (max-width: 767px) {
-  /* about
-======================================================================= */
   .suwarikuAboutIndexMvImage {
     margin-left: -20%;
     margin-right: -20%;
@@ -6000,8 +5922,6 @@ csr / regional-contribution
     width: 100%;
     margin-top: 40px;
   }
-  /* history
-======================================================================= */
   .suwarikuHistoryMv {
     background-image: url("../images/history/imgMv.jpg");
     background-position: 50%;
@@ -6115,8 +6035,6 @@ csr / regional-contribution
     margin-right: 0;
     margin-bottom: 20px;
   }
-  /* service
-======================================================================= */
   .suwarikuServiceMv {
     padding: 30px 20px;
   }
@@ -6138,8 +6056,6 @@ csr / regional-contribution
   .suwarikuServiceListContent {
     padding: 20px;
   }
-  /* service / warehouse
-======================================================================= */
   .suwarikuServiceWarehouseItemCol {
     display: block;
   }
@@ -6163,8 +6079,6 @@ csr / regional-contribution
   .suwarikuServiceWarehouseItemTitle:before {
     width: 4px;
   }
-  /* service / warehouse / detail
-======================================================================= */
   .suwarikuServiceWarehouseDetailSlider .slick-dots {
     margin-top: 20px;
     margin-right: -10px;
@@ -6220,8 +6134,6 @@ csr / regional-contribution
     margin-right: 20px;
     margin-bottom: 20px;
   }
-  /* service / realestate
-======================================================================= */
   .suwarikuServiceRealstateMain {
     display: block;
     padding: 20px;
@@ -6248,8 +6160,6 @@ csr / regional-contribution
     margin-right: 20px;
     width: calc(100% / 2 - 20px);
   }
-  /* service / realestate / detail
-======================================================================= */
   .suwarikuServiceRealstateIntro {
     display: block;
   }
@@ -6287,8 +6197,6 @@ csr / regional-contribution
   .suwarikuServiceRealstateCalendarText {
     line-height: 1.5;
   }
-  /* service / realestate / fukuyama-minami-3jo-building
-======================================================================= */
   .suwarikuServiceRealstateFm3bTitleText {
     width: 66.6%;
     left: 50%;
@@ -6426,8 +6334,6 @@ csr / regional-contribution
   .suwarikuServiceRealstateFacLinkContent {
     padding: 20px;
   }
-  /* csr / detail
-======================================================================= */
   .suwarikuCsrDetailList {
     margin-right: -20px;
     margin-bottom: -20px;
@@ -6437,8 +6343,6 @@ csr / regional-contribution
     margin-right: 20px;
     margin-bottom: 20px;
   }
-  /* csr / regional-contribution
-======================================================================= */
   .suwarikuCsrRcCol {
     display: block;
     margin-right: 0;
@@ -6462,8 +6366,6 @@ csr / regional-contribution
   .suwarikuCsrRcCol2Item+.suwarikuCsrRcCol2Item {
     margin-top: 40px;
   }
-  /* links
-======================================================================= */
   .suwarikuLinkListItem {
     display: block;
   }
@@ -6481,8 +6383,6 @@ csr / regional-contribution
   .suwarikuLinkListUrl:before {
     display: none;
   }
-  /* contact-us
-======================================================================= */
   .suwarikuContactUsTel {
     display: block;
   }
@@ -6528,8 +6428,6 @@ csr / regional-contribution
     margin-right: 0;
     margin-bottom: 20px;
   }
-  /* topics
-======================================================================= */
   .suwarikuTopics {
     display: block;
   }
@@ -6582,8 +6480,6 @@ csr / regional-contribution
   .suwarikuTopicsButtonItem+.suwarikuTopicsButtonItem {
     margin-top: 20px;
   }
-  /* sitemap
-======================================================================= */
   .suwarikuSitemap {
     display: block;
   }
