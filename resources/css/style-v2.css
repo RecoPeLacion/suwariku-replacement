@@ -664,7 +664,7 @@ hr {
   animation-delay: 0s;
 }
 
-.suwarikuHome-company {
+.suwarikuHomeCompany {
   margin-top: 150px;
 }
 
@@ -811,7 +811,7 @@ hr {
   justify-content: flex-end;
 }
 
-.suwarikuHomeServiceMainImage-inner {
+.suwarikuHomeServiceMainImageInner {
   position: relative;
   width: calc(448 / 744 * 100%);
   padding-bottom: 60px;
@@ -5466,7 +5466,7 @@ video {
     border-bottom-width: 4px;
     border-left-width: 8px;
   }
-  .suwarikuHome-company {
+  .suwarikuHomeCompany {
     margin-top: 75px;
   }
   .suwarikuHomeHistory {
@@ -5548,7 +5548,7 @@ video {
   .suwarikuHomeServiceMainContent {
     margin-top: -20%;
   }
-  .suwarikuHomeServiceMainImage-inner {
+  .suwarikuHomeServiceMainImageInner {
     width: calc(360 / 750 * 100%);
     padding-bottom: 35px;
   }

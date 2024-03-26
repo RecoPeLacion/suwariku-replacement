@@ -185,7 +185,7 @@ ua.ver = window.navigator.appVersion.toLowerCase();
 	addLoadBrowser(ankerSet);
 
 	//Header Menu
-	$('.suwarikuHeaderMenu').on("click",function(e){
+	$('.suwarikuHeadermenu').on("click",function(e){
 		e.preventDefault();
 		$(this).toggleClass('is-active');
 		$('.suwarikuHeader').toggleClass('is-active');

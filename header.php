@@ -82,7 +82,7 @@
 	<!-- リダイレクト処理　-->
 </head>
 <?php 
-$body_class = "suwariku-".basename( get_permalink() );
+$body_class = "suwarikuHome";
 if($body_class == "suwariku-www.suwariku.co.jp"){
 	$body_class = "suwarikuHome";
 }
