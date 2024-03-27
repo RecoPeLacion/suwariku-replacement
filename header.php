@@ -62,8 +62,6 @@
 	</title>
     <link rel="icon" href="<?php echo $fav; ?>">
 	<link rel="profile" href="http://gmpg.org/xfn/11">
-	<!-- <?php //if( is_singular() && pings_open( get_queried_object() ) ): ?>
-		<link rel="pingback" href="<?php //bloginfo( 'pingback_url' ); ?>"> -->
 
 	<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.0/jquery.validate.min.js"></script>
@@ -76,20 +74,7 @@
 			<?php
 		}
 	?>
-	<!-- リダイレクト処理 --->
-	<!-- <script type="text/javascript">
- 	 if (screen.width >= 767) {
-    	document.location = "http://pc.suwariku.co.jp/index.htm";
-  	}
-	</script> -->
-	<!-- リダイレクト処理　-->
 </head>
-<?php ;
-// $body_class = "suwarikuHome";
-// if($body_class == "suwariku-www.suwariku.co.jp"){
-// 	$body_class = "suwarikuHome";
-// }
-?>
 
 <body class="<?php if(is_front_page()) {echo 'suwarikuHome';}else {echo 'suwariku'.the_title();} ?> suwarikuIndex suwarikuNoScroll">
   <!-- Google Tag Manager (noscript) --><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
