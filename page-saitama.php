@@ -29,15 +29,15 @@ get_header();
 
 	<section>
 		<div class="suwarikuInner suwarikuPtopl suwarikuPBtml suwarikuTrMainImg">
-			<h2 class="suwarikuMtxl suwarikuLineTitle trans-pa"><span class="title">埼玉冷蔵倉庫</span></h2>
+			<h2 class="suwarikuMtxl suwarikuLineTitle suwarikuTransPa"><span class="title">埼玉冷蔵倉庫</span></h2>
 			<img src="<?php echo get_template_directory_uri(); ?>/resources/images/transportion/saitama.jpg">
 		</div>
 	</section>
 
 	<section>
 		<div class="suwarikuInner suwarikuPtopl suwarikuPBtml">
-			<h2 class="suwarikuMtxl suwarikuLineTitle trans-pa"><span class="title">ご挨拶</span></h2>
-			<div class="suwarikuGreetingBox trans-pa">
+			<h2 class="suwarikuMtxl suwarikuLineTitle suwarikuTransPa"><span class="title">ご挨拶</span></h2>
+			<div class="suwarikuGreetingBox suwarikuTransPa">
 				<div class="suwarikuGreetingBoxImg">
 					<img src="<?php echo get_template_directory_uri(); ?>/resources/images/transportion/chief_0602.jpg">
 				</div>
@@ -79,7 +79,7 @@ get_header();
 	</section>
 	<section>
 		<div class="suwarikuInner suwarikuPtopl suwarikuPBtml">
-			<h2 class="suwarikuMtxl suwarikuLineTitle trans-pa"><span class="title">アクセス</span></h2>
+			<h2 class="suwarikuMtxl suwarikuLineTitle suwarikuTransPa"><span class="title">アクセス</span></h2>
 			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3228.490665536495!2d139.45618047578182!3d35.98387597249113!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018d14799b0b805%3A0x2938b502f64ff3d5!2z44CSMzUwLTAxNjgg5Z-8546J55yM5q-U5LyB6YOh5bed5bO255S644GL44KP44GY44G-77yS5LiB55uu77yX!5e0!3m2!1sja!2sjp!4v1684655517255!5m2!1sja!2sjp" width=100%" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 		</div>
 	</section>
