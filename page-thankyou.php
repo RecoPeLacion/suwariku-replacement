@@ -38,7 +38,7 @@ get_header();
 		<hr class="suwarikuHr suwarikuMtl" />
 		<div class="suwarikuMtl">
 		<h2 class="suwarikuAlignCenter suwarikuText24">お問い合わせ、ありがとうございます。</h2>
-		<p class="suwarikuAlignCenter suwarikuText18 suwarikuMtxs">改めて、担当者よりご連絡させていただきますので、今しばらくお待ちください。<br>5営業日を過ぎても弊社からのご連絡がない場合は、<br>お手数ではございますが、確認のため弊社お問い合せ窓口にご連絡くださいませ。<br><a href="<?php bloginfo( 'charset' ); ?>">TOPページへ戻る</a></p>
+		<p class="suwarikuAlignCenter suwarikuText18 suwarikuMtxs">改めて、担当者よりご連絡させていただきますので、今しばらくお待ちください。<br>5営業日を過ぎても弊社からのご連絡がない場合は、<br>お手数ではございますが、確認のため弊社お問い合せ窓口にご連絡くださいませ。<br><a href="<?php bloginfo( 'home' ); ?>">TOPページへ戻る</a></p>
 	</div>
 </section>
 <?php

@@ -41,7 +41,10 @@
     <script type='text/javascript' src='https://code.jquery.com/jquery-migrate-1.4.1.min.js' id='jquery_migrate-js'></script>
 	<link rel="stylesheet" href="https://use.typekit.net/tsy7bnt.css">
 	<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/resources/css/common.css">
-	<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/resources/css/style-v2.css">
+	<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/resources/css/style-min.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Playball&display=swap" rel="stylesheet">
 	<meta name='robots' content='max-image-preview:large' />
 	<link rel='dns-prefetch' href='https://code.jquery.com' />
 	<link rel='dns-prefetch' href='https://s.w.org' />
