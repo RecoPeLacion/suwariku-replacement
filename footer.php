@@ -96,7 +96,7 @@
 	<!-- end of footer -->
   <script src="<?php echo get_template_directory_uri(); ?>/resources/js/lib-v1.js"></script>
   <script src="<?php echo get_template_directory_uri(); ?>/resources/js/slick.min-v1.js"></script>
-  <script src="<?php echo get_template_directory_uri(); ?>/resources/js/script-v1.js"></script>
+  <script src="<?php echo get_template_directory_uri(); ?>/resources/js/suwariku.js"></script>
 	<?php wp_footer(); ?>
 	<?php 
 		//$custom_js = get_option( 'theme_js' );
