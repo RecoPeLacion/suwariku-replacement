@@ -140,7 +140,7 @@ get_header();
 							alt="">
 					</div>
 					<div class="suwarikuServiceWarehouseItemColContent suwarikuTrafficBoxItemText suwarikuSpPa">
-						<h3 class="suwarikuServiceWarehouseItemTitle suwarikuFontB suwarikuText30 regional-title-line">御柱の看板</h3>
+						<h3 class="suwarikuServiceWarehouseItemTitle suwarikuFontB suwarikuText30 suwarikuRegionalTitleLine">御柱の看板</h3>
 						<div class="suwarikuServiceWarehouseItemContent suwarikuMt">
 							<p>平成28年に御柱祭が開催され、その時に作成した看板です。
 								「ようこそ、神の里へ」という文字とともに御柱に関わる皆様のお写真を頂戴し看板にさせていただきました。
@@ -150,7 +150,7 @@ get_header();
 				</div>
 				<div class="suwarikuTrafficBoxItem">
 					<div class="suwarikuServiceWarehouseItemColContent suwarikuTrafficBoxItemText suwarikuSpPa">
-						<h3 class="suwarikuServiceWarehouseItemTitle suwarikuFontB suwarikuText30 regional-title-line">新作花火</h3>
+						<h3 class="suwarikuServiceWarehouseItemTitle suwarikuFontB suwarikuText30 suwarikuRegionalTitleLine">新作花火</h3>
 						<div class="suwarikuServiceWarehouseItemContent suwarikuMt">
 							<p>諏訪湖花火大会は、日本一の打ち上げ数を誇っています。
 							</p>
@@ -169,7 +169,7 @@ get_header();
 							alt="">
 					</div>
 					<div class="suwarikuServiceWarehouseItemColContent suwarikuTrafficBoxItemText suwarikuSpPa">
-						<h3 class="suwarikuServiceWarehouseItemTitle suwarikuFontB suwarikuText30 regional-title-line">
+						<h3 class="suwarikuServiceWarehouseItemTitle suwarikuFontB suwarikuText30 suwarikuRegionalTitleLine">
 							地元小学校へのニュース掲示板（2014年）</h3>
 						<div class="suwarikuServiceWarehouseItemContent suwarikuMt">
 							<p>
@@ -180,7 +180,7 @@ get_header();
 				</div>
 				<div class="suwarikuTrafficBoxItem">
 					<div class="suwarikuServiceWarehouseItemColContent suwarikuTrafficBoxItemText">
-						<h3 class="suwarikuServiceWarehouseItemTitle suwarikuFontB suwarikuText30 regional-title-line">職場体験</h3>
+						<h3 class="suwarikuServiceWarehouseItemTitle suwarikuFontB suwarikuText30 suwarikuRegionalTitleLine">職場体験</h3>
 						<div class="suwarikuServiceWarehouseItemContent suwarikuMt">
 							<p>
 								長野市立川中島中学校の職場体験の受け入れをしました。
@@ -213,7 +213,7 @@ get_header();
 						<img src="<?php echo get_template_directory_uri(); ?>/resources/images/attempt/6s.png" alt="">
 					</div>
 					<div class="suwarikuServiceWarehouseItemColContent suwarikuTrafficBoxItemText">
-						<h3 class="suwarikuServiceWarehouseItemTitle suwarikuFontB suwarikuText30 s6-title-line">6S活動への取り組み</h3>
+						<h3 class="suwarikuServiceWarehouseItemTitle suwarikuFontB suwarikuText30 suwarikuS6TitleLine">6S活動への取り組み</h3>
 						<div class="suwarikuServiceWarehouseItemContent suwarikuMt">
 							<p>1.整理・・・必要のないものは処分する<br>
 								2.整頓・・・直ぐに活用できる置き方をする<br>

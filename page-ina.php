@@ -29,15 +29,15 @@ get_header();
 
 	<section>
 		<div class="suwarikuInner suwarikuPtopl suwarikuPBtml suwarikuTrMainImg">
-			<h2 class="suwarikuMtxl suwarikuLineTitle suwarikuTransPa"><span class="title">伊那営業所</span></h2>
+			<h2 class="suwarikuMtxl suwarikuLineTitle trans-pa"><span class="title">伊那営業所</span></h2>
 			<img src="<?php echo get_template_directory_uri(); ?>/resources/images/transportion/ina.jpg">
 		</div>
 	</section>
 
 	<section>
 		<div class="suwarikuInner suwarikuPtopl suwarikuPBtml">
-			<h2 class="suwarikuMtxl suwarikuLineTitle suwarikuTransPa"><span class="title">ご挨拶</span></h2>
-			<div class="suwarikuGreetingBox suwarikuTransPa">
+			<h2 class="suwarikuMtxl suwarikuLineTitle trans-pa"><span class="title">ご挨拶</span></h2>
+			<div class="suwarikuGreetingBox trans-pa">
 				<div class="suwarikuGreetingBoxImg">
 					<img src="<?php echo get_template_directory_uri(); ?>/resources/images/transportion/chief_08.jpg">
 				</div>
@@ -51,7 +51,7 @@ get_header();
 					<p class="suwarikuGreetingBoxTxtName">所長 原 義幸</p>
 				</div>
 			</div>
-			<p class="suwarikuText24 suwarikuTextlhl suwarikuFontSerif suwarikuAlignC suwarikuAlignCPc">
+			<p class="suwarikuText24 suwarikuTextlhl suwarikuFontSerif suwarikuAlignCenter suwarikuAlignCPc">
 				長野県南部伊那谷の低温食品物流をきめ細やかに対応しています！！
 			</p>
 			<table class="suwarikuTbl suwarikuMtxl suwarikuText16">
@@ -79,14 +79,14 @@ get_header();
 	</section>
 	<section>
 		<div class="suwarikuInner suwarikuPtopl suwarikuPBtml">
-			<h2 class="suwarikuMtxl suwarikuLineTitle suwarikuTransPa"><span class="title">アクセス</span></h2>
+			<h2 class="suwarikuMtxl suwarikuLineTitle trans-pa"><span class="title">アクセス</span></h2>
 			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3233.668350858967!2d137.91657907577599!3d35.85713497253102!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601ceffcd70d8a6f%3A0x6df8bb71d516b66d!2z44K544Ov44Oq44KvIOS8iumCo-WWtualreaJgA!5e0!3m2!1sja!2sjp!4v1684487352417!5m2!1sja!2sjp" width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 		</div>
 	</section>
 
 	<section id="iida">
 		<div class="suwarikuInner suwarikuPtopl suwarikuPBtml">
-			<h2 class="suwarikuMtxl suwarikuLineTitle suwarikuTransPa"><span class="title">飯田営業所</span></h2>
+			<h2 class="suwarikuMtxl suwarikuLineTitle trans-pa"><span class="title">飯田営業所</span></h2>
 			<img src="<?php echo get_template_directory_uri(); ?>/resources/images/transportion/iida.jpg">
 			<!-- <h3 class="m-service-warehouse-item-title m-font-b suwarikuText-30">飯田営業所</h3> -->
 			<table class="suwarikuTbl suwarikuMtxl suwarikuText16">
@@ -113,7 +113,7 @@ get_header();
 					<td>喫煙所、休憩所</td>
 				</tr>
 			</table>
-			<h2 class="suwarikuMtxl suwarikuLineTitle suwarikuTransPa"><span class="title">アクセス</span></h2>
+			<h2 class="suwarikuMtxl suwarikuLineTitle trans-pa"><span class="title">アクセス</span></h2>
 			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3247.959434641365!2d137.84328627576005!3d35.50528127264451!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601c9bd4264b9583%3A0x44344ac759df66c2!2z44CSMzk1LTA4MTEg6ZW36YeO55yM6aOv55Sw5biC5p2-5bC-5LiK5rqd77yS77yZ77yR77yQ4oiS77yT77yQ!5e0!3m2!1sja!2sjp!4v1684488032265!5m2!1sja!2sjp" width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>		</div>
 	</section>
 

@@ -16,7 +16,7 @@ get_header();
 ?>
 		<main class="suwarikuContainer">
 			<div class="suwarikuContentTitle">
-				<h1 class="suwarikuContentTitle-text">お知らせ<span class="en">INFORMATION</span></h1>
+				<h1 class="suwarikuContentTitleText">お知らせ<span class="en">INFORMATION</span></h1>
 			</div>
 			<div class="suwarikuBreadcrumbWrap">
 				<ol class="suwarikuBreadcrumb">

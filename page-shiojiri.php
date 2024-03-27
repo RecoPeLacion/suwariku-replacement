@@ -29,15 +29,15 @@ get_header();
 
 	<section>
 		<div class="suwarikuInner suwarikuPtopl suwarikuPBtml suwarikuTrMainImg">
-			<h2 class="suwarikuMtxl suwarikuLineTitle suwarikuTransPa"><span class="title">松本営業所</span></h2>
+			<h2 class="suwarikuMtxl suwarikuLineTitle trans-pa"><span class="title">松本営業所</span></h2>
 			<img src="<?php echo get_template_directory_uri(); ?>/resources/images/transportion/matsumoto.jpg">
 		</div>
 	</section>
 
 	<section>
 		<div class="suwarikuInner suwarikuPtopl suwarikuPBtml">
-			<h2 class="suwarikuMtxl suwarikuLineTitle suwarikuTransPa"><span class="title">ご挨拶</span></h2>
-			<div class="suwarikuGreetingBox suwarikuTransPa">
+			<h2 class="suwarikuMtxl suwarikuLineTitle trans-pa"><span class="title">ご挨拶</span></h2>
+			<div class="suwarikuGreetingBox trans-pa">
 				<div class="suwarikuGreetingBoxImg">
 					<!-- <img src="<?php echo get_template_directory_uri(); ?>/resources/images/transportion/chief_02.png"> -->
 					<img src="<?php echo get_template_directory_uri(); ?>/resources/images/transportion/chief_02.jpg">
@@ -52,7 +52,7 @@ get_header();
 					<p class="suwarikuGreetingBoxTxtName">所長 藤澤 一教</p>
 				</div>
 			</div>
-			<p class="suwarikuText24 suwarikuTextlhl suwarikuFontSerif suwarikuAlignC suwarikuAlignCPc suwarikuTransPa">
+			<p class="suwarikuText24 suwarikuTextlhl suwarikuFontSerif suwarikuAlignCenter suwarikuAlignCPc trans-pa">
 				長野県の中心に位置する利便性を活用し、冷蔵・冷凍品は、松本低温センターで、<br class="suwarikuPconly">精密製品・部品は、塩尻センターで、県内全域に共同配送物流を行っています。
 			</p>
 			<table class="suwarikuTbl suwarikuMtxl suwarikuText16">
@@ -86,14 +86,14 @@ get_header();
 	</section>
 	<section>
 		<div class="suwarikuInner suwarikuPtopl suwarikuPBtml">
-			<h2 class="suwarikuMtxl suwarikuLineTitle suwarikuTransPa"><span class="title">アクセス</span></h2>
+			<h2 class="suwarikuMtxl suwarikuLineTitle trans-pa"><span class="title">アクセス</span></h2>
 			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3264.683655608965!2d137.95966169744435!3d36.197257281483544!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601d0f083bd896d5%3A0x4fc4e42f18879055!2z44CSMzk5LTAwMDQg6ZW36YeO55yM5p2-5pys5biC5biC5aC077yR77yQ4oiS77yTIOODnuODq-OCpOODgeeUo-WVhuadvuacrOeVnOeUo-mDqA!5e0!3m2!1sja!2sjp!4v1684484557051!5m2!1sja!2sjp" width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 		</div>
 	</section>
 	<section id="shiojiri">
 		<div class="suwarikuInner suwarikuPtopl suwarikuPBtml">
 			<!-- <h3 class="m-service-warehouse-item-title m-font-b suwarikuText-30">塩尻営業所</h3> -->
-			<h2 class="suwarikuMtxl suwarikuLineTitle suwarikuTransPa"><span class="title">塩尻営業所</span></h2>
+			<h2 class="suwarikuMtxl suwarikuLineTitle trans-pa"><span class="title">塩尻営業所</span></h2>
 			<img src="<?php echo get_template_directory_uri(); ?>/resources/images/transportion/shiojiri.jpg">
 			<table class="suwarikuTbl suwarikuMtxl suwarikuText16">
 				<tr>
@@ -110,7 +110,7 @@ get_header();
 					<td>喫煙所、休憩所</td>
 				</tr>
 			</table>
-			<h2 class="suwarikuMtxl suwarikuLineTitle suwarikuTransPa"><span class="title">アクセス</span></h2>
+			<h2 class="suwarikuMtxl suwarikuLineTitle trans-pa"><span class="title">アクセス</span></h2>
 			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3222.057715114191!2d137.9516310757887!3d36.14080797244248!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601d05059cca2be5%3A0x6f7684eeea306f7f!2z5pel6YCa77yu77yl77yj44Ot44K444K544OG44Kj44Kv44K577yI5qCq77yJ6ZW36YeO5Za25qWt5omA!5e0!3m2!1sja!2sjp!4v1684484929957!5m2!1sja!2sjp" width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 		</div>
 	</section>

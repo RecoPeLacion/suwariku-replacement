@@ -104,12 +104,12 @@ get_header();
       <div class="suwarikuHomeHistoryMvItem"> <img src="<?php echo get_template_directory_uri(); ?>/resources/images/index/history02.jpg" width="532" height="476" alt=""> </div>
       <div class="suwarikuHomeHistoryMvItem"> <img src="<?php echo get_template_directory_uri(); ?>/resources/images/index/history01.jpg" width="532" height="476" alt=""> </div>
       <div class="suwarikuHomeHistoryMvItem suwarikuHomeHistoryMvItemTitle">
-        <h2 class="suwarikuHomeTitle"> <span class="en suwarikuFontEn">HISTORY</span> <span class="ja suwarikucolorWh">スワリクの歩み</span> </h2>
+        <h2 class="suwarikuHomeTitle"> <span class="en suwarikuFontEn">HISTORY</span> <span class="ja suwarikuColorWh">スワリクの歩み</span> </h2>
       </div>
     </div>
     <div class="suwarikuInner">
       <div class="suwarikuHomeHistoryContent">
-        <p class="suwarikuText18 suwarikuTextlhl suwarikucolorWh suwarikuJsHomeAnimaItem"> スワリクは昭和47年に小池朝敦によって創業致しました。<br>当初は常温の一般貨物を中心にトラック5台で出発し、長野県内のお客様のニーズにより輸配送業務を拡大して参りました。創業から50年、長野県に8拠点、関東圏に3拠点を有し冷凍冷蔵の食品物流を中心に精密機械に至るまでお客様のご要望にお応え致します。</p>
+        <p class="suwarikuText18 suwarikuTextlhl suwarikuColorWh suwarikuJsHomeAnimaItem"> スワリクは昭和47年に小池朝敦によって創業致しました。<br>当初は常温の一般貨物を中心にトラック5台で出発し、長野県内のお客様のニーズにより輸配送業務を拡大して参りました。創業から50年、長野県に8拠点、関東圏に3拠点を有し冷凍冷蔵の食品物流を中心に精密機械に至るまでお客様のご要望にお応え致します。</p>
         <!--<a href="<?php //bloginfo('url'); 
                       ?>/history/" class="suwarikuMtl Suwarikubtn">スワリクの歩みを見る</a> -->
       </div>
@@ -160,7 +160,7 @@ get_header();
           <div class="suwarikuHomeServiceMainItem suwarikuJsHomeAnima">
             <a href="<?php bloginfo('url'); ?>/service/#warehouse">
               <h3 class="suwarikuHomeTitleS"> <span class="ja">常温 冷凍 冷蔵倉庫業</span> <span class="en suwarikuFontEn">WAREHOUSE</span> </h3>
-              <p class="suwarikuMt suwarikuText18 suwarikucolorWh">私達スワリクの基幹業務の一つは、冷凍冷蔵倉庫です。生活に必要不可欠である食品の流通を確保するのが私たちの使命です。私達は倉庫業を通じて皆様の生活を支え続けます。</p>
+              <p class="suwarikuMt suwarikuText18 suwarikuColorWh">私達スワリクの基幹業務の一つは、冷凍冷蔵倉庫です。生活に必要不可欠である食品の流通を確保するのが私たちの使命です。私達は倉庫業を通じて皆様の生活を支え続けます。</p>
             </a>
           </div>
         </div>
@@ -224,7 +224,7 @@ get_header();
           <div class="suwarikuHomeServiceMainItem suwarikuJsHomeAnimaItem">
             <a href="<?php bloginfo('url'); ?>/service/#transportation">
               <h3 class="suwarikuHomeTitleS"> <span class="ja">輸配送業務</span> <span class="en suwarikuFontEn">TRANSPORTATION</span> </h3>
-              <p class="suwarikuMt suwarikuText18 suwarikucolorWh">日本国内では物流の殆どをトラック輸送に依存しております。私達はお客様のために24時間、365日運び続けます。私達はお客様の物流部門です。</p>
+              <p class="suwarikuMt suwarikuText18 suwarikuColorWh">日本国内では物流の殆どをトラック輸送に依存しております。私達はお客様のために24時間、365日運び続けます。私達はお客様の物流部門です。</p>
             </a>
           </div>
         </div>

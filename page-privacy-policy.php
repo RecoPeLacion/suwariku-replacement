@@ -28,7 +28,7 @@ get_header();
 <section>
 	<div class="suwarikuInner suwarikuPtopxl suwarikuPBtm3xl">
 		<div class="suwarikuPrivacyPolicyMainDescribe">
-			<p class="suwarikuText18 suwarikuAlignC">株式会社スワリク（以下、「当社」といいます。）は、<br>
+			<p class="suwarikuText18 suwarikuAlignCenter">株式会社スワリク（以下、「当社」といいます。）は、<br>
 本ウェブサイト上で提供するサービス（以下、「本サービス」といいます。）における、<br>
 ユーザーの個人情報の取扱いについて、以下のとおり<br>
 プライバシーポリシー（以下、「本ポリシー」といいます。）を定めます。</p>

@@ -81,14 +81,14 @@
 	</script> -->
 	<!-- リダイレクト処理　-->
 </head>
-<?php 
-$body_class = "suwarikuHome";
-if($body_class == "suwariku-www.suwariku.co.jp"){
-	$body_class = "suwarikuHome";
-}
+<?php ;
+// $body_class = "suwarikuHome";
+// if($body_class == "suwariku-www.suwariku.co.jp"){
+// 	$body_class = "suwarikuHome";
+// }
 ?>
 
-<body class="<?php echo $body_class;?> suwarikuIndex suwarikuNoScroll">
+<body class="<?php if(is_front_page()) {echo 'suwarikuHome';}else {echo 'suwariku'.the_title();} ?> suwarikuIndex suwarikuNoScroll">
   <!-- Google Tag Manager (noscript) --><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
   <div id="suwarikuWrap">

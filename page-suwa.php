@@ -29,15 +29,15 @@ get_header();
 
 	<section>
 		<div class="suwarikuInner suwarikuPtopl suwarikuPBtml suwarikuTrMainImg">
-			<h2 class="suwarikuMtxl suwarikuLineTitle suwarikuTransPa"><span class="title">諏訪物流センター</span></h2>
+			<h2 class="suwarikuMtxl suwarikuLineTitle trans-pa"><span class="title">諏訪物流センター</span></h2>
 			<img src="<?php echo get_template_directory_uri(); ?>/resources/images/transportion/suwa.jpg">
 		</div>
 	</section>
 
 	<section>
 		<div class="suwarikuInner suwarikuPtopl suwarikuPBtml">
-			<!-- <h2 class="suwarikuMtxl suwarikuLineTitle suwarikuTransPa"><span class="title">諏訪物流</span></h2> -->
-			<!-- <div class="greeting-box suwarikuTransPa">
+			<!-- <h2 class="suwarikuMtxl suwarikuLineTitle trans-pa"><span class="title">諏訪物流</span></h2> -->
+			<!-- <div class="greeting-box trans-pa">
 				<div class="greeting-box_img">
 					<img src="<?php echo get_template_directory_uri(); ?>/resources/images/transportion/chief_01.png">
 				</div>
@@ -50,7 +50,7 @@ get_header();
 					<p class="greeting-box_txt__name">所長 鷹野原 洋</p>
 				</div>
 			</div> -->
-			<p class="suwarikuText24 suwarikuTextlhl suwarikuFontSerif suwarikuAlignC suwarikuAlignCPc">
+			<p class="suwarikuText24 suwarikuTextlhl suwarikuFontSerif suwarikuAlignCenter suwarikuAlignCPc">
 				"東洋のスイス"と言われる精密部品工業が発展した風光明媚な諏訪にある常温物流センターです。<br class="suwarikuPconly">諏訪物流センターのお隣にあります日本通運（株）様と協力して、
 				保管業務・・輸出入通関業務・梱包業務を行なっております。<br class="suwarikuPconly">
 				また長野県内を初め、関東・中京への部品共配物流ストックポイントとして他頻度物流にも対応しております。<br class="suwarikuPconly">
@@ -73,10 +73,10 @@ get_header();
 				</tr>
 			</table>
 
-					<h2 class="suwarikuMtxl suwarikuLineTitle suwarikuTransPa"><span class="title">アクセス</span></h2>
+					<h2 class="suwarikuMtxl suwarikuLineTitle trans-pa"><span class="title">アクセス</span></h2>
 					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3226.8543171724596!2d138.0978782761137!3d36.023850772478596!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601c55dd56c38ecd%3A0x3967e307df7205c3!2z44CSMzkyLTAwMTYg6ZW36YeO55yM6KuP6Kiq5biC6LGK55Sw77yR77yQ77yX77yQ!5e0!3m2!1sja!2sjp!4v1685087430973!5m2!1sja!2sjp" width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 			<div class="dc-center" id="suwa-second">
-				<h2 class="suwarikuMtxl suwarikuLineTitle suwarikuTransPa"><span class="title">諏訪低温物流センター</span></h2>
+				<h2 class="suwarikuMtxl suwarikuLineTitle trans-pa"><span class="title">諏訪低温物流センター</span></h2>
 				<img src="<?php echo get_template_directory_uri(); ?>/resources/images/transportion/suwa-02.jpg">
 				<div class="dc-center-box">
 					<table class="suwarikuTbl suwarikuMtxl suwarikuText16">
@@ -114,7 +114,7 @@ get_header();
 	</section>
 	<section>
 		<div class="suwarikuInner suwarikuPtopl suwarikuPBtml">
-			<h2 class="suwarikuMtxl suwarikuLineTitle suwarikuTransPa"><span class="title">アクセス</span></h2>
+			<h2 class="suwarikuMtxl suwarikuLineTitle trans-pa"><span class="title">アクセス</span></h2>
 			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3226.821946706923!2d138.1001285757836!3d36.0246411724784!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601c55dd28026f1b%3A0xd1e7a1c1911516c0!2z44CSMzkyLTAwMTYg6ZW36YeO55yM6KuP6Kiq5biC6LGK55Sw77yR77yR77yV77yS!5e0!3m2!1sja!2sjp!4v1684657755013!5m2!1sja!2sjp" width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 		</div>
 	</section>

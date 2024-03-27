@@ -27,8 +27,8 @@ get_header();
 
 			<section id="a-movie">
 				<div class="suwarikuServiceMv">
-					<h2 class="suwarikuFontEn suwarikuText40 suwarikuColorYellow suwarikuAlignC">経営理念</h2>
-					<p class="suwarikuMt suwarikuAlignC suwarikuAlignCPc suwarikuColorWh suwarikuText18 suwarikuTextlhl">
+					<h2 class="suwarikuFontEn suwarikuText40 suwarikuColorYellow suwarikuAlignCenter">経営理念</h2>
+					<p class="suwarikuMt suwarikuAlignCenter suwarikuAlignCPc suwarikuColorWh suwarikuText18 suwarikuTextlhl">
 						私たちは、物流業務を通じて、<br class="suwarikuPconly">全従業員の物心両面の豊かさを実現すると共に、<br class="suwarikuPconly">お客様と社会の発展に貢献します。
 					</p>
 				</div>
@@ -78,11 +78,11 @@ get_header();
 
 			<section>
 				<div class="suwarikuInner suwarikuPtopl suwarikuPBtml">
-					<p class="suwarikuText24 suwarikuTextlhl suwarikuFontSerif suwarikuAlignC suwarikuAlignCPc">
+					<p class="suwarikuText24 suwarikuTextlhl suwarikuFontSerif suwarikuAlignCenter suwarikuAlignCPc">
 						私たちは倉庫業の使命である、<br class="suwarikuPconly">「生活に必要な物資を安全かつ効率的に保管することにより、<br class="suwarikuPconly">人々の生活に利便性と安定をもたらす。」ということに真剣に取り組み続けます。
 					</p>
 					<h2 class="suwarikuMtxl suwarikuLineTitle"><span class="title">物流センター一覧</span></h2>
-					<p class="suwarikuMtl suwarikuAlignC suwarikuAlignCPc suwarikuText18 suwarikuTextlhl">
+					<p class="suwarikuMtl suwarikuAlignCenter suwarikuAlignCPc suwarikuText18 suwarikuTextlhl">
 						常温・低温・冷凍の各品目の保管倉庫に加え、集荷-保管-仕分け-ピッキング-物流加工-配送の一環3PL業務を行っており、<br class="suwarikuPconly">荷主企業様のあらゆるニーズにお応えします。
 					</p>
 				</div>
@@ -250,11 +250,11 @@ get_header();
 
 			<section>
 				<div class="suwarikuInner suwarikuPtopl suwarikuPBtml">
-					<p class="suwarikuText24 suwarikuTextlhl suwarikuFontSerif suwarikuAlignC suwarikuAlignCPc">
+					<p class="suwarikuText24 suwarikuTextlhl suwarikuFontSerif suwarikuAlignCenter suwarikuAlignCPc">
 						私たち輸送業の使命は、<br class="suwarikuPconly">お客様に滞りの無い物流を提供することです。<br class="suwarikuPconly">輸送、倉庫の一貫物流でお客様のサプライチェーンを創造します。
 					</p>
 					<h2 class="suwarikuMtxl suwarikuLineTitle"><span class="title">事業所一覧</span></h2>
-					<p class="suwarikuMtl suwarikuAlignC suwarikuAlignCPc suwarikuText18 suwarikuTextlhl">
+					<p class="suwarikuMtl suwarikuAlignCenter suwarikuAlignCPc suwarikuText18 suwarikuTextlhl">
 						常温・低温・冷凍の各品目の保管倉庫に加え、危険品倉庫ならびに文書箱保管倉庫を備えており、<br class="suwarikuPconly">荷主企業のあらゆるニーズにお応えします。
 					</p>
 				</div>
@@ -397,7 +397,7 @@ get_header();
 
 			<section>
 				<div class="suwarikuInner suwarikuPtopl suwarikuPBtml">
-					<p class="suwarikuText24 suwarikuTextlhl suwarikuFontSerif suwarikuAlignC suwarikuAlignCPc">
+					<p class="suwarikuText24 suwarikuTextlhl suwarikuFontSerif suwarikuAlignCenter suwarikuAlignCPc">
 						輸出入通関業務、太陽光発電<br class="suwarikuPconly">「生活に必要な物資を安全かつ効率的に保管することにより、<br class="suwarikuPconly">人々の生活に利便性と安定をもたらす。」ということに真剣に取り組み続けます。
 					</p>
 				</div>

@@ -29,15 +29,15 @@ get_header();
 
 	<section>
 		<div class="suwarikuInner suwarikuPtopl suwarikuPBtml suwarikuTrMainImg">
-			<h2 class="suwarikuMtxl suwarikuLineTitle suwarikuTransPa"><span class="title">本社・諏訪営業所</span></h2>
+			<h2 class="suwarikuMtxl suwarikuLineTitle trans-pa"><span class="title">本社・諏訪営業所</span></h2>
 			<img src="<?php echo get_template_directory_uri(); ?>/resources/images/transportion/honsya.jpg">
 		</div>
 	</section>
 
 	<section>
 		<div class="suwarikuInner suwarikuPtopl suwarikuPBtml">
-			<h2 class="suwarikuMtxl suwarikuLineTitle suwarikuTransPa"><span class="title">ご挨拶</span></h2>
-			<div class="suwarikuGreetingBox suwarikuTransPa">
+			<h2 class="suwarikuMtxl suwarikuLineTitle trans-pa"><span class="title">ご挨拶</span></h2>
+			<div class="suwarikuGreetingBox trans-pa">
 				<div class="suwarikuGreetingBoxImg">
 					<!-- <img src="<?php echo get_template_directory_uri(); ?>/resources/images/transportion/chief_01.png"> -->
 					<img src="<?php echo get_template_directory_uri(); ?>/resources/images/transportion/chief_01.jpg">
@@ -52,7 +52,7 @@ get_header();
 					<p class="suwarikuGreetingBoxTxtName">所長 鷹野原 洋</p>
 				</div>
 			</div>
-			<p class="suwarikuText24 suwarikuTextlhl suwarikuFontSerif suwarikuAlignC suwarikuAlignCPc">
+			<p class="suwarikuText24 suwarikuTextlhl suwarikuFontSerif suwarikuAlignCenter suwarikuAlignCPc">
 				高原都市諏訪周辺で生産された精密部品から高原野菜などを、<br class="suwarikuPconly">常温倉庫、冷蔵倉庫を活用して、生産物流から消費物流まで一貫で対応！！
 			</p>
 			<table class="suwarikuTbl suwarikuMtxl suwarikuText16">
@@ -90,7 +90,7 @@ get_header();
 	</section>
 	<section>
 		<div class="suwarikuInner suwarikuPtopl suwarikuPBtml">
-			<h2 class="suwarikuMtxl suwarikuLineTitle suwarikuTransPa"><span class="title">アクセス</span></h2>
+			<h2 class="suwarikuMtxl suwarikuLineTitle trans-pa"><span class="title">アクセス</span></h2>
 			<iframe
 				src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3226.854316045344!2d138.1004532!3d36.0238508!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601c55dd56c38ecd%3A0x3967e307df7205c3!2z44CSMzkyLTAwMTYg6ZW36YeO55yM6KuP6Kiq5biC6LGK55Sw77yR77yQ77yX77yQ!5e0!3m2!1sja!2sjp!4v1684481629774!5m2!1sja!2sjp"
 				width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy"

@@ -29,7 +29,7 @@ get_header();
 
 	<section>
 		<div class="suwarikuInner suwarikuPtopl suwarikuPBtml suwarikuTrMainImg">
-			<h2 class="suwarikuMtxl suwarikuLineTitle suwarikuTransPa"><span class="title">長野営業所・長野低温物流センター</span></h2>
+			<h2 class="suwarikuMtxl suwarikuLineTitle trans-pa"><span class="title">長野営業所・長野低温物流センター</span></h2>
 			<!-- <img src="<?php echo get_template_directory_uri(); ?>/resources/images/transportion/nagano.png"> -->
 			<img src="<?php echo get_template_directory_uri(); ?>/resources/images/transportion/nagano_02.jpg">
 
@@ -38,8 +38,8 @@ get_header();
 
 	<section>
 		<div class="suwarikuInner suwarikuPtopl suwarikuPBtml">
-			<h2 class="suwarikuMtxl suwarikuLineTitle suwarikuTransPa"><span class="title">ご挨拶</span></h2>
-			<div class="suwarikuGreetingBox suwarikuTransPa">
+			<h2 class="suwarikuMtxl suwarikuLineTitle trans-pa"><span class="title">ご挨拶</span></h2>
+			<div class="suwarikuGreetingBox trans-pa">
 				<div class="suwarikuGreetingBoxImg">
 					<!-- <img src="<?php echo get_template_directory_uri(); ?>/resources/images/transportion/chief_04.png"> -->
 					<img src="<?php echo get_template_directory_uri(); ?>/resources/images/transportion/chief_04.jpg">
@@ -54,7 +54,7 @@ get_header();
 					<p class="suwarikuGreetingBoxTxtName">所長　和田隆之</p>
 				</div>
 			</div>
-			<p class="suwarikuText24 suwarikuTextlhl suwarikuFontSerif suwarikuAlignC suwarikuAlignCPc">
+			<p class="suwarikuText24 suwarikuTextlhl suwarikuFontSerif suwarikuAlignCenter suwarikuAlignCPc">
 				スワリク最大の営業所として、長野県の東北信エリアの共同配送に最適です！！<br class="suwarikuPconly">女性が活躍する明るい職場で、優しく活気あふれる物流を展開中！！
 			</p>
 			<table class="suwarikuTbl suwarikuMtxl suwarikuText16">
@@ -88,7 +88,7 @@ get_header();
 				</tr>
 			</table>
 			<div class="suwarikuDcCenter">
-				<h2 class="suwarikuMtxl suwarikuLineTitle suwarikuTransPa"><span class="title">長野低温物流センター</span></h2>
+				<h2 class="suwarikuMtxl suwarikuLineTitle trans-pa"><span class="title">長野低温物流センター</span></h2>
 				<!-- <h3 class="m-service-warehouse-item-title m-font-b suwarikuText-30">長野低温物流センター</h3> -->
 				<img src="<?php echo get_template_directory_uri(); ?>/resources/images/transportion/nagano_01.jpg">
 
@@ -122,7 +122,7 @@ get_header();
 	</section>
 	<section>
 		<div class="suwarikuInner suwarikuPtopl suwarikuPBtml">
-			<h2 class="suwarikuMtxl suwarikuLineTitle suwarikuTransPa"><span class="title">アクセス</span></h2>
+			<h2 class="suwarikuMtxl suwarikuLineTitle trans-pa"><span class="title">アクセス</span></h2>
 			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3203.115114081414!2d138.18750421744383!3d36.5995365!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601d845a980591c5%3A0xbfd3de7e59be280f!2z44CSMzgxLTIyMTIg6ZW36YeO55yM6ZW36YeO5biC5bCP5bO255Sw55S677yR77yY77yY77yRIOOBiuOCguOBqOaApemAgQ!5e0!3m2!1sja!2sjp!4v1685084879113!5m2!1sja!2sjp" width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 		</div>
 	</section>

@@ -66,7 +66,7 @@ get_header();
 							<td>各種社会保険：厚生年金保険、健康保険、労災保険、雇用保険<br>その他：退職金制度（共済加入）、大型・中型免許取得補助制度、シャワールーム完備（本社・伊那・長野）</td>
 						</tr>
 					</table>
-					<a href="<?php bloginfo('url'); ?>/contact/" class="Suwarikubtn Suwarikubtn--bu Suwarikubtn--center suwarikuMt">応募する</a>
+					<a href="<?php bloginfo('url'); ?>/contact/" class="suwarikuButton suwarikuButton--bu suwarikuButtonCenter suwarikuMt">応募する</a>
 				</div>
 			</section>
 
@@ -111,7 +111,7 @@ get_header();
 							<td>各種社会保険：厚生年金保険、健康保険、労災保険、雇用保険<br>その他：退職金制度（共済加入）、大型・中型免許取得補助制度、シャワールーム完備（本社・伊那・長野）</td>
 						</tr>
 					</table>
-					<a href="<?php bloginfo('url'); ?>/contact/" class="Suwarikubtn Suwarikubtn--bu Suwarikubtn--center suwarikuMt">応募する</a>
+					<a href="<?php bloginfo('url'); ?>/contact/" class="suwarikuButton suwarikuButton--bu suwarikuButtonCenter suwarikuMt">応募する</a>
 				</div>
 			</section>
 		</main>
